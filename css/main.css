@@ -51,8 +51,8 @@
 
     --button-bg-color: #131313;
     --button-color: #dfd0d0;
-    --button-hover-bg-color: #242424;
-    --button-active-color: #464646;
+    --button-bg-hover-color: #242424;
+    --button-bg-active-color: #464646;
     --button-border-color: #959595;
 
     --blockquote-bg-color: #1e1e1e;
