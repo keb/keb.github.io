@@ -14,8 +14,7 @@
     --bg-color: #fdfdfd;
 
     --link-color: #4e5192;
-    --link-hover-color: var(--bg-color);
-    --link-hover-bg-color: var(--link-color);
+    --link-hover-color: #30325b;
 
     --code-color: white;
     --code-bg-color: #202020;
@@ -40,8 +39,7 @@
     --color: #ccc;
 
     --link-color: #878fb9;
-    --link-hover-color: var(--bg-color);
-    --link-hover-bg-color: var(--link-color);
+    --link-hover-color: #d5dcff;
 
     --line-color: #333;
 
@@ -128,7 +126,7 @@ a {
 a:focus,
 a:hover {
     color: var(--link-hover-color);
-    background-color: var(--link-hover-bg-color);
+    border-bottom: 1px solid var(--link-hover-color);
 }
 ul li {
     word-wrap: break-word;
@@ -216,7 +214,7 @@ hr {
 }
 .zola-anchor {
     position: absolute;
-    margin-left: -20px;
+    margin-left: -22px;
     opacity: 0.1;
     border-bottom: 0;
     box-shadow: 0 0 0;
