@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="controls p1">
+        <a href="https://github.com/keb/keb.github.io/new/master/content">new</a>
+    </div>
+
+    <header class="flex flex-wrap items-center justify-between site-header">
+        <div class="col col-12 md-col-3">
+            <img src="{{ get_url(path="img/pic.jpg") }}" alt="pic" class="rounded">
+        </div>
+        <div class="col col-12 md-col-3 site-header__left">
+            <div>
+                <h1 class="keb-header p0 m0" title="Discord ID">
+                    keb<small class="discord-tag">#2245</small>
+                </h1>
+                <a href="mailto:keb@sheev.net">keb@sheev.net</a>
+            </div>
+
+            <div class="bookmarks">
+                <div>
+                    <a href="/wishlist">wishlist</a>
+                </div>
+                <div>
+                    <a href="/backlog">backlog</a>
+                </div>
+                <div>
+                    <a href="/games">games</a>
+                </div>
+            </div>
+        </div>
+        <div class="col col-12 md-col-6">
+            <ul class="pl2">
+                <li><a href="https://github.com/keb">github.com/keb</a></li>
+                <li><a href="https://keb.itch.io/">keb.itch.io</a></li>
+                <li><a href="https://www.last.fm/user/kebfm">last.fm/user/kebfm</a></li>
+                <li><a href="https://www.gog.com/u/kebg">gog.com/u/kebg</a></li>
+                <li><a href="https://steamcommunity.com/id/kebsteam">steamcommunity.com/id/kebsteam</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="line"></div>
+
+    <section class="py1">
+        {% for post in section.pages | slice(start=0, end=6) %}
+            <article class="archive-link">
+                <time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time>
+                -
+                <header style="display: inline;"><a href="{{ post.permalink }}">{{ post.title }}</a></header>
+            </article>
+        {% endfor %}
+    <section class="py1">
+
+    <nav class="py1">
+        <a href="/archive/">archive →</a>
+    </nav>
+{% endblock content %}

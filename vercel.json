@@ -1,0 +1,12 @@
+{
+    "name": "keb",
+    "alias": "keb.now.sh",
+    "version": 2,
+    "redirects": [
+        { 
+            "source": "/*",
+            "destination": "https://keb.sheev.net", 
+            "permanent": true
+        }
+    ]
+}

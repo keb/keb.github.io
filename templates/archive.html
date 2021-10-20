@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <header class="h4 py2">
+        <a href="/">← home</a>
+    </header>
+    {% set section = get_section(path="_index.md") %}
+    {% for post in section.pages %}
+        <article class="archive-link">
+            <time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time>
+            -
+            <header style="display: inline;"><a href="{{ post.permalink }}">{{ post.title }}</a></header>
+        </article>
+    {% endfor %}
+{% endblock content %}

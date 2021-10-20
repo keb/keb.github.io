@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="plumber killer" >
+    <link rel="shortcut icon" href="{{ get_url(path="img/favicon.png") }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ get_url(path="css/main.css") }}">
+    {% block rss %}
+      <link rel="alternate" type="application/atom+xml" title="RSS" href='{{ get_url(path="atom.xml", trailing_slash=false) }}'>
+    {% endblock %}
+    <title>
+        {% if section.title %}
+            {{ section.title }}
+        {% elif page.title %}
+            {{ page.title }}
+        {% else %}
+            {{ config.extra.title }}
+        {% endif %}
+    </title>
+</head>
+<body>
+    <div class="dark-mode-container">
+          <input style="display: none;" type="checkbox" id="darkSwitch" />
+          <label class="dark-mode-btn" for="darkSwitch">🌒</label>
+    </div>
+    <main class="fade-in max-width-3 mx-auto">
+        {% block content %}{% endblock content %}
+    </main>
+    <script src="{{ get_url(path="js/dark-mode-switch.min.js") }}"></script>
+    {% block scripts %}{% endblock scripts %}
+</body>
+</html>

@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <header class="h4 py2">
+        <a href="/">← home</a>
+    </header>
+    <h1>game library</h1>
+    <article class="page-content">
+        <p>This page contains my digital video game collection across multiple storefronts. The data is collected using a plugin for the <a href="https://playnite.link">Playnite</a> game launcher, which is then uploaded to a Github Gist.</p>
+        <div class="line"></div>
+
+        <form class="gamesearch-form">
+            <div class="input-group">
+                <input type="text" name="filter" aria-label="Search Library" placeholder="Search by Name or Store..." class="gamesearch-input">
+                <!-- <button class="gamesearch-clear" aria-label="Clear Filter">×</button> -->
+                <button class="gamesearch-submit" type="submit">Search</button>
+            </div>
+        </form>
+
+        <section class="gamelib-count">
+            0 games
+        </section>
+
+        <section class="gamelib">
+            <p style="text-align:center;font-family:monospace;">Loading Library...</p>
+        </section>
+    </article>
+
+    <div class="line"></div>
+    <footer class="mt2">
+        <small>
+            <a href="#">return to top</a>
+        </small>
+    </footer>
+{% endblock content %}
+
+{% block scripts %}
+    <script type="text/javascript" src="{{ get_url(path="js/lunr.min.js") }}"></script>
+    <script type="text/javascript" src="{{ get_url(path="js/gamelib.js") }}"></script>
+{% endblock scripts %}
