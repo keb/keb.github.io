@@ -18,6 +18,7 @@ date = 2019-06-02T14:21:19.433Z
 * Resident Evil: Code Veronica - *15h*
 * Resident Evil 2 Remake - *14h*
 * Resident Evil 7 - *12h*
+* Resident Evil Village - *11h*
 * Chrono Trigger - *30h*
 * Metroid Prime - *16h*
 * Metroid Prime 2 - *20h*
@@ -41,6 +42,7 @@ date = 2019-06-02T14:21:19.433Z
 * Dead Cells - *26h*
 * Bayonetta 2 - *13h*
 * Corpse Party - *12h*
+* Rez Infinite - *02h*
 * Donkey Kong Country Returns (Wii U) - *20h*
 * Donkey Kong Country: Tropical Freeze - *20h*
 * Pikmin - *09h*
@@ -66,6 +68,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy Tactics - *58h*
 * Sonic Mania - *09h*
 * OMORI
+* Jets'n'Guns 2 - *04h*
 * A Robot Named Fight! - *09h*
 * Radiant Historia - *40h*
 * Chrono Cross - *43h*
@@ -90,6 +93,7 @@ date = 2019-06-02T14:21:19.433Z
 * A Hat in Time - *13h*
 * Noita - *14h*
 * Live A Live - *20h*
+* Hades - *30h*
 * Mario & Luigi: Superstar Saga - *21h*
 * Mario & Luigi: Partners in Time - *20h*
 * Mario & Luigi: Bowser's Inside Story - *25h*
@@ -105,6 +109,9 @@ date = 2019-06-02T14:21:19.433Z
 * Axelay - *02h*
 * Castlevania: Bloodlines - *04h*
 * Castlevania: Aria of Sorrow - *08h*
+* Castlevania: Dawn of Sorrow - *10h*
+* Castlevania: Circle of the Moon - *11h*
+* Castlevania: Harmony of Dissonance - *11h*
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*
@@ -123,6 +130,7 @@ date = 2019-06-02T14:21:19.433Z
 * Mega Man 9
 * Mega Man 10
 * Mega Man 11
+* Mekazoo - *04h*
 * Super Time Force Ultra *06h*
 * Shantae and the Pirate's Curse - *09h*
 * Titanfall 2 - *08h*
@@ -177,6 +185,7 @@ date = 2019-06-02T14:21:19.433Z
 * They Bleed Pixels - *11h*
 * Wuppo: Definitive Edition - *11h*
 * Fight'N Rage - *10h*
+* killer7 - *15h*
 * Killer is Dead - *10h*
 * Samorost 3 - *05h*
 * Trine 4 - *10h*
@@ -232,6 +241,7 @@ date = 2019-06-02T14:21:19.433Z
 * XCOM: Enemy Within - *38h*
 * Prey + DLC - *40h*
 * Tales of Vesperia: Definitive Edition - *70h*
+* Crash Bandicoot™ N. Sane Trilogy - *22h*
 * Ogre Battle: The March of the Black Queen - *25h*
 * Ogre Battle 64: Person of Lordly Caliber - *66h*
 * Fire Emblem: Shadow Dragon - *25h*
@@ -248,6 +258,7 @@ date = 2019-06-02T14:21:19.433Z
 * Valkyria Chronicles 4 - *40h*
 * Ninja Gaiden Black - *17h*
 * Ninja Gaiden 2 - *18h*
+* Legend of Mana - *24h*
 * Octopath Traveler - *60h*
 * Chaos Seed - *60h*
 * Final Fantasy XIII - *62h*
@@ -288,6 +299,7 @@ date = 2019-06-02T14:21:19.433Z
 * Onimusha 3: Demon Siege - *14h*
 * Einhander - *02h*
 * Skies of Arcadia Legends - *52h*
+* Record of Lodoss War-Deedlit in Wonder Labyrinth- - *06h*
 * Professor Layton and the Curious Village - *14h*
 * Professor Layton and the Diabolical Box - *15h*
 * Professor Layton and the Unwound Future - *18h*
@@ -306,12 +318,24 @@ date = 2019-06-02T14:21:19.433Z
 * Binary Domain - *10h*
 * Blades of Time - *10h*
 * Cargo Commander - *12h*
+* Ninja Gaiden Sigma - *15h*
+* Ninja Gaiden Sigma 2 - *20h*
+* 20XX - *14h*
+* 30XX
+* AI: The Somnium Files - *20h*
+* Bravely Default - *60h*
+* Bravely Second: End Layer - *64h*
+* Bravely Default II - *64h*
+* Cyber Shadow - *11h*
 * Dead Rising 2: Off the Record - *18h*
 * Deus Ex: Mankind Divided - *30h*
 * My Time At Portia - *98h*
 * Eternal Sonata - *40h*
+* Ittle Dew - *06h*
+* Ittle Dew 2 - *10h*
 * Stardew Valley
 * Excitebike: Bun Bun Mario Battle
+* Fuga: Melodies of Steel - *22h*
 
 ## Co-Op (No particular order)
 
