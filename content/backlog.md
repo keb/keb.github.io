@@ -322,6 +322,8 @@ date = 2019-06-02T14:21:19.433Z
 * Ninja Gaiden Sigma 2 - *20h*
 * 20XX - *14h*
 * 30XX
+* SteamWorld Dig - *08h*
+* SteamWorld Dig 2 - *10h*
 * AI: The Somnium Files - *20h*
 * Bravely Default - *60h*
 * Bravely Second: End Layer - *64h*
