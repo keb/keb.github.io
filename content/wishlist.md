@@ -7,7 +7,7 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Devices
-* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand. Maybe a T480? idk.
+* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand. Maybe a T480? or a Framework Laptop. idk.
 * PolyMega Retro Game Station
 * NVIDIA Shield TV
 * Sega Saturn
@@ -16,7 +16,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Sony Trinitron
 
 ## Books
-* Crafting Interpreters by Bob Nystrom
+* A Common-Sense Guide to Data Structures and Algorithms, Second Edition - Jay Wengrow
 
 ## Software
 * VPS Credit from Linode
@@ -27,9 +27,10 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * [GOG Wishlist](https://www.gog.com/u/kebg/wishlist)
 * [Itch Wishlist](https://itch.io/c/426557/wishlist)
 * [Steam Wishlist](https://store.steampowered.com/wishlist/id/kebsteam/)
-* Nier: Automata Game of the Yorha Edition (PS4)
+* Nier: Automata Game of the Yorha Edition (PC or PS4)
 
 ## Vinyl
+* Disintegration by The Cure
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Hounds of Love by Kate Bush Vinyl
 
@@ -44,6 +45,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Crafting Interpreters by Bob Nystrom~~ Thanks Employer!
 * ~~Xperia XZ1 Compact or Galaxy S10e or Pixel 3a~~ *got a Pixel 5* Thanks Raf!
 * ~~Lapsang souchong~~ Thanks Iris!
 * ~~Yankee Hotel Foxtrot by Wilco Vinyl~~ Thanks Rob!
