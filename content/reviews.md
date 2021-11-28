@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Resident Evil 3: Nemesis (GameCube)
+  * **3/5** *(11/28/2021)* - One of the more average games in the franchise. The most noteworthy additions to the formula are the branching paths (although they are pretty superficial) and the dodge mechanic (which is often unreliable). Nemesis creates an interesting and nerve-wracking dynamic because he is the first RE enemy that can follow you past zones. Content-wise, this game is slim. The sections with Carlos were far too short and samey. Overall -- play it if you're really dying for some more RE action.
+
 ## Silent Hill 4: The Room
   * **2/5** *(10/09/2021)* - A survival horror game with PS2-era survival horror controls and quirks. Controls are floaty and imprecise; Henry often slides or turns awkwardly, and the auto lockon frequently has you pointing in unintended directions. Most of the items/weapons are completely useless -- in fact, the best way to play this game is to completely avoid all combat despite the designers regularly packing corridors with hordes of enemies. Aside from the garbage combat, Silent Hill 4 has some real nice visuals that have aged quite well. Some stunning art direction and genuinely spooky imagery. Sound design as usual for this series is impeccable (aside from some of the goofy enemy grunts). The unique premise of a man trapped inside his apartment gives way for one of the more interesting plots in a Silent Hill game.
 
