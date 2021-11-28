@@ -40,7 +40,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Mozilla shirt or mug
 * EFF shirt or mug
 * Wikimedia shirt or mug
-* Inverted Umbrella
 * Sonicare Electric Toothbrush
 
 ## Acquired
