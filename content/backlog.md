@@ -338,8 +338,9 @@ date = 2019-06-02T14:21:19.433Z
 * Excitebike: Bun Bun Mario Battle
 * Fuga: Melodies of Steel - *22h*
 
-## Co-Op (No particular order)
+## Multi-player (No particular order)
 
+* Splitgate
 * Path of Exile
 * Warhammer: Age of Reckoning ([Return of Reckoning Private Server](https://www.returnofreckoning.com/about.php))
 * SYNTHETIK: Arena
