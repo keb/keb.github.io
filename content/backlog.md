@@ -9,13 +9,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Resident Evil: Code Veronica - *15h*
+* Resident Evil 2 Remake - *14h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Resident Evil 2 Remake - *14h*
 * Resident Evil 7 - *12h*
 * Resident Evil Village - *11h*
 * Chrono Trigger - *30h*
