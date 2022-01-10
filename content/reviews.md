@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Resident Evil: Code Veronica (GameCube)
+  * **3/5** *(01/08/2021)* - Dreamcast-era Resident Evil. Impressive visuals (for the time) that finally bring *true* SEGA arcade-quality graphics to the RE series. Code Veronica is the first RE game to feature fully 3D-rendered environments. While I'm a big fan of the beautiful pre-rendered backgrounds of previous titles, I think the dynamic camera is definitely an improvement. This is the final Resident Evil game to feature pure, tank-controls RE gameplay. After CV, the series becomes even more action oriented. Still a few jumpscares here and there; environments are varied enough to not make backtracking too awful. Like RE3, one of the more average of the series. Bosses are almost non-existent and the ones that are there are boring.
+
 ## Resident Evil 3: Nemesis (GameCube)
   * **3/5** *(11/28/2021)* - One of the more average games in the franchise. The most noteworthy additions to the formula are the branching paths (although they are pretty superficial) and the dodge mechanic (which is often unreliable). Nemesis creates an interesting and nerve-wracking dynamic because he is the first RE enemy that can follow you past zones. Content-wise, this game is slim. The sections with Carlos were far too short and samey. Overall -- play it if you're really dying for some more RE action.
 
