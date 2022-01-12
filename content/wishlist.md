@@ -12,6 +12,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * PolyMega Retro Game Station
 * Sega Saturn
 * TurboGrafx-16 mini
+* Analogue Pocket
 * Sony Trinitron
 
 ## Books
