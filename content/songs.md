@@ -7,6 +7,13 @@ date = 2021-05-28T14:21:19.433Z
 
 Below is a list of songs that have had some profound effect on me. Will add more as I remember to.
 
+* Cerulean - Jon Hopkins
+* What Happened to My Brother - Mark Kozelek
+* Gustavo - Mark Kozelek
+* You Missed My Heart - Mark Kozelek
+* Original BGM - Harry Hosono
+* The Wheel (Is Turning Now) - Everything Everything
+* Yes - Aereogramme
 * Silvio Rodríguez - Te Doy Una Canción
 * Silvio Rodríguez - Adónde Van
 * Conscious Life For Coma Boy - Aereogramme 
