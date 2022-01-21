@@ -4,14 +4,13 @@ date = 2019-06-04T14:20:03.472Z
 +++
 # wishlist
 
-This is a wishlist of miscellaneous stuff I intend to get.
+This is a wishlist of miscellaneous stuff I want.
 
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
-* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand. Maybe a T480? or a Framework Laptop. idk.
 * PolyMega Retro Game Station
 * Sega Saturn
-* TurboGrafx-16 mini
+* TurboGrafx-16 Mini
 * Analogue Pocket
 * Sony Trinitron
 
