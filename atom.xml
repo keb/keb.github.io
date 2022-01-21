@@ -4,8 +4,19 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2021-10-16T14:21:19.433+00:00</updated>
+	<updated>2022-01-21T14:21:19.433+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>programmer</title>
+		<published>2022-01-21T14:21:19.433+00:00</published>
+		<updated>2022-01-21T14:21:19.433+00:00</updated>
+		<link href="/programmer/" type="text/html"/>
+		<id>/programmer/</id>
+		<content type="html">&lt;h1 id=&quot;programmer&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#programmer&quot; aria-label=&quot;Anchor link for: programmer&quot;&gt;#&lt;&#x2F;a&gt;programmer&lt;&#x2F;h1&gt;
+&lt;p&gt;Nothing makes a programmer happier than a fresh, clean codebase.&lt;&#x2F;p&gt;
+&lt;p&gt;Nothing makes a programmer sadder than that same codebase, but 6 months later.&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>woke</title>
 		<published>2021-10-16T14:21:19.433+00:00</published>
@@ -43,6 +54,13 @@
 		<content type="html">&lt;h1 id=&quot;songs&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#songs&quot; aria-label=&quot;Anchor link for: songs&quot;&gt;#&lt;&#x2F;a&gt;songs&lt;&#x2F;h1&gt;
 &lt;p&gt;Below is a list of songs that have had some profound effect on me. Will add more as I remember to.&lt;&#x2F;p&gt;
 &lt;ul&gt;
+&lt;li&gt;Cerulean - Jon Hopkins&lt;&#x2F;li&gt;
+&lt;li&gt;What Happened to My Brother - Mark Kozelek&lt;&#x2F;li&gt;
+&lt;li&gt;Gustavo - Mark Kozelek&lt;&#x2F;li&gt;
+&lt;li&gt;You Missed My Heart - Mark Kozelek&lt;&#x2F;li&gt;
+&lt;li&gt;Original BGM - Harry Hosono&lt;&#x2F;li&gt;
+&lt;li&gt;The Wheel (Is Turning Now) - Everything Everything&lt;&#x2F;li&gt;
+&lt;li&gt;Yes - Aereogramme&lt;&#x2F;li&gt;
 &lt;li&gt;Silvio Rodríguez - Te Doy Una Canción&lt;&#x2F;li&gt;
 &lt;li&gt;Silvio Rodríguez - Adónde Van&lt;&#x2F;li&gt;
 &lt;li&gt;Conscious Life For Coma Boy - Aereogramme &lt;&#x2F;li&gt;
