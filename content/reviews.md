@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Resident Evil 2 Remake
+  * **5/5** *(01/21/2022)* - A near-perfect re-imagining of the original while maintaining truly faithful survival horror gameplay. One criticism I do have is to allow players to use typewriters for saving on difficulties lower than Hardcore. Even then, I highly recommend playing this game on Hardcore mode for a more authentic experience. Visuals, voice-acting, and sound are some of the best I've seen in a video game to date.
+
 ## Resident Evil: Code Veronica (GameCube)
   * **2/5** *(01/08/2022)* - Dreamcast-era Resident Evil. Impressive visuals (for the time) that finally bring *true* SEGA arcade-quality graphics to the RE series. Code Veronica is the first RE game to feature fully 3D-rendered environments. While I'm a big fan of the beautiful pre-rendered backgrounds of previous titles, I think the dynamic camera is definitely an improvement. This is the final Resident Evil game to feature pure, tank-controls RE gameplay. After CV, the series becomes even more action oriented. Still a few jumpscares here and there; environments are varied enough to not make backtracking too awful. Like RE3, one of the more average of the series. Bosses are almost non-existent and the ones that are there are boring.
 
