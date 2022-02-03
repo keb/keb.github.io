@@ -7,6 +7,10 @@ date = 2021-05-28T14:21:19.433Z
 
 Below is a list of songs that have had some profound effect on me. Will add more as I remember to.
 
+* Close To Me - The Cure
+* Disintegration - The Cure
+* Pictures of You - The Cure
+* Closedown - The Cure
 * Cerulean - Jon Hopkins
 * What Happened to My Brother - Mark Kozelek
 * Gustavo - Mark Kozelek
