@@ -18,6 +18,7 @@ date = 2019-06-02T14:21:19.433Z
 * Resident Evil Village - *11h*
 * Chrono Trigger - *30h*
 * Metroid Prime - *16h*
+* Earthbound - *32h*
 * Metroid Prime 2 - *20h*
 * Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
@@ -51,7 +52,6 @@ date = 2019-06-02T14:21:19.433Z
 * Castlevania: Legacy of Darkness - *16h*
 * Toki Tori 2+ - *16h*
 * The Legend of Zelda: A Link Between Worlds - *20h*
-* Earthbound - *32h*
 * Mother 3 - *30h*
 * Alundra - *32h*
 * Vagrant Story - *33h*
