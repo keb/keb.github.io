@@ -12,7 +12,8 @@
 		<updated>2022-02-14T14:21:19.433+00:00</updated>
 		<link href="/bad-music/" type="text/html"/>
 		<id>/bad-music/</id>
-		<content type="html">&lt;p&gt;This is a list of songs I consider to be the worst I have ever heard. These songs have etched themselves in my memory for being particularly bad.&lt;&#x2F;p&gt;
+		<content type="html">&lt;h1 id=&quot;bad-music&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#bad-music&quot; aria-label=&quot;Anchor link for: bad-music&quot;&gt;#&lt;&#x2F;a&gt;bad music&lt;&#x2F;h1&gt;
+&lt;p&gt;This is a list of songs I consider to be the worst I have ever heard. These songs have etched themselves in my memory for being particularly bad.&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Solo - Iyaz&lt;&#x2F;li&gt;
 &lt;li&gt;Somebody Else Will - Justin Moore&lt;&#x2F;li&gt;
