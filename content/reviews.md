@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Resident Evil 7
+  * **3/5** *(02/14/2022)* - Resident Evil gets a first-person horror makeover, and it mostly works, but has plenty of misgivings that hold it back. To start, RE7 gives in to many of the survival horror tropes that became popular during the 2010s -- annoyingly dark camera, scripted first-person sequences, plenty of post-processing effects including the cliche VHS camera treatment, and to top it off, an awfully monotone color palette. Bosses have interesting designs, but often end in long-winded scripted sequences. Enemy variety is also virtually non-existent. On a positive note, the RE formula was actually very well translated to the change in perspective. The areas are mostly open and free to explore. Hidden items are everywhere and are actually possible to find using some in-game powerups. Voice acting and character animation are solid throughout, although the dialogue is at times non-sensical, and the plot is reduced to "evil demon child" by the game's midpoint. Also, Zoe's accent is terrible.
+
 ## Resident Evil 2 Remake
   * **5/5** *(01/21/2022)* - A near-perfect re-imagining of the original while maintaining truly faithful survival horror gameplay. One criticism I do have is to allow players to use typewriters for saving on difficulties lower than Hardcore. Even then, I highly recommend playing this game on Hardcore mode for a more authentic experience. Visuals, voice-acting, and sound are some of the best I've seen in a video game to date.
 
