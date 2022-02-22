@@ -159,6 +159,9 @@ A collection of (free) web books, guides, and references by category that I've f
 * [All About Circuits](https://www.allaboutcircuits.com/textbook/)
 	* *"Starts from the very basic fundamentals of electricity, and builds up to quite complex circuits and their workings."*
 
+* [All About Electronic Circuits for Kids](https://archive.md/WTsUc)
+	* *Not a book, but a short introduction to Electronic Circuits for kids, along with a collection of useful links accessible to young learners.*
+
 ## Literature
 
 * [Standard E-Books](https://standardebooks.org/ebooks/)
