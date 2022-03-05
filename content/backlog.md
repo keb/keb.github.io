@@ -9,13 +9,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Resident Evil Village - *11h*
-
 ## In order of intended play
+
+* Chrono Trigger - *30h*
 
 *Numbers in italics are estimated hours to complete.*
 
-* Chrono Trigger - *30h*
 * Metroid Prime - *16h*
 * Earthbound - *32h*
 * Metroid Prime 2 - *20h*
