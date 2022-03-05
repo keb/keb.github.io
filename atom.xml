@@ -242,6 +242,10 @@
 		<id>/reviews/</id>
 		<content type="html">&lt;h1 id=&quot;reviews&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#reviews&quot; aria-label=&quot;Anchor link for: reviews&quot;&gt;#&lt;&#x2F;a&gt;reviews&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;a href=&quot;&#x2F;backlog&quot;&gt;← backlog&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;resident-evil-village&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#resident-evil-village&quot; aria-label=&quot;Anchor link for: resident-evil-village&quot;&gt;#&lt;&#x2F;a&gt;Resident Evil: Village&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;4&#x2F;5&lt;&#x2F;strong&gt; &lt;em&gt;(03&#x2F;05&#x2F;2022)&lt;&#x2F;em&gt; - While a dramatic improvement upon RE7, admittedly, Village does strip back the survival horror elements a tad and reverts to a more action-oriented gameplay loop. Ironically, RE7 was seen as a return to roots for the franchise, and here we are doing a return to roots of RE4-era Resident Evil. That is to say, there are still strong hints and stretches of survival horror gameplay (think scarce ammo, one-shot enemies, creepy corridors, puzzle-solving, haunting ambiance, etc) but a bulk of the time is spent crafting and shooting at hordes of enemies. Speaking of, enemy variety is much more improved from 7, and certainly more creative (no spoilers). The Duke is a goofier version of the merchant of RE4. Production-wise, it&#x27;s hard to say RE has ever looked this good; character models border on photorealistic without entering uncanny valley, and the audio design rivals the best parts of REmake.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;resident-evil-7&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#resident-evil-7&quot; aria-label=&quot;Anchor link for: resident-evil-7&quot;&gt;#&lt;&#x2F;a&gt;Resident Evil 7&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;3&#x2F;5&lt;&#x2F;strong&gt; &lt;em&gt;(02&#x2F;14&#x2F;2022)&lt;&#x2F;em&gt; - Resident Evil gets a first-person horror makeover, and it mostly works, but has plenty of hinderances that hold it back. To start, RE7 gives in to many of the survival horror tropes that became popular during the 2010s -- annoyingly dark camera, scripted first-person sequences, plenty of post-processing effects including the cliche VHS camera treatment, and to top it off, an awfully monotone color palette. I haven&#x27;t seen a game this brown since PS3. Bosses have interesting designs, but often end in long-winded scripted sequences. Enemy variety is also virtually non-existent. On a positive note, the RE formula was actually very well translated to the change in perspective. The areas are mostly open and free to explore. Hidden items are everywhere and are actually possible to find using some in-game powerups. Voice acting and character animation are solid throughout, although the dialogue is at times non-sensical, and the plot is reduced to &amp;quot;evil demon child&amp;quot; by the game&#x27;s midpoint. Also, Zoe&#x27;s accent is terrible. RE7 also rides this strange uncanny line between highly reaslitic and cartoony, and this is made even more apparent in the DLC (wherein you can PUNCH enemies to hell, which, btw, is a lot of fun).&lt;&#x2F;li&gt;
@@ -1226,13 +1230,12 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 &lt;p&gt;&lt;a href=&quot;&#x2F;reviews&quot;&gt;Reviews (Completed)&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
 &lt;a href=&quot;&#x2F;abandoned&quot;&gt;Abandoned&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;currently-playing&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#currently-playing&quot; aria-label=&quot;Anchor link for: currently-playing&quot;&gt;#&lt;&#x2F;a&gt;Currently playing&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Resident Evil Village - &lt;em&gt;11h&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;in-order-of-intended-play&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#in-order-of-intended-play&quot; aria-label=&quot;Anchor link for: in-order-of-intended-play&quot;&gt;#&lt;&#x2F;a&gt;In order of intended play&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;em&gt;Numbers in italics are estimated hours to complete.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Chrono Trigger - &lt;em&gt;30h&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Numbers in italics are estimated hours to complete.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
 &lt;li&gt;Metroid Prime - &lt;em&gt;16h&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Earthbound - &lt;em&gt;32h&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Metroid Prime 2 - &lt;em&gt;20h&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;

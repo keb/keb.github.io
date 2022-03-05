@@ -34,7 +34,32 @@
     --blockquote-border-color: #e2e2e2;
     --game-bg-color: #e8e8e8;
 }
-[data-theme="dark"] {
+@media (prefers-color-scheme: dark) {
+  body:not([data-theme="l"]) {
+    --bg-color: #151515;
+    --color: #ccc;
+
+    --link-color: #878fb9;
+    --link-hover-color: #d5dcff;
+
+    --line-color: #333;
+
+    --input-color: #dfd0d0;
+    --input-bg-color: #131313;
+    --input-border-color: #959595;
+
+    --button-bg-color: #131313;
+    --button-color: #dfd0d0;
+    --button-bg-hover-color: #242424;
+    --button-bg-active-color: #464646;
+    --button-border-color: #959595;
+
+    --blockquote-bg-color: #1e1e1e;
+    --blockquote-border-color: #353535;
+    --game-bg-color: #242424;
+  }
+}
+[data-theme="d"] {
     --bg-color: #151515;
     --color: #ccc;
 
