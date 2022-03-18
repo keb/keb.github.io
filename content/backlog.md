@@ -368,6 +368,7 @@ date = 2019-06-02T14:21:19.433Z
 * Dead Space
 * Final Fantasy VI Relocalization Project
 * Final Fantasy XII
+* Metal Gear Solid (PS1)
 * Metal Gear Solid 2: Sons of Liberty
 * Metal Gear Solid 3: Subsistence
 * The Legend of Zelda: Ocarina of Time
