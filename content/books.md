@@ -68,7 +68,7 @@ A collection of (free) web books, guides, and references by category that I've f
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 	* *Comprehensive JavaScript reference.*
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-	* *A collection of design patterns for JavaScript. The section on module patterns is fantastic.*
+	* ***Update 2022**: This book's site has now been updated to a new, stylish guide website (patterns.dev) with a React slant. I am not a fan of the heavier website, nor the unagnostic React approach. The classic collection of design patterns for JavaScript can still be found on [this page](https://www.patterns.dev/posts/classic-design-patterns/) or better yet at the [archive link](https://archive.ph/93tHk).*
 * [Mozilla Developer Network: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	* *The gold standard of JavaScript references.*
 * [MDN: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
