@@ -10,3 +10,4 @@ This is a list of songs I consider to be the worst I have ever heard. These song
 * Solo - Iyaz
 * Somebody Else Will - Justin Moore
 * Best Day Of My Life - American Authors
+* Sound of Silence - Disturbed
