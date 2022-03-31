@@ -38,7 +38,7 @@ A collection of (free) web books, guides, and references by category that I've f
 	* *Like the HTML guide. Great reference material.*
 * [HTML Tips](https://thomasorus.com/html-tips.html)
 	* *A collection of beginner and advanced tips on HTML & CSS by [Thomasorus](https://github.com/thomasorus).*
-* [HTML semantics cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/#be-careful)
+* [HTML semantics cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
 	* *A semantic HTML cheat sheet. Use semantic HTML to make your sites more accessible and consistent in functionality across devices.*
 
 ## JavaScript
