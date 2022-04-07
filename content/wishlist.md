@@ -8,7 +8,6 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
-* PolyMega Retro Game Station
 * Sega Saturn
 * TurboGrafx-16 Mini
 * Analogue Pocket
@@ -26,7 +25,6 @@ This is a wishlist of miscellaneous stuff I want.
 * [GOG Wishlist](https://www.gog.com/u/kebg/wishlist)
 * [Itch Wishlist](https://itch.io/c/426557/wishlist)
 * [Steam Wishlist](https://store.steampowered.com/wishlist/id/kebsteam/)
-* Nier: Automata Game of the Yorha Edition (PC or PS4)
 
 ## Vinyl
 * Disintegration by The Cure
@@ -43,6 +41,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Acquired
 
+* ~~Nier: Automata Game of the Yorha Edition (PC or PS4)~~
 * ~~Crafting Interpreters by Bob Nystrom~~ Thanks Employer!
 * ~~Xperia XZ1 Compact or Galaxy S10e or Pixel 3a~~ *got a Pixel 5* Thanks Raf!
 * ~~Lapsang souchong~~ Thanks Iris!
