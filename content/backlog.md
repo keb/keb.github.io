@@ -333,6 +333,7 @@ date = 2019-06-02T14:21:19.433Z
 * Stardew Valley
 * Excitebike: Bun Bun Mario Battle
 * Fuga: Melodies of Steel - *22h*
+* Demon Turf - *21h*
 
 ## Multi-player (No particular order)
 
