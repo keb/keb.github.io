@@ -177,8 +177,10 @@ A collection of (free) web books, guides, and references by category that I've f
 
 ## Tech Interview Prep
 
-* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+* [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/introduction/)
+* [Grind 75](https://www.techinterviewhandbook.org/grind75)
+	* *Not a book. This is a customizable study plan for grinding Leetcode problems.*
 
 ## Misc.
 
