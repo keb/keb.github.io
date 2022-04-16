@@ -852,8 +852,13 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;tech-interview-prep&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#tech-interview-prep&quot; aria-label=&quot;Anchor link for: tech-interview-prep&quot;&gt;#&lt;&#x2F;a&gt;Tech Interview Prep&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;yangshun&#x2F;tech-interview-handbook&quot;&gt;Tech Interview Handbook&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;yangshun&#x2F;front-end-interview-handbook&quot;&gt;Front End Interview Handbook&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.techinterviewhandbook.org&#x2F;software-engineering-interview-guide&#x2F;&quot;&gt;Tech Interview Handbook&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.frontendinterviewhandbook.com&#x2F;introduction&#x2F;&quot;&gt;Front End Interview Handbook&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.techinterviewhandbook.org&#x2F;grind75&quot;&gt;Grind 75&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Not a book. This is a customizable study plan for grinding Leetcode problems.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;misc&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#misc&quot; aria-label=&quot;Anchor link for: misc&quot;&gt;#&lt;&#x2F;a&gt;Misc.&lt;&#x2F;h2&gt;
 &lt;ul&gt;
