@@ -330,6 +330,7 @@ date = 2019-06-02T14:21:19.433Z
 * Eternal Sonata - *40h*
 * Ittle Dew - *06h*
 * Ittle Dew 2 - *10h*
+* Popful Mail - *08h*
 * Stardew Valley
 * Excitebike: Bun Bun Mario Battle
 * Fuga: Melodies of Steel - *22h*
