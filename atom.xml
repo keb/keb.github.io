@@ -4,17 +4,8 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-11T14:21:19.433+00:00</updated>
+	<updated>2022-05-11T12:00:10.350+00:00</updated>
 	<id>/atom.xml</id>
-	<entry xml:lang="en">
-		<title></title>
-		<published>2022-05-11T14:21:19.433+00:00</published>
-		<updated>2022-05-11T14:21:19.433+00:00</updated>
-		<link href="/feed/making-feed/" type="text/html"/>
-		<id>/feed/making-feed/</id>
-		<content type="html">&lt;p&gt;making my own version of a microblog using a regular static site gen&lt;&#x2F;p&gt;
-</content>
-	</entry>
 	<entry xml:lang="en">
 		<title>coffee</title>
 		<published>2022-05-11T12:00:10.350+00:00</published>
