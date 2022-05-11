@@ -1,34 +1,42 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <div class="home">
-        <div class="profile">
-            <div class="card flex">
-                <img class="image" src="{{ get_url(path="img/pic.jpg") }}" alt="pic">
+    <div class="controls p1">
+        new
+        <a href="https://github.com/keb/keb.github.io/new/master/content/feed">feed</a>
+        <a href="https://github.com/keb/keb.github.io/new/master/content">article</a>
+    </div>
 
-                <div class="header">
-                    <h1 class="name" title="Discord ID">
-                        keb<small class="discord-tag">#2245</small>
-                    </h1>
-                    <a href="mailto:keb@sheev.net">keb@sheev.net</a>
+    <div class="home">
+        <header>
+            <div class="profile">
+                <div class="card flex">
+                    <img class="image" src="{{ get_url(path="img/pic.jpg") }}" alt="pic">
+
+                    <div class="header">
+                        <h1 class="name" title="Discord ID">
+                            keb<small class="discord-tag">#2245</small>
+                        </h1>
+                        <a href="mailto:keb@sheev.net">keb@sheev.net</a>
+                    </div>
+                </div>
+                <div class="links">
+                    <ul class="pl2">
+                        <li><a href="https://github.com/keb">github.com/keb</a></li>
+                        <li><a href="https://keb.itch.io/">keb.itch.io</a></li>
+                        <li><a href="https://www.last.fm/user/kebfm">last.fm/user/kebfm</a></li>
+                        <li><a href="https://www.gog.com/u/kebg">gog.com/u/kebg</a></li>
+                        <li><a href="https://steamcommunity.com/id/kebsteam">steamcommunity.com/id/kebsteam</a></li>
+                    </ul>
                 </div>
             </div>
-            <div class="links">
-                <ul class="pl2">
-                    <li><a href="https://github.com/keb">github.com/keb</a></li>
-                    <li><a href="https://keb.itch.io/">keb.itch.io</a></li>
-                    <li><a href="https://www.last.fm/user/kebfm">last.fm/user/kebfm</a></li>
-                    <li><a href="https://www.gog.com/u/kebg">gog.com/u/kebg</a></li>
-                    <li><a href="https://steamcommunity.com/id/kebsteam">steamcommunity.com/id/kebsteam</a></li>
-                </ul>
+            <div class="bookmarks">
+                <span>bookmarks ></span>
+                <a href="/wishlist">~/wishlist</a>
+                <a href="/backlog">~/backlog</a>
+                <a href="/games">~/games</a>
             </div>
-        </div>
-        <div class="bookmarks">
-            <span>bookmarks ></span>
-            <a href="/wishlist">~/wishlist</a>
-            <a href="/backlog">~/backlog</a>
-            <a href="/games">~/games</a>
-        </div>
+        </header>
         <div class="line" aria-hidden="true"></div>
 
         <div class="items">

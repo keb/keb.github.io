@@ -1,5 +1,6 @@
 +++
 title = "feed"
 sort_by = "date"
-render = true
+render = false
+page_template = "feed-item.html"
 +++
