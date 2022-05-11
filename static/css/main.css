@@ -209,23 +209,23 @@ hr {
     border-color: var(--line-color);
     border-width: 0 0 1px 0;
 }
-.page-content h1 {
+.content h1 {
     font-size: 2em;
 }
-.page-content p,
-.page-content table,
-.page-content ul {
+.content p,
+.content table,
+.content ul {
     font-family: var(--post-font-family);
     font-size: var(--post-font-size);
     line-height: var(--post-line-height);
 }
-.page-content img {
+.content img {
     max-width: 85%;
     display: block;
     margin: 2em auto;
     border: 3px solid rgba(0, 0, 0, 0.2);
 }
-.page-content a:not(.zola-anchor) {
+.content a:not(.zola-anchor) {
     font-weight: bold;
 }
 .controls {
@@ -277,15 +277,45 @@ h6:hover > .zola-anchor {
     margin-bottom: 1rem;
     border-bottom: 1px solid var(--line-color);
 }
+.profile {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+.profile > .card > .image {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+}
+.profile > .card > .header {
+    padding: 1rem;
+}
+.profile > .card > .header > .name {
+    padding: 0;
+    margin: 0;
+    font-size: 25.5px;
+}
+.name:hover > .discord-tag {
+    opacity: 1;
+}
 .discord-tag {
     font-size: 0.75em;
     opacity: 0.35;
 }
-.keb-header {
-    font-size: 25.5px;
+.home > .items {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 40px;
 }
-.keb-header:hover > .discord-tag {
-    opacity: 1;
+.home > .items h2 {
+    font-size: 1.2em;
+    margin: 0.25rem 0 1rem 0;
+}
+.feed-item {
+    margin-bottom: 1.2rem;
+}
+.feed-item > .content p {
+    margin: 0;
 }
 .site-header li + li {
     margin-top: 0.2rem;

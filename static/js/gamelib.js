@@ -55,18 +55,19 @@
         $gameLib.innerHTML = allGamesHtml;
     });
 
-    // $gameClearBtn.addEventListener('click', (ev) => {
-    //    ev.preventDefault();
-    //    $gameSearchInput.value = '';
-    //    if (!isViewingAllGames) $gameLib.innerHTML = allGamesHtml;
-    // });
+    $gameClearBtn.addEventListener('click', () => {
+        $gameSearchInput.value = '';
+        if (!isViewingAllGames) {
+            $gameLib.innerHTML = allGamesHtml;
+            $gameLibCount.innerText = `${allGamesCount} games`;
+        }
+    });
 
     $gameSearchForm.addEventListener('submit', (ev) => {
         ev.preventDefault();
         const value = $gameSearchInput.value.trim();
         if (value) {
             const results = idx.search(value + '~1');
-            console.log(results);
             const games = [];
             for (let i = 0, len = results.length; i < len; i++) {
                 games.push(slugMap[results[i].ref]);
