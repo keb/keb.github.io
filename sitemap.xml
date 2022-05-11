@@ -34,6 +34,10 @@
         <loc>/feed-archive/</loc>
     </url>
     <url>
+        <loc>/feed/coffee/</loc>
+        <lastmod>2022-05-11T12:00:10.35Z</lastmod>
+    </url>
+    <url>
         <loc>/feed/img/</loc>
         <lastmod>2022-05-11T05:15:25.301Z</lastmod>
     </url>
