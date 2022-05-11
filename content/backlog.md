@@ -9,6 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
+* Elden Ring
 * Chrono Trigger - *30h*
 
 ## In order of intended play
