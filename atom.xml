@@ -4,8 +4,17 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-11T12:00:10.350+00:00</updated>
+	<updated>2022-05-11T15:29:47.944+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>oceansize</title>
+		<published>2022-05-11T15:29:47.944+00:00</published>
+		<updated>2022-05-11T15:29:47.944+00:00</updated>
+		<link href="/feed/oceansize/" type="text/html"/>
+		<id>/feed/oceansize/</id>
+		<content type="html">&lt;p&gt;listening to &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MpkUM_DzxDw&quot;&gt;home &amp;amp; minor&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>coffee</title>
 		<published>2022-05-11T12:00:10.350+00:00</published>
