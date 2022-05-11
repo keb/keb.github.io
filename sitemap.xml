@@ -31,6 +31,20 @@
         <lastmod>2019-08-01T14:22:56.653Z</lastmod>
     </url>
     <url>
+        <loc>/feed-archive/</loc>
+    </url>
+    <url>
+        <loc>/feed/</loc>
+    </url>
+    <url>
+        <loc>/feed/making-feed/</loc>
+        <lastmod>2022-05-11T14:21:19.433Z</lastmod>
+    </url>
+    <url>
+        <loc>/feed/programmer/</loc>
+        <lastmod>2022-01-21T14:21:19.433Z</lastmod>
+    </url>
+    <url>
         <loc>/flitch/</loc>
         <lastmod>2022-04-29T14:21:19.433Z</lastmod>
     </url>
@@ -64,10 +78,6 @@
     <url>
         <loc>/new-home-mirrors/</loc>
         <lastmod>2021-04-10T14:21:19.433Z</lastmod>
-    </url>
-    <url>
-        <loc>/programmer/</loc>
-        <lastmod>2022-01-21T14:21:19.433Z</lastmod>
     </url>
     <url>
         <loc>/reviews/</loc>
