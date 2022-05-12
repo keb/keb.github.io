@@ -46,6 +46,10 @@
         <lastmod>2022-05-11T05:15:25.301Z</lastmod>
     </url>
     <url>
+        <loc>/feed/irc/</loc>
+        <lastmod>2021-04-25T02:34:47.328Z</lastmod>
+    </url>
+    <url>
         <loc>/feed/new/</loc>
         <lastmod>2022-05-12T04:54:27.322Z</lastmod>
     </url>
@@ -56,6 +60,10 @@
     <url>
         <loc>/feed/programmer/</loc>
         <lastmod>2022-01-21T14:21:19.433Z</lastmod>
+    </url>
+    <url>
+        <loc>/feed/sophies-quest/</loc>
+        <lastmod>2019-08-12T14:23:23.161Z</lastmod>
     </url>
     <url>
         <loc>/feed/test/</loc>
@@ -75,10 +83,6 @@
     <url>
         <loc>/how-to-buy-the-ideal-desk/</loc>
         <lastmod>2019-06-03T14:20:50.709Z</lastmod>
-    </url>
-    <url>
-        <loc>/irc/</loc>
-        <lastmod>2021-04-25T02:34:47.328Z</lastmod>
     </url>
     <url>
         <loc>/javascript-live-examples/</loc>
@@ -107,10 +111,6 @@
     <url>
         <loc>/songs/</loc>
         <lastmod>2021-05-28T14:21:19.433Z</lastmod>
-    </url>
-    <url>
-        <loc>/sophies-quest/</loc>
-        <lastmod>2019-08-12T14:23:23.161Z</lastmod>
     </url>
     <url>
         <loc>/wishlist/</loc>

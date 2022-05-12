@@ -49,7 +49,7 @@
 		<link href="/feed/img/" type="text/html"/>
 		<id>/feed/img/</id>
 		<content type="html">&lt;p&gt;see this cool picture by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;haggle&quot;&gt;twitter.com&#x2F;haggle&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;kevinfiol&amp;#x2F;newt&amp;#x2F;raw&amp;#x2F;master&amp;#x2F;demo.jpg&quot; alt=&quot;flitch&quot; &#x2F;&gt;</content>
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;kevinfiol&amp;#x2F;newt&amp;#x2F;raw&amp;#x2F;master&amp;#x2F;demo.jpg&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;kevinfiol&amp;#x2F;newt&amp;#x2F;raw&amp;#x2F;master&amp;#x2F;demo.jpg&quot; alt=&quot;flitch&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
 	</entry>
 	<entry xml:lang="en">
 		<title>test</title>
@@ -68,7 +68,7 @@
 		<id>/flitch/</id>
 		<content type="html">&lt;h1 id=&quot;flitch&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#flitch&quot; aria-label=&quot;Anchor link for: flitch&quot;&gt;#&lt;&#x2F;a&gt;flitch&lt;&#x2F;h1&gt;
 &lt;p&gt;goodbye to the most beautiful soul i&#x27;ve ever known. the hole you left can only be filled by memories of you. i will remember you more and more for the rest of my life until that hole is filled. i will love you more and more everyday for the rest of my life until that hole is filled. i know i will see you again. please wait for me. please.&lt;&#x2F;p&gt;
-&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;166123871-e43d1426-99bd-4a00-b37a-a541e1bf1800.jpg&quot; alt=&quot;flitch&quot; &#x2F;&gt;</content>
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;166123871-e43d1426-99bd-4a00-b37a-a541e1bf1800.jpg&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;166123871-e43d1426-99bd-4a00-b37a-a541e1bf1800.jpg&quot; alt=&quot;flitch&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
 	</entry>
 	<entry xml:lang="en">
 		<title>bad music</title>
@@ -210,13 +210,12 @@
 </content>
 	</entry>
 	<entry xml:lang="en">
-		<title>irc</title>
+		<title></title>
 		<published>2021-04-25T02:34:47.328+00:00</published>
 		<updated>2021-04-25T02:34:47.328+00:00</updated>
-		<link href="/irc/" type="text/html"/>
-		<id>/irc/</id>
-		<content type="html">&lt;h1 id=&quot;irc&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#irc&quot; aria-label=&quot;Anchor link for: irc&quot;&gt;#&lt;&#x2F;a&gt;irc&lt;&#x2F;h1&gt;
-&lt;p&gt;Below is one of my favorite IRC exchanges I&#x27;ve had.&lt;&#x2F;p&gt;
+		<link href="/feed/irc/" type="text/html"/>
+		<id>/feed/irc/</id>
+		<content type="html">&lt;p&gt;Below is one of my favorite IRC exchanges I&#x27;ve had.&lt;&#x2F;p&gt;
 &lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;&amp;lt;keb&amp;gt; Is anyone familiar with MS Sql? I know this isn&amp;#39;t the right channel, but the general SQL and ASP.NET channels are rather inactive. Just need help making one query.
 &lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: ask #sql
 &lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: you&amp;#39;re very welcome.
@@ -1046,15 +1045,14 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 </content>
 	</entry>
 	<entry xml:lang="en">
-		<title>sophies quest</title>
+		<title></title>
 		<published>2019-08-12T14:23:23.161+00:00</published>
 		<updated>2019-08-12T14:23:23.161+00:00</updated>
-		<link href="/sophies-quest/" type="text/html"/>
-		<id>/sophies-quest/</id>
-		<content type="html">&lt;h1 id=&quot;sophie-s-quest&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#sophie-s-quest&quot; aria-label=&quot;Anchor link for: sophie-s-quest&quot;&gt;#&lt;&#x2F;a&gt;sophie&#x27;s quest&lt;&#x2F;h1&gt;
-&lt;p&gt;I created a game about my friend&#x27;s dog, Sophie. It&#x27;s called Sophie&#x27;s Quest. Help Sophie take a dump in Rob&#x27;s room!&lt;&#x2F;p&gt;
+		<link href="/feed/sophies-quest/" type="text/html"/>
+		<id>/feed/sophies-quest/</id>
+		<content type="html">&lt;p&gt;I created a game about my friend&#x27;s dog, Sophie. It&#x27;s called Sophie&#x27;s Quest. Help Sophie take a dump in Rob&#x27;s room!&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;keb.itch.io&#x2F;sophies-quest&quot;&gt;Click here to help Sophie&lt;&#x2F;a&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;img.itch.zone&#x2F;aW1nLzIzNDU2ODcucG5n&#x2F;315x250%23c&#x2F;enrLc8.png&quot; alt=&quot;sophies quest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;img.itch.zone&amp;#x2F;aW1nLzIzNDU2ODcucG5n&amp;#x2F;315x250%23c&amp;#x2F;enrLc8.png&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;img.itch.zone&amp;#x2F;aW1nLzIzNDU2ODcucG5n&amp;#x2F;315x250%23c&amp;#x2F;enrLc8.png&quot; alt=&quot;sophies quest&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
