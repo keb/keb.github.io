@@ -1,8 +1,6 @@
 +++
-title = "irc"
 date = 2021-04-25T02:34:47.328Z
 +++
-# irc
 
 Below is one of my favorite IRC exchanges I've had.
 
