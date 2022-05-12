@@ -4,8 +4,17 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-12T04:54:27.322+00:00</updated>
+	<updated>2022-05-12T18:26:03.391+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>flitch</title>
+		<published>2022-05-12T18:26:03.391+00:00</published>
+		<updated>2022-05-12T18:26:03.391+00:00</updated>
+		<link href="/feed/flitch/" type="text/html"/>
+		<id>/feed/flitch/</id>
+		<content type="html">&lt;p&gt;i miss you everyday&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>new</title>
 		<published>2022-05-12T04:54:27.322+00:00</published>
