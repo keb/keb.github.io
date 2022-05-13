@@ -33,6 +33,8 @@
     --blockquote-bg-color: #f2f2f2;
     --blockquote-border-color: #e2e2e2;
     --game-bg-color: #e8e8e8;
+
+    --spacing: 1.2rem;
 }
 @media (prefers-color-scheme: dark) {
   body:not([data-theme="l"]) {
@@ -81,40 +83,6 @@
     --blockquote-bg-color: #1e1e1e;
     --blockquote-border-color: #353535;
     --game-bg-color: #242424;
-}
-@media (max-width: 768px) {
-    :root {
-        --content-padding: 0.75rem;
-        --content-margin: 0;
-        --post-font-size: 16px;
-        --post-line-height: 1.75rem;
-    }
-    .profile,
-    .home > .items {
-        display: block !important;
-    }
-    .show-mobile { display: inherit !important };
-}
-@media (max-width: 1200px) {
-    .toc {
-        display: none;
-    }
-}
-@media (min-width: 1200px) {
-    .toc {
-        opacity: 0.25;
-        position: fixed;
-        top: 14%;
-        left: 1%;
-        white-space: nowrap;
-        max-width: 15%;
-        max-height: 600px;
-        overflow-y: hidden;
-    }
-    .toc:hover {
-        opacity: 0.8;
-        overflow-y: auto;
-    }
 }
 /*Dark Mode*/
 .dark-mode-container {
@@ -281,8 +249,8 @@ h6:hover > .zola-anchor {
     line-height: 1.4;
 }
 .line {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: var(--spacing);
+    margin-bottom: var(--spacing);
     border-bottom: 1px solid var(--line-color);
 }
 .profile {
@@ -323,13 +291,16 @@ h6:hover > .zola-anchor {
     max-width: 485.333px;
 }
 .feed-item {
-    padding: 1.2rem 0;
+    padding-bottom: var(--spacing);
+}
+.feed-item:not(:first-of-type) {
+    padding-top: var(--spacing);
 }
 .feed-item > .content p {
     margin: 0;
 }
-.feed-item {
-    border-top: 1px solid var(--line-color);
+.feed-item:not(:last-of-type) {
+    border-bottom: 1px solid var(--line-color);
 }
 .site-header li + li {
     margin-top: 0.2rem;
@@ -475,4 +446,41 @@ h6:hover > .zola-anchor {
 .rounded {
     border-radius: 3px;
 }
-.show-mobile { display: none; }
+.show-mobile {
+    display: none;
+}
+@media (max-width: 768px) {
+    :root {
+        --content-padding: 0.75rem;
+        --content-margin: 0;
+        --post-font-size: 16px;
+        --post-line-height: 1.75rem;
+    }
+    .profile,
+    .home > .items {
+        display: block;
+    }
+    .feed { max-width: 100%; }
+    .show-mobile { display: inherit; };
+}
+@media (max-width: 1200px) {
+    .toc {
+        display: none;
+    }
+}
+@media (min-width: 1200px) {
+    .toc {
+        opacity: 0.25;
+        position: fixed;
+        top: 14%;
+        left: 1%;
+        white-space: nowrap;
+        max-width: 15%;
+        max-height: 600px;
+        overflow-y: hidden;
+    }
+    .toc:hover {
+        opacity: 0.8;
+        overflow-y: auto;
+    }
+}
