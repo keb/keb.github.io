@@ -42,7 +42,6 @@
 
         <div class="items">
             <div class="feed">
-                <h2>feed</h2>
                 {% set feed = get_section(path="feed/_index.md") %}
                 {% for post in feed.pages | slice(start=0, end=20) %}
                     <article class="feed-item">
