@@ -4,8 +4,17 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-12T18:26:03.391+00:00</updated>
+	<updated>2022-05-14T03:52:16.960+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>powershell</title>
+		<published>2022-05-14T03:52:16.960+00:00</published>
+		<updated>2022-05-14T03:52:16.960+00:00</updated>
+		<link href="/feed/powershell/" type="text/html"/>
+		<id>/feed/powershell/</id>
+		<content type="html">&lt;p&gt;switched from Cmder to alacritty + powershell + oh-my-posh, and it&#x27;s been a ride. wasn&#x27;t convinced at first and i do miss tabs, but the speed is awesome, powershell is actually kinda nice, and oh-my-posh is pretty&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>flitch</title>
 		<published>2022-05-12T18:26:03.391+00:00</published>
