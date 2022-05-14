@@ -13,8 +13,7 @@
 		<link href="/feed/sprite/" type="text/html"/>
 		<id>/feed/sprite/</id>
 		<content type="html">&lt;p&gt;it&#x27;s my boy&lt;&#x2F;p&gt;
-&lt;p&gt;{{ img(src=&amp;quot;https:&#x2F;&#x2F;user-images.githubusercontent.com&#x2F;54276371&#x2F;168410187-840ccec1-a0de-43a5-ada5-0c8119b494b6.png&amp;quot; alt=&amp;quot;flitch sprite&amp;quot; }}&lt;&#x2F;p&gt;
-</content>
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;168410187-840ccec1-a0de-43a5-ada5-0c8119b494b6.png&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;168410187-840ccec1-a0de-43a5-ada5-0c8119b494b6.png&quot; alt=&quot;flitch sprite&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
 	</entry>
 	<entry xml:lang="en">
 		<title>powershell</title>
