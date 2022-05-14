@@ -4,8 +4,18 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-14T03:52:16.960+00:00</updated>
+	<updated>2022-05-14T04:09:05.619+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>sprite</title>
+		<published>2022-05-14T04:09:05.619+00:00</published>
+		<updated>2022-05-14T04:09:05.619+00:00</updated>
+		<link href="/feed/sprite/" type="text/html"/>
+		<id>/feed/sprite/</id>
+		<content type="html">&lt;p&gt;it&#x27;s my boy&lt;&#x2F;p&gt;
+&lt;p&gt;{{ img(src=&amp;quot;https:&#x2F;&#x2F;user-images.githubusercontent.com&#x2F;54276371&#x2F;168410187-840ccec1-a0de-43a5-ada5-0c8119b494b6.png&amp;quot; alt=&amp;quot;flitch sprite&amp;quot; }}&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>powershell</title>
 		<published>2022-05-14T03:52:16.960+00:00</published>
