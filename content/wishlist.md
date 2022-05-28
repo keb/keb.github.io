@@ -6,6 +6,9 @@ date = 2019-06-04T14:20:03.472Z
 
 This is a wishlist of miscellaneous stuff I want.
 
+## Misc
+* Things related to Flitch
+
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
 * Sega Saturn
