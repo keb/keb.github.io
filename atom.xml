@@ -1229,6 +1229,10 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<id>/wishlist/</id>
 		<content type="html">&lt;h1 id=&quot;wishlist&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#wishlist&quot; aria-label=&quot;Anchor link for: wishlist&quot;&gt;#&lt;&#x2F;a&gt;wishlist&lt;&#x2F;h1&gt;
 &lt;p&gt;This is a wishlist of miscellaneous stuff I want.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;misc&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#misc&quot; aria-label=&quot;Anchor link for: misc&quot;&gt;#&lt;&#x2F;a&gt;Misc&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Things related to Flitch&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;devices&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#devices&quot; aria-label=&quot;Anchor link for: devices&quot;&gt;#&lt;&#x2F;a&gt;Devices&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Raspberry Pi(s) (any kind, I always want more)&lt;&#x2F;li&gt;
@@ -1259,7 +1263,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 &lt;li&gt;Diamond Mine by King Creosote &amp;amp; Jon Hopkins Vinyl&lt;&#x2F;li&gt;
 &lt;li&gt;Hounds of Love by Kate Bush Vinyl&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;misc&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#misc&quot; aria-label=&quot;Anchor link for: misc&quot;&gt;#&lt;&#x2F;a&gt;Misc&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;misc-1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#misc-1&quot; aria-label=&quot;Anchor link for: misc-1&quot;&gt;#&lt;&#x2F;a&gt;Misc&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Deception: Murder in Hong Kong Board Game&lt;&#x2F;li&gt;
 &lt;li&gt;Yamaha C-40 Guitar&lt;&#x2F;li&gt;
