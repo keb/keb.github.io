@@ -4,8 +4,17 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-21T01:42:23.089+00:00</updated>
+	<updated>2022-05-28T20:23:59.086+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>cruise</title>
+		<published>2022-05-28T20:23:59.086+00:00</published>
+		<updated>2022-05-28T20:23:59.086+00:00</updated>
+		<link href="/feed/cruise/" type="text/html"/>
+		<id>/feed/cruise/</id>
+		<content type="html">&lt;p&gt;i went on a cruise&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;170841746-fbc312ea-7a8a-4b01-b518-38901cf0d241.jpg&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;170841746-fbc312ea-7a8a-4b01-b518-38901cf0d241.jpg&quot; alt=&quot;cruise img&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>kitchen</title>
 		<published>2022-05-21T01:42:23.089+00:00</published>
