@@ -1,3 +1,5 @@
+// This is a Deno Deploy script
+// This is not used by the keb.github.io codebase
 const FEED_URL = 'https://mas.to/users/keb.rss';
 const FIELD_PATTERN = new RegExp('<lastBuildDate.*>((.|\n)*?)<\/lastBuildDate>', 'i');
 const ACCESS_TOKEN = Deno.env.get('ACCESS_TOKEN');

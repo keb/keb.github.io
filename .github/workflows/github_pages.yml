@@ -15,8 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      # Set up any tools and build steps here
-      # This example uses a Node.js toolchain to build a site
+
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+
+      - name: Run mastodon script
+        run: |
+          npm install
+          npm run build:feed
+
       - name: Install and Run Zola
         run: |
           sudo snap install --edge zola
