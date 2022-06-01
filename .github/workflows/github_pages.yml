@@ -35,10 +35,9 @@ jobs:
         run: |
           cp .gitlab-ci.yml ./public
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.WORKFLOW_ACCESS_TOKEN }}
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: public # The folder the action should deploy.
+          github_token: ${{ secrets.WORKFLOW_ACCESS_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
