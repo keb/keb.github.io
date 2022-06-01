@@ -1,0 +1,13 @@
+image: alpine:3.16.0
+
+pages:
+  stage: deploy
+
+  artifacts:
+    paths:
+      # Path of our artifacts
+      - .
+
+  # This config will only publish changes that are pushed on the master branch
+  only:
+    - master
