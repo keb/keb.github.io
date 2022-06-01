@@ -1,10 +1,7 @@
 name: Deploy to neocities
 
 # only run on changes to master
-on:
-  push:
-    branches:
-      - gh-pages
+on: page_build
 
 jobs:
   push-to-neocities:

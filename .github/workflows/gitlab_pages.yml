@@ -1,9 +1,6 @@
 name: Mirror and run GitLab CI
 
-on:
-  push:
-    branches:
-      - gh-pages
+on: page_build
 
 jobs:
   mirror-to-gitlab:
