@@ -1,7 +1,7 @@
 {
 	"type": "module",
 	"scripts": {
-		"build:feed": "node ./scripts/mastodon.js"
+		"build:feed": "node ./scripts/buildFeed.js"
 	},
 	"dependencies": {
 		"rss-parser": "^3.12.0"
