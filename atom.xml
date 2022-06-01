@@ -4,106 +4,8 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-28T20:23:59.086+00:00</updated>
+	<updated>2022-04-29T14:21:19.433+00:00</updated>
 	<id>/atom.xml</id>
-	<entry xml:lang="en">
-		<title>cruise</title>
-		<published>2022-05-28T20:23:59.086+00:00</published>
-		<updated>2022-05-28T20:23:59.086+00:00</updated>
-		<link href="/feed/cruise/" type="text/html"/>
-		<id>/feed/cruise/</id>
-		<content type="html">&lt;p&gt;i went on a cruise&lt;&#x2F;p&gt;
-&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;170841746-fbc312ea-7a8a-4b01-b518-38901cf0d241.jpg&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;170841746-fbc312ea-7a8a-4b01-b518-38901cf0d241.jpg&quot; alt=&quot;cruise img&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>kitchen</title>
-		<published>2022-05-21T01:42:23.089+00:00</published>
-		<updated>2022-05-21T01:42:23.089+00:00</updated>
-		<link href="/feed/kitchen/" type="text/html"/>
-		<id>/feed/kitchen/</id>
-		<content type="html">&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;169629591-f29f8156-8033-47e8-83e9-1064723f8f35.png&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;169629591-f29f8156-8033-47e8-83e9-1064723f8f35.png&quot; alt=&quot;kitchen&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>flitchy</title>
-		<published>2022-05-15T12:49:20.317+00:00</published>
-		<updated>2022-05-15T12:49:20.317+00:00</updated>
-		<link href="/feed/flitchy/" type="text/html"/>
-		<id>/feed/flitchy/</id>
-		<content type="html">&lt;p&gt;by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;haggle&quot;&gt;twitter.com&#x2F;haggle&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;64.media.tumblr.com&amp;#x2F;a5c0def6e8638b62389b6bb08b9f561e&amp;#x2F;e9d7c2b243c39f7b-bc&amp;#x2F;s1280x1920&amp;#x2F;8e6ccaca853e58bd1da22c6b5a71aaa949cc795c.png&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;64.media.tumblr.com&amp;#x2F;a5c0def6e8638b62389b6bb08b9f561e&amp;#x2F;e9d7c2b243c39f7b-bc&amp;#x2F;s1280x1920&amp;#x2F;8e6ccaca853e58bd1da22c6b5a71aaa949cc795c.png&quot; alt=&quot;haggle&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>sprite</title>
-		<published>2022-05-14T04:09:05.619+00:00</published>
-		<updated>2022-05-14T04:09:05.619+00:00</updated>
-		<link href="/feed/sprite/" type="text/html"/>
-		<id>/feed/sprite/</id>
-		<content type="html">&lt;p&gt;it&#x27;s my boy&lt;&#x2F;p&gt;
-&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;168410187-840ccec1-a0de-43a5-ada5-0c8119b494b6.png&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;user-images.githubusercontent.com&amp;#x2F;54276371&amp;#x2F;168410187-840ccec1-a0de-43a5-ada5-0c8119b494b6.png&quot; alt=&quot;flitch sprite&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>powershell</title>
-		<published>2022-05-14T03:52:16.960+00:00</published>
-		<updated>2022-05-14T03:52:16.960+00:00</updated>
-		<link href="/feed/powershell/" type="text/html"/>
-		<id>/feed/powershell/</id>
-		<content type="html">&lt;p&gt;switched from Cmder to alacritty + powershell + oh-my-posh, and it&#x27;s been a ride. wasn&#x27;t convinced at first and i do miss tabs, but the speed is awesome, powershell is actually kinda nice, and oh-my-posh is pretty&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>flitch</title>
-		<published>2022-05-12T18:26:03.391+00:00</published>
-		<updated>2022-05-12T18:26:03.391+00:00</updated>
-		<link href="/feed/flitch/" type="text/html"/>
-		<id>/feed/flitch/</id>
-		<content type="html">&lt;p&gt;i miss you everyday&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>new</title>
-		<published>2022-05-12T04:54:27.322+00:00</published>
-		<updated>2022-05-12T04:54:27.322+00:00</updated>
-		<link href="/feed/new/" type="text/html"/>
-		<id>/feed/new/</id>
-		<content type="html">&lt;p&gt;keepin busy writing a browser extension, a testing library, a store utility, learning about vector math, drawing pixel art, and now trying to switch from cmder to alacritty&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>oceansize</title>
-		<published>2022-05-11T15:29:47.944+00:00</published>
-		<updated>2022-05-11T15:29:47.944+00:00</updated>
-		<link href="/feed/oceansize/" type="text/html"/>
-		<id>/feed/oceansize/</id>
-		<content type="html">&lt;p&gt;listening to &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MpkUM_DzxDw&quot;&gt;home &amp;amp; minor&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>coffee</title>
-		<published>2022-05-11T12:00:10.350+00:00</published>
-		<updated>2022-05-11T12:00:10.350+00:00</updated>
-		<link href="/feed/coffee/" type="text/html"/>
-		<id>/feed/coffee/</id>
-		<content type="html">&lt;p&gt;i&#x27;ve been getting into the unhealthy habit of skipping breakfast and just having coffee in the morning&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>img</title>
-		<published>2022-05-11T05:15:25.301+00:00</published>
-		<updated>2022-05-11T05:15:25.301+00:00</updated>
-		<link href="/feed/img/" type="text/html"/>
-		<id>/feed/img/</id>
-		<content type="html">&lt;p&gt;see this cool picture by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;haggle&quot;&gt;twitter.com&#x2F;haggle&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;kevinfiol&amp;#x2F;newt&amp;#x2F;raw&amp;#x2F;master&amp;#x2F;demo.jpg&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;kevinfiol&amp;#x2F;newt&amp;#x2F;raw&amp;#x2F;master&amp;#x2F;demo.jpg&quot; alt=&quot;flitch&quot; &#x2F;&gt;&lt;&#x2F;a&gt;</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>test</title>
-		<published>2022-05-11T05:08:22.686+00:00</published>
-		<updated>2022-05-11T05:08:22.686+00:00</updated>
-		<link href="/feed/test/" type="text/html"/>
-		<id>/feed/test/</id>
-		<content type="html">&lt;p&gt;testing one two three&lt;&#x2F;p&gt;
-</content>
-	</entry>
 	<entry xml:lang="en">
 		<title>flitch</title>
 		<published>2022-04-29T14:21:19.433+00:00</published>
@@ -128,15 +30,6 @@
 &lt;li&gt;Best Day Of My Life - American Authors&lt;&#x2F;li&gt;
 &lt;li&gt;Sound of Silence - Disturbed&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title></title>
-		<published>2022-01-21T14:21:19.433+00:00</published>
-		<updated>2022-01-21T14:21:19.433+00:00</updated>
-		<link href="/feed/programmer/" type="text/html"/>
-		<id>/feed/programmer/</id>
-		<content type="html">&lt;p&gt;Nothing makes a programmer happier than a fresh, clean codebase. Nothing makes a programmer sadder than that same codebase, but 6 months later.&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
@@ -251,35 +144,6 @@
 &lt;li&gt;LCD Soundsystem - All My Friends&lt;&#x2F;li&gt;
 &lt;li&gt;LCD Soundsystem - [This Is Happening #01] Dance Yrself Clean&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title></title>
-		<published>2021-04-25T02:34:47.328+00:00</published>
-		<updated>2021-04-25T02:34:47.328+00:00</updated>
-		<link href="/feed/irc/" type="text/html"/>
-		<id>/feed/irc/</id>
-		<content type="html">&lt;p&gt;Below is one of my favorite IRC exchanges I&#x27;ve had.&lt;&#x2F;p&gt;
-&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;&amp;lt;keb&amp;gt; Is anyone familiar with MS Sql? I know this isn&amp;#39;t the right channel, but the general SQL and ASP.NET channels are rather inactive. Just need help making one query.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: ask #sql
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: you&amp;#39;re very welcome.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; And I&amp;#39;m unfamiliar with ASP.NET and MS Sql.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: ask #sql
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; thumbs, lol I did.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; thumbs, you just said that lol
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: perfect. Then you&amp;#39;re done here.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; thumbs, lol, should I leave?
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: feel free to idle and ask questions related to MySQL.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; thumbs, who created MySQL?
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: you may not ask MSSQL questions here, however.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: google it.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; thumbs, can I use MySQL with Sega Genesis?
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;thumbs&amp;gt; keb: sensible questions.
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; thumbs, what&amp;#39;s the difference between MySQL and a ham sandwich?
-&lt;&#x2F;span&gt;&lt;span&gt;* ChanServ sets quiet on *!*keb@pool-72-69-37-68.nycmny.fios.verizon.net
-&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;keb&amp;gt; lol
-&lt;&#x2F;span&gt;&lt;span&gt;* #mysql :Cannot send to channel
-&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
@@ -1086,17 +950,6 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;newegg.com&quot;&gt;newegg&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title></title>
-		<published>2019-08-12T14:23:23.161+00:00</published>
-		<updated>2019-08-12T14:23:23.161+00:00</updated>
-		<link href="/feed/sophies-quest/" type="text/html"/>
-		<id>/feed/sophies-quest/</id>
-		<content type="html">&lt;p&gt;I created a game about my friend&#x27;s dog, Sophie. It&#x27;s called Sophie&#x27;s Quest. Help Sophie take a dump in Rob&#x27;s room!&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;keb.itch.io&#x2F;sophies-quest&quot;&gt;Click here to help Sophie&lt;&#x2F;a&gt;
-&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;img.itch.zone&amp;#x2F;aW1nLzIzNDU2ODcucG5n&amp;#x2F;315x250%23c&amp;#x2F;enrLc8.png&quot;&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;img.itch.zone&amp;#x2F;aW1nLzIzNDU2ODcucG5n&amp;#x2F;315x250%23c&amp;#x2F;enrLc8.png&quot; alt=&quot;sophies quest&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
