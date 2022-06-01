@@ -32,8 +32,7 @@ jobs:
           zola build
 
       - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
-          github_token: ${{ secrets.WORKFLOW_ACCESS_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: ./public
+          branch: gh-pages
+          folder: public
