@@ -4,12 +4,12 @@
     <header class="h4 py2">
         <a href="/">← home</a>
     </header>
-    <h1>article archive</h1>
+    <h1>archive</h1>
     <div class="line"></div>
     {% set section = get_section(path="_index.md") %}
     {% for post in section.pages %}
         <article class="archive-link">
-            <time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time>
+            <small><time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time></small>
             -
             <header style="display: inline;"><a href="{{ post.permalink }}">{{ post.title }}</a></header>
         </article>

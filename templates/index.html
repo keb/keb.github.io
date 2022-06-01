@@ -24,6 +24,7 @@
                     <ul class="pl2">
                         <li><a href="https://github.com/keb">github.com/keb</a></li>
                         <li><a href="https://keb.itch.io/">keb.itch.io</a></li>
+                        <li><a href="https://mas.to/@keb">mas.to/@keb</a></li>
                         <li><a href="https://www.last.fm/user/kebfm">last.fm/user/kebfm</a></li>
                         <li><a href="https://www.gog.com/u/kebg">gog.com/u/kebg</a></li>
                         <li><a href="https://steamcommunity.com/id/kebsteam">steamcommunity.com/id/kebsteam</a></li>
@@ -43,21 +44,9 @@
 
         <div class="items">
             <div class="feed">
-                {% set feed = get_section(path="feed/_index.md") %}
-                {% for post in feed.pages | slice(start=0, end=20) %}
-                    <article class="feed-item">
-                        <div class="link">
-                            <small><a href="{{ post.permalink }}">@ <time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time></a></small>
-                        </div>
-
-                        <div class="content">
-                            {{ post.content | safe }}
-                        </div>
-                    </article>
-                {% endfor %}
-
+                {% include "_mastodon-feed.html" %}
                 <nav class="py1">
-                    <a href="/feed-archive/">feed archive →</a>
+                    <a href="https://mas.to/@keb">mastodon →</a>
                 </nav>
             </div>
             <div class="line show-mobile"></div>
@@ -65,7 +54,7 @@
                 <h2>articles</h2>
                 {% for post in section.pages | slice(start=0, end=10) %}
                     <article class="archive-link">
-                        <time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time>
+                        <small><time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time></small>
                         -
                         <header style="display: inline;"><a href="{{ post.permalink }}">{{ post.title | truncate(length=10) }}</a></header>
                     </article>
