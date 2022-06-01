@@ -7,18 +7,31 @@ on:
       - completed
 
 jobs:
-  push-to-neocities:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v1
-      with:
-        ref: 'subfolder-gh-pages'
 
-    # When the gh-pages is ready, deploy it to neocities
+    - name: Install Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 16
+
+    - name: Run mastodon script
+      run: |
+        npm install
+        npm run build:feed
+
+    - name: Install and Run Zola
+      run: |
+        sudo snap install --edge zola
+        zola build
+
+    # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
       with:
         api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
         cleanup: false
-        dist_dir: ./public
+        dist_dir: public

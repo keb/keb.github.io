@@ -31,21 +31,9 @@ jobs:
           sudo snap install --edge zola
           zola build
 
-      - name: copy .gitlab-ci.yml to public for the Gitlab repo
-        run: |
-          cp .gitlab-ci.yml ./public
-
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.WORKFLOW_ACCESS_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
-
-      - name: deploy to second branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.WORKFLOW_ACCESS_TOKEN }}
-          publish_branch: subfolder-gh-pages
-          publish_dir: ./public
-          destination_dir: public

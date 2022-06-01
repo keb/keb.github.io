@@ -7,14 +7,10 @@ on:
       - completed
 
 jobs:
-  mirror-to-gitlab:
+  build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
-      with:
-        ref: 'subfolder-gh-pages'
-
     - name: Mirror + trigger CI
       uses: SvanBoxel/gitlab-mirror-and-ci-action@master
       with:
