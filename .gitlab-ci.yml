@@ -6,7 +6,7 @@ pages:
   artifacts:
     paths:
       # Path of our artifacts
-      - .
+      - public
 
   # This config will only publish changes that are pushed on the master branch
   only:

@@ -1,7 +1,10 @@
 name: Deploy to neocities
 
-# only run on changes to master
-on: page_build
+on:
+  workflow_run:
+    workflows: [Github Pages]
+    types:
+      - completed
 
 jobs:
   push-to-neocities:
@@ -9,6 +12,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+      with:
+        ref: 'subfolder-gh-pages'
 
     # When the gh-pages is ready, deploy it to neocities
     - name: Deploy to neocities
@@ -16,4 +21,4 @@ jobs:
       with:
         api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
         cleanup: false
-        dist_dir: .
+        dist_dir: ./public
