@@ -3,7 +3,7 @@
 const FEED_URL = 'https://mas.to/users/keb.rss';
 const FIELD_PATTERN = new RegExp('<lastBuildDate.*>((.|\n)*?)<\/lastBuildDate>', 'i');
 const ACCESS_TOKEN = Deno.env.get('ACCESS_TOKEN');
-const INTERVAL_IN_MINUTES = 10;
+const INTERVAL_IN_MINUTES = 1;
 
 let lastBuildDate = null;
 

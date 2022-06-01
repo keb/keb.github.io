@@ -31,6 +31,10 @@ jobs:
           sudo snap install --edge zola
           zola build
 
+      - name: copy .gitlab-ci.yml to public for the Gitlab repo
+        run: |
+          cp .gitlab-ci.yml ./public
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
