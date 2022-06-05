@@ -30,7 +30,6 @@ This is a wishlist of miscellaneous stuff I want.
 * [Steam Wishlist](https://store.steampowered.com/wishlist/id/kebsteam/)
 
 ## Vinyl
-* Disintegration by The Cure
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Hounds of Love by Kate Bush Vinyl
 
@@ -44,6 +43,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Acquired
 
+* ~~Disintegration by The Cure~~
 * ~~Nier: Automata Game of the Yorha Edition (PC or PS4)~~
 * ~~Crafting Interpreters by Bob Nystrom~~ Thanks Employer!
 * ~~Xperia XZ1 Compact or Galaxy S10e or Pixel 3a~~ *got a Pixel 5* Thanks Raf!
