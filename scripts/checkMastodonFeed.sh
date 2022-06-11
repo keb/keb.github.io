@@ -27,7 +27,7 @@ if [ -f "$FILE" ]; then
         curl \
           -X POST \
           -H "Accept: application/vnd.github.v3+json" \
-          -H "Authorization: token $AUTH_TOKEN" \
+          -H "Authorization: token $GITHUB_AUTH_TOKEN" \
           $ISSUE_URL \
           -d '{"body":"dog"}'
     fi
