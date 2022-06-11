@@ -11,3 +11,5 @@ This is a list of songs I consider to be the worst I have ever heard. These song
 * Somebody Else Will - Justin Moore
 * Best Day Of My Life - American Authors
 * Sound of Silence - Disturbed
+* Dude (Looks Like A Lady) - Aerosmith
+* Girls, Girls, Girls - Motley Crue
