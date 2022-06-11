@@ -32,9 +32,12 @@ let html = '';
             }
         }
 
+        const date = new Date(item.title);
+        const dateStr = `${date.getFullYear()}.${date.getMonth() + 1}.${date.getDate()}`;
+
         html += (
             `<article class="feed-item">` +
-                `<div class="link"><a href="${item.link}">${item.title}</a></div>` +
+                `<div class="link"><a href="${item.link}">@ ${dateStr}</a></div>` +
                 `<div class="content">${item.content}${mediaHtml}</div>` +
             `</article>`
         );
