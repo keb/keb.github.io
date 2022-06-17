@@ -7,7 +7,7 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I want.
 
 ## Misc
-* Things related to Flitch
+* Anything related to Flitch
 
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
@@ -16,11 +16,8 @@ This is a wishlist of miscellaneous stuff I want.
 * Analogue Pocket
 * Sony Trinitron
 
-## Books
-* A Common-Sense Guide to Data Structures and Algorithms, Second Edition - Jay Wengrow
-
 ## Software
-* VPS Credit from Linode
+* VPS Credit from anywhere really
 * Sublime Text 4 license
 * Sublime Merge license
 
@@ -34,7 +31,6 @@ This is a wishlist of miscellaneous stuff I want.
 * Hounds of Love by Kate Bush Vinyl
 
 ## Misc
-* Deception: Murder in Hong Kong Board Game
 * Yamaha C-40 Guitar
 * Mozilla shirt or mug
 * EFF shirt or mug
@@ -43,7 +39,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Acquired
 
-* ~~Disintegration by The Cure~~
+* ~~Disintegration by The Cure~~ Thanks Rob!
 * ~~Nier: Automata Game of the Yorha Edition (PC or PS4)~~
 * ~~Crafting Interpreters by Bob Nystrom~~ Thanks Employer!
 * ~~Xperia XZ1 Compact or Galaxy S10e or Pixel 3a~~ *got a Pixel 5* Thanks Raf!
