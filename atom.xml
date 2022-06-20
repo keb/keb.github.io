@@ -501,6 +501,14 @@
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;c&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#c&quot; aria-label=&quot;Anchor link for: c&quot;&gt;#&lt;&#x2F;a&gt;C&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.buildyourownlisp.com&#x2F;&quot;&gt;Build Your Own Lisp&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&amp;quot;If you&#x27;re looking to learn C, or you&#x27;ve ever wondered how to build your own programming language, this is the book for you.&amp;quot;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;network-programming&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#network-programming&quot; aria-label=&quot;Anchor link for: network-programming&quot;&gt;#&lt;&#x2F;a&gt;Network Programming&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;beej.us&#x2F;guide&#x2F;bgnet&#x2F;html&#x2F;&quot;&gt;Beej&#x27;s Guide to Network Programming&lt;&#x2F;a&gt;
@@ -640,7 +648,7 @@
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;c&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#c&quot; aria-label=&quot;Anchor link for: c&quot;&gt;#&lt;&#x2F;a&gt;C#&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;c-1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#c-1&quot; aria-label=&quot;Anchor link for: c-1&quot;&gt;#&lt;&#x2F;a&gt;C#&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.microsoft.com&#x2F;en-us&#x2F;dotnet&#x2F;csharp&#x2F;tutorials&#x2F;intro-to-csharp&#x2F;&quot;&gt;Intro to C#&lt;&#x2F;a&gt;
 &lt;ul&gt;
