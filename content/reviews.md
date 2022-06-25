@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Blazing Chrome
+  * **4/5** *(06/24/2022)* - A Contra clone, but a good one. An amazing imitation of a 16-bit era game, with tight controls, awesome character and enemy design, and challenging but fair difficulty.
+
 ## Resident Evil: Village
   * **4/5** *(03/05/2022)* - While a dramatic improvement upon RE7, admittedly, Village does strip back the survival horror elements a tad and reverts to a more action-oriented gameplay loop. Ironically, RE7 was seen as a return to roots for the franchise, and here we are doing a return to roots of RE4-era Resident Evil. That is to say, there are still strong hints and stretches of survival horror gameplay (think scarce ammo, one-shot enemies, creepy corridors, puzzle-solving, haunting ambiance, etc) but a bulk of the time is spent crafting and shooting at hordes of enemies. Speaking of, enemy variety is much more improved from 7, and certainly more creative (no spoilers). The Duke is a goofier version of the merchant of RE4. Production-wise, it's hard to say RE has ever looked this good; character models border on photorealistic without entering uncanny valley, and the audio design rivals the best parts of REmake.
 
