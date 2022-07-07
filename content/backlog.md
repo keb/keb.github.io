@@ -17,10 +17,13 @@ date = 2019-06-02T14:21:19.433Z
 *Numbers in italics are estimated hours to complete.*
 
 * Metroid Prime - *16h*
+* Binarystar Infinity
 * Earthbound - *32h*
+* Crown Trick
 * Metroid Prime 2 - *20h*
 * Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
+* River City Girls
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
@@ -30,7 +33,11 @@ date = 2019-06-02T14:21:19.433Z
 * Terranigma - *19h*
 * Robotrek - *15h*
 * Okami - *42h*
+* Before Your Eyes
 * Metal Arms: Glitch in the System - *14h*
+* Biped
+* Flinthook
+* Fly'N
 * Front Mission Series: Gun Hazard - *18h*
 * Geometry Wars 3: Dimensions Evolved - *14h*
 * FTL - *12h*
@@ -45,15 +52,20 @@ date = 2019-06-02T14:21:19.433Z
 * Pikmin - *09h*
 * Pikmin 2 - *20h*
 * Pikmin 3 - *16h*
+* Blasphemous
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*
 * The Legend of Zelda: Majora's Mask - *30h*
+* Crypt of the NecroDancer
+* Double Cross
 * Castlevania: Legacy of Darkness - *16h*
 * Toki Tori 2+ - *16h*
 * The Legend of Zelda: A Link Between Worlds - *20h*
 * Mother 3 - *30h*
 * Alundra - *32h*
 * Vagrant Story - *33h*
+* DUSK
+* Enter the Gungeon
 * Sonic Generations - *11h*
 * Sonic Colors (DS) - *07h*
 * Sonic Robo Blast 2 - *05h*
@@ -119,6 +131,8 @@ date = 2019-06-02T14:21:19.433Z
 * Snake Pass - *05h*
 * The Final Station - *05h*
 * OneShot - *07h*
+* Evan's Remains
+* Everhood
 * Runestone Keeper - *06h*
 * Mega Man X3 - *06h*
 * Mega Man Unlimited
@@ -336,9 +350,81 @@ date = 2019-06-02T14:21:19.433Z
 * Excitebike: Bun Bun Mario Battle
 * Fuga: Melodies of Steel - *22h*
 * Demon Turf - *21h*
+* .hack//G.U. Last Recode
+* 10 Second Ninja X
+* 140
+* A Bird Story
+* Finding Paradise
+* Impostor Factory
+* Absolute Drift
+* Action Henk
+* Adventures of Shuggy
+* AMID EVIL
+* Among the Sleep
+* Assault Android Cactus
+* A Story About My Uncle
+* Astronarch
+* Autonauts
+* Aztaka
+* AWAY: Journey to the Unexpected
+* Banana Hell
+* BattleBlock Theater
+* Before We Leave
+* BELOW
+* Black Book
+* Blazing Beaks
+* BloodRayne Betrayal
+* Blue Fire
+* Bunny Must Die! Chelsea and the 7 Devils
+* BUTCHER
+* Calico
+* Carto
+* Cat Quest
+* Cats in Time
+* Caveblazers
+* Chroma Squad
+* Cinders
+* Cities: Skylines
+* Closure
+* Cloudbuilt
+* Super Cloudbuilt
+* Commandos 2: Men of Courage
+* Coin Crypt
+* Cosmic Star Heroine
+* Costume Quest
+* Crazy Taxi
+* Critter Crunch
+* Crusader Kings II
+* Danmaku Unlimited 2
+* Dark Devotion
+* Darkwood
+* DEADBOLT
+* Death's Gambit: Afterlife
+* Defense Grid: The Awakening
+* Divide By Sheep
+* Dog Sled Saga
+* Double Dragon Neon
+* Dungeon Siege
+* Dungeon Siege II
+* Dyscourse
+* Eagle Island Twist
+* ELDERBORN
+* Eldritch
+* English Country Tune
+* Evoland
+* Evoland 2
+* Felix The Reaper
+* Figment
+* The Haunted Island, a Frog Detective Game
+* Frog Detective 2
+* Game of Thrones (2012)
+* Getting Over It with Bennett Foddy
 
 ## Multi-player (No particular order)
 
+* FORCED: Slightly Better Edition
+* Eon Altar
+* Children of Morta
 * Splitgate
 * Path of Exile
 * Warhammer: Age of Reckoning ([Return of Reckoning Private Server](https://www.returnofreckoning.com/about.php))
@@ -357,6 +443,8 @@ date = 2019-06-02T14:21:19.433Z
 * Spacelords
 * Wyv and Keep: The Temple of the Lost Idol
 * Monster Hunter: World
+* Bee Simulator
+
 
 ## List of intended replays
 
