@@ -264,6 +264,7 @@ date = 2019-06-02T14:21:19.433Z
 * Dragon's Crown - *21h*
 * The World Ends with You - *46h*
 * Risen - *36h*
+* Risen 3 - *43h*
 * Valkyria Chronicles - *39h*
 * Valkyria Chronicles 4 - *40h*
 * Ninja Gaiden Black - *17h*
@@ -419,6 +420,9 @@ date = 2019-06-02T14:21:19.433Z
 * Frog Detective 2
 * Game of Thrones (2012)
 * Getting Over It with Bennett Foddy
+* Monster Sanctuary
+* Aggelos
+* Songbird Symphony
 
 ## Multi-player (No particular order)
 
