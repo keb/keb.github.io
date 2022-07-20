@@ -448,6 +448,8 @@ date = 2019-06-02T14:21:19.433Z
 * Wyv and Keep: The Temple of the Lost Idol
 * Monster Hunter: World
 * Bee Simulator
+* Graveyard Keeper
+* Buddy Simulator 1984
 
 
 ## List of intended replays
