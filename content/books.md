@@ -22,6 +22,10 @@ A collection of (free) web books, guides, and references by category that I've f
 
 * [Build Your Own Lisp](https://www.buildyourownlisp.com/)
 	* *"If you're looking to learn C, or you've ever wondered how to build your own programming language, this is the book for you."*
+* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
+	* *A walkthrough tutorial on how to build a text editor with C.*
+* [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/)
+	* *"This is a rather comprehensive guide to C for folks who already know how to program in another language. The first half of the book is written in a tutorial style, while the second half is a reference section complete with examples (inspired by the incomparable Turbo C Bible). The goal is to keep this up-to-date with the latest C standards."*
 
 ## Network Programming
 
