@@ -10,7 +10,7 @@
 		<title>flitch</title>
 		<published>2022-04-29T14:21:19.433+00:00</published>
 		<updated>2022-04-29T14:21:19.433+00:00</updated>
-		<link href="/flitch/" type="text/html"/>
+		<link rel="alternate" href="/flitch/" type="text/html"/>
 		<id>/flitch/</id>
 		<content type="html">&lt;h1 id=&quot;flitch&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#flitch&quot; aria-label=&quot;Anchor link for: flitch&quot;&gt;#&lt;&#x2F;a&gt;flitch&lt;&#x2F;h1&gt;
 &lt;p&gt;goodbye to the most beautiful soul i&#x27;ve ever known. the hole you left can only be filled by memories of you. i will remember you more and more for the rest of my life until that hole is filled. i will love you more and more everyday for the rest of my life until that hole is filled. i know i will see you again. please wait for me. please.&lt;&#x2F;p&gt;
@@ -20,7 +20,7 @@
 		<title>bad music</title>
 		<published>2022-02-14T14:21:19.433+00:00</published>
 		<updated>2022-02-14T14:21:19.433+00:00</updated>
-		<link href="/bad-music/" type="text/html"/>
+		<link rel="alternate" href="/bad-music/" type="text/html"/>
 		<id>/bad-music/</id>
 		<content type="html">&lt;h1 id=&quot;bad-music&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#bad-music&quot; aria-label=&quot;Anchor link for: bad-music&quot;&gt;#&lt;&#x2F;a&gt;bad music&lt;&#x2F;h1&gt;
 &lt;p&gt;This is a list of songs I consider to be the worst I have ever heard. These songs have etched themselves in my memory for being particularly bad.&lt;&#x2F;p&gt;
@@ -38,7 +38,7 @@
 		<title>woke</title>
 		<published>2021-10-16T14:21:19.433+00:00</published>
 		<updated>2021-10-16T14:21:19.433+00:00</updated>
-		<link href="/woke/" type="text/html"/>
+		<link rel="alternate" href="/woke/" type="text/html"/>
 		<id>/woke/</id>
 		<content type="html">&lt;h1 id=&quot;woke&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#woke&quot; aria-label=&quot;Anchor link for: woke&quot;&gt;#&lt;&#x2F;a&gt;woke&lt;&#x2F;h1&gt;
 &lt;p&gt;I&#x27;m going to take a bit of time to vent about a tweet that I just read. In reference to the latest scandal revolving Netflix, Dave Chapelle, and the LGBT community, someone tweeted:&lt;&#x2F;p&gt;
@@ -66,7 +66,7 @@
 		<title>songs</title>
 		<published>2021-05-28T14:21:19.433+00:00</published>
 		<updated>2021-05-28T14:21:19.433+00:00</updated>
-		<link href="/songs/" type="text/html"/>
+		<link rel="alternate" href="/songs/" type="text/html"/>
 		<id>/songs/</id>
 		<content type="html">&lt;h1 id=&quot;songs&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#songs&quot; aria-label=&quot;Anchor link for: songs&quot;&gt;#&lt;&#x2F;a&gt;songs&lt;&#x2F;h1&gt;
 &lt;p&gt;Below is a list of songs that have had some profound effect on me. Will add more as I remember to.&lt;&#x2F;p&gt;
@@ -152,7 +152,7 @@
 		<title>new home &#x2F; mirrors</title>
 		<published>2021-04-10T14:21:19.433+00:00</published>
 		<updated>2021-04-10T14:21:19.433+00:00</updated>
-		<link href="/new-home-mirrors/" type="text/html"/>
+		<link rel="alternate" href="/new-home-mirrors/" type="text/html"/>
 		<id>/new-home-mirrors/</id>
 		<content type="html">&lt;h1 id=&quot;new-home-mirrors&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#new-home-mirrors&quot; aria-label=&quot;Anchor link for: new-home-mirrors&quot;&gt;#&lt;&#x2F;a&gt;new home &#x2F; mirrors&lt;&#x2F;h1&gt;
 &lt;p&gt;Vercel has finally retired their old &lt;code&gt;now.sh&lt;&#x2F;code&gt; domains and have migrated all old apps to the new &lt;code&gt;vercel.app&lt;&#x2F;code&gt; domain. This was saddening to me, as I had used &lt;code&gt;keb.now.sh&lt;&#x2F;code&gt; for a couple years now and loved the tiny domain. &amp;quot;keb dot vercel dot app&amp;quot; does not quite have the same ring to it.&lt;&#x2F;p&gt;
@@ -173,7 +173,7 @@
 		<title>abandoned</title>
 		<published>2021-03-30T14:21:19.433+00:00</published>
 		<updated>2021-03-30T14:21:19.433+00:00</updated>
-		<link href="/abandoned/" type="text/html"/>
+		<link rel="alternate" href="/abandoned/" type="text/html"/>
 		<id>/abandoned/</id>
 		<content type="html">&lt;h1 id=&quot;abandoned&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#abandoned&quot; aria-label=&quot;Anchor link for: abandoned&quot;&gt;#&lt;&#x2F;a&gt;abandoned&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;a href=&quot;&#x2F;backlog&quot;&gt;← backlog&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -211,7 +211,7 @@
 		<title>reviews</title>
 		<published>2021-03-30T14:21:19.433+00:00</published>
 		<updated>2021-03-30T14:21:19.433+00:00</updated>
-		<link href="/reviews/" type="text/html"/>
+		<link rel="alternate" href="/reviews/" type="text/html"/>
 		<id>/reviews/</id>
 		<content type="html">&lt;h1 id=&quot;reviews&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#reviews&quot; aria-label=&quot;Anchor link for: reviews&quot;&gt;#&lt;&#x2F;a&gt;reviews&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;a href=&quot;&#x2F;backlog&quot;&gt;← backlog&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -425,7 +425,7 @@
 		<title>javascript live examples</title>
 		<published>2020-01-22T00:00:00+00:00</published>
 		<updated>2020-01-22T00:00:00+00:00</updated>
-		<link href="/javascript-live-examples/" type="text/html"/>
+		<link rel="alternate" href="/javascript-live-examples/" type="text/html"/>
 		<id>/javascript-live-examples/</id>
 		<content type="html">&lt;h1 id=&quot;javascript-live-examples&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#javascript-live-examples&quot; aria-label=&quot;Anchor link for: javascript-live-examples&quot;&gt;#&lt;&#x2F;a&gt;javascript live examples&lt;&#x2F;h1&gt;
 &lt;p&gt;This is a collection of live JavaScript examples I like to reference from time to time.&lt;&#x2F;p&gt;
@@ -478,7 +478,7 @@
 		<title>books</title>
 		<published>2020-01-14T00:00:00+00:00</published>
 		<updated>2020-01-14T00:00:00+00:00</updated>
-		<link href="/books/" type="text/html"/>
+		<link rel="alternate" href="/books/" type="text/html"/>
 		<id>/books/</id>
 		<content type="html">&lt;h1 id=&quot;books&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#books&quot; aria-label=&quot;Anchor link for: books&quot;&gt;#&lt;&#x2F;a&gt;books&lt;&#x2F;h1&gt;
 &lt;p&gt;A collection of (free) web books, guides, and references by category that I&#x27;ve found over the years. Suggestions welcome.&lt;&#x2F;p&gt;
@@ -510,6 +510,16 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.buildyourownlisp.com&#x2F;&quot;&gt;Build Your Own Lisp&lt;&#x2F;a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&amp;quot;If you&#x27;re looking to learn C, or you&#x27;ve ever wondered how to build your own programming language, this is the book for you.&amp;quot;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;viewsourcecode.org&#x2F;snaptoken&#x2F;kilo&#x2F;index.html&quot;&gt;Build Your Own Text Editor&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;A walkthrough tutorial on how to build a text editor with C.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;beej.us&#x2F;guide&#x2F;bgc&#x2F;html&#x2F;split&#x2F;&quot;&gt;Beej&#x27;s Guide to C Programming&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&amp;quot;This is a rather comprehensive guide to C for folks who already know how to program in another language. The first half of the book is written in a tutorial style, while the second half is a reference section complete with examples (inspired by the incomparable Turbo C Bible). The goal is to keep this up-to-date with the latest C standards.&amp;quot;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -862,7 +872,7 @@
 		<title>new blog</title>
 		<published>2020-01-09T02:34:47.328+00:00</published>
 		<updated>2020-01-09T02:34:47.328+00:00</updated>
-		<link href="/new-blog/" type="text/html"/>
+		<link rel="alternate" href="/new-blog/" type="text/html"/>
 		<id>/new-blog/</id>
 		<content type="html">&lt;h1 id=&quot;new-blog&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#new-blog&quot; aria-label=&quot;Anchor link for: new-blog&quot;&gt;#&lt;&#x2F;a&gt;new blog&lt;&#x2F;h1&gt;
 &lt;p&gt;After using and loving &lt;a href=&quot;https:&#x2F;&#x2F;rwtxt.com&quot;&gt;rwtxt&lt;&#x2F;a&gt; for about a year, I decided I wanted more granular control of my blog, in both its content and styles. The only reasonable answer seemed to be to use a static site generator, but the typical utilization of one entails usage of a text editor to write content (Sublime Text, VSCode, Atom, etc.) While this is an &lt;em&gt;OK&lt;&#x2F;em&gt; experience, I got really spoiled by the web-based, built-in editor of rwtxt which made updating and creating new content trivial on desktop and mobile.&lt;&#x2F;p&gt;
@@ -888,7 +898,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>free static site hosting</title>
 		<published>2019-12-06T15:24:39.126+00:00</published>
 		<updated>2019-12-06T15:24:39.126+00:00</updated>
-		<link href="/free-static-site-hosting/" type="text/html"/>
+		<link rel="alternate" href="/free-static-site-hosting/" type="text/html"/>
 		<id>/free-static-site-hosting/</id>
 		<content type="html">&lt;h1 id=&quot;free-static-site-hosting&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#free-static-site-hosting&quot; aria-label=&quot;Anchor link for: free-static-site-hosting&quot;&gt;#&lt;&#x2F;a&gt;free static site hosting&lt;&#x2F;h1&gt;
 &lt;p&gt;Consider this a sister blog post to my last, but here is a list of free static site hosting platforms I have found.&lt;&#x2F;p&gt;
@@ -914,7 +924,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>simple writing platforms</title>
 		<published>2019-12-06T15:24:16.429+00:00</published>
 		<updated>2019-12-06T15:24:16.429+00:00</updated>
-		<link href="/simple-writing-platforms/" type="text/html"/>
+		<link rel="alternate" href="/simple-writing-platforms/" type="text/html"/>
 		<id>/simple-writing-platforms/</id>
 		<content type="html">&lt;h1 id=&quot;simple-writing-platforms&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#simple-writing-platforms&quot; aria-label=&quot;Anchor link for: simple-writing-platforms&quot;&gt;#&lt;&#x2F;a&gt;simple writing platforms&lt;&#x2F;h1&gt;
 &lt;p&gt;I enjoy this trend of creating minimal, programmer-friendly static content blog software. Here is a list of several applications I have found over the years.&lt;&#x2F;p&gt;
@@ -946,7 +956,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>amazon alternatives</title>
 		<published>2019-08-28T14:23:56.056+00:00</published>
 		<updated>2019-08-28T14:23:56.056+00:00</updated>
-		<link href="/amazon-alternatives/" type="text/html"/>
+		<link rel="alternate" href="/amazon-alternatives/" type="text/html"/>
 		<id>/amazon-alternatives/</id>
 		<content type="html">&lt;h1 id=&quot;amazon-alternatives&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#amazon-alternatives&quot; aria-label=&quot;Anchor link for: amazon-alternatives&quot;&gt;#&lt;&#x2F;a&gt;amazon alternatives&lt;&#x2F;h1&gt;
 &lt;h2 id=&quot;books&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#books&quot; aria-label=&quot;Anchor link for: books&quot;&gt;#&lt;&#x2F;a&gt;books&lt;&#x2F;h2&gt;
@@ -970,7 +980,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>code backlog</title>
 		<published>2019-08-01T14:22:56.653+00:00</published>
 		<updated>2019-08-01T14:22:56.653+00:00</updated>
-		<link href="/code-backlog/" type="text/html"/>
+		<link rel="alternate" href="/code-backlog/" type="text/html"/>
 		<id>/code-backlog/</id>
 		<content type="html">&lt;h1 id=&quot;code-backlog&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#code-backlog&quot; aria-label=&quot;Anchor link for: code-backlog&quot;&gt;#&lt;&#x2F;a&gt;code backlog&lt;&#x2F;h1&gt;
 &lt;p&gt;It has occurred to me that I put far too many projects in the backburner, alternating between multiple projects whilst completing none of them. For this reason, I think I should start a priority queue for my projects and include notes&#x2F;thoughts on each project.&lt;&#x2F;p&gt;
@@ -1073,7 +1083,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>meditate</title>
 		<published>2019-07-02T14:22:16.009+00:00</published>
 		<updated>2019-07-02T14:22:16.009+00:00</updated>
-		<link href="/meditate/" type="text/html"/>
+		<link rel="alternate" href="/meditate/" type="text/html"/>
 		<id>/meditate/</id>
 		<content type="html">&lt;h1 id=&quot;meditate&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#meditate&quot; aria-label=&quot;Anchor link for: meditate&quot;&gt;#&lt;&#x2F;a&gt;meditate&lt;&#x2F;h1&gt;
 &lt;p&gt;Pratice is essential for meditation. Do this when you feel a little overcome by stress.&lt;&#x2F;p&gt;
@@ -1092,7 +1102,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>wishlist</title>
 		<published>2019-06-04T14:20:03.472+00:00</published>
 		<updated>2019-06-04T14:20:03.472+00:00</updated>
-		<link href="/wishlist/" type="text/html"/>
+		<link rel="alternate" href="/wishlist/" type="text/html"/>
 		<id>/wishlist/</id>
 		<content type="html">&lt;h1 id=&quot;wishlist&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#wishlist&quot; aria-label=&quot;Anchor link for: wishlist&quot;&gt;#&lt;&#x2F;a&gt;wishlist&lt;&#x2F;h1&gt;
 &lt;p&gt;This is a wishlist of miscellaneous stuff I want.&lt;&#x2F;p&gt;
@@ -1181,7 +1191,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>how to buy the ideal desk</title>
 		<published>2019-06-03T14:20:50.709+00:00</published>
 		<updated>2019-06-03T14:20:50.709+00:00</updated>
-		<link href="/how-to-buy-the-ideal-desk/" type="text/html"/>
+		<link rel="alternate" href="/how-to-buy-the-ideal-desk/" type="text/html"/>
 		<id>/how-to-buy-the-ideal-desk/</id>
 		<content type="html">&lt;h1 id=&quot;how-to-buy-the-ideal-desk&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-to-buy-the-ideal-desk&quot; aria-label=&quot;Anchor link for: how-to-buy-the-ideal-desk&quot;&gt;#&lt;&#x2F;a&gt;how to buy the ideal desk&lt;&#x2F;h1&gt;
 &lt;p&gt;I find that simple flat, sturdy surfaces make for the best desks.&lt;&#x2F;p&gt;
@@ -1200,7 +1210,7 @@ After using prose.io for about a week and loving its editor, I&#x27;ve decided t
 		<title>game backlog</title>
 		<published>2019-06-02T14:21:19.433+00:00</published>
 		<updated>2019-06-02T14:21:19.433+00:00</updated>
-		<link href="/backlog/" type="text/html"/>
+		<link rel="alternate" href="/backlog/" type="text/html"/>
 		<id>/backlog/</id>
 		<content type="html">&lt;h1 id=&quot;game-backlog&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#game-backlog&quot; aria-label=&quot;Anchor link for: game-backlog&quot;&gt;#&lt;&#x2F;a&gt;game backlog&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;a href=&quot;&#x2F;reviews&quot;&gt;Reviews (Completed)&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
