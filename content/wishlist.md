@@ -15,6 +15,8 @@ This is a wishlist of miscellaneous stuff I want.
 * TurboGrafx-16 Mini
 * Analogue Pocket
 * Sony Trinitron
+* GuliKit (No Stick Drift) KingKong 2 Pro Wireless Controller
+* 8bitdo Xbox Ultimate Wired Controller
 
 ## Software
 * VPS Credit from anywhere really
