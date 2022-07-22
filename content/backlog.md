@@ -16,6 +16,7 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
+* Refunct
 * Metroid Prime - *16h*
 * Binarystar Infinity
 * Earthbound - *32h*
@@ -24,6 +25,7 @@ date = 2019-06-02T14:21:19.433Z
 * Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
 * River City Girls
+* Return of the Obra Dinn
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
@@ -149,6 +151,7 @@ date = 2019-06-02T14:21:19.433Z
 * Donkey Kong Jungle Beat - *7h*
 * Super House of Dead Ninjas - *07h*
 * Hob - *10h*
+* HROT
 * Quake 4 - *10h*
 * Tokyo 42 - *11h*
 * Hellbade - *08h*
@@ -294,6 +297,11 @@ date = 2019-06-02T14:21:19.433Z
 * Castlevania: Portrait of Ruin - *13h*
 * Castlevania: Order of Ecclesia - *13h*
 * MUSHA - *03h*
+* Hellblade: Senua's Sacrifice
+* Ion Fury
+* Hedon Bloodrite
+* LISA
+* Mini Metro
 * Renowned Explorers: International Society - *20h*
 * The Legend of Zelda: Phantom Hourglass - *20h*
 * The Legend of Zelda: Spirit Tracks - *26h*
@@ -333,6 +341,7 @@ date = 2019-06-02T14:21:19.433Z
 * Ninja Gaiden Sigma 2 - *20h*
 * 20XX - *14h*
 * 30XX
+* Neon Abyss
 * SteamWorld Dig - *08h*
 * SteamWorld Dig 2 - *10h*
 * AI: The Somnium Files - *20h*
@@ -340,6 +349,9 @@ date = 2019-06-02T14:21:19.433Z
 * Bravely Second: End Layer - *64h*
 * Bravely Default II - *64h*
 * Cyber Shadow - *11h*
+* Hitman: Blood Money
+* HITMAN
+* HITMAN 2
 * Dead Rising 2: Off the Record - *18h*
 * Deus Ex: Mankind Divided - *30h*
 * My Time At Portia - *98h*
@@ -347,10 +359,18 @@ date = 2019-06-02T14:21:19.433Z
 * Ittle Dew - *06h*
 * Ittle Dew 2 - *10h*
 * Popful Mail - *08h*
+* Mr Shifty
 * Stardew Valley
 * Excitebike: Bun Bun Mario Battle
 * Fuga: Melodies of Steel - *22h*
+* Onimusha: Warlords
+* Morbid: The Seven Acolytes
 * Demon Turf - *21h*
+* Little Nightmares
+* Little Nightmares 2
+* Long Live The Queen
+* Loren The Amazon Princess
+* Loot Rascals
 * .hack//G.U. Last Recode
 * 10 Second Ninja X
 * 140
@@ -423,9 +443,121 @@ date = 2019-06-02T14:21:19.433Z
 * Monster Sanctuary
 * Aggelos
 * Songbird Symphony
+* Full Mojo Rampage
+* GALAK-Z
+* Geometry Dash
+* Gloom
+* Going Under
+* Golf Club Wasteland
+* Bee Simulator
+* Graveyard Keeper
+* Buddy Simulator 1984
+* Graze Counter
+* Guacamelee! Super Turbo Championship Edition
+* Gunpoint
+* Gyromancer
+* Hamilton's Great Adventure
+* Hand of Fate
+* Hard Reset
+* Hellbound
+* Hell Yeah!
+* Hero Siege
+* Hyperdimension Neptunia Re;Birth1
+* Ikenfell
+* I Have No Mouth, and I Must Scream
+* Immortal Planet
+* Immortal Redneck
+* Impulsion
+* Infinifactory
+* INK
+* inMomentum
+* Insanely Twisted Shadow Planet
+* Intrusion 2
+* Iris and the Giant
+* Iron Danger
+* JYDGE
+* Karmaflow
+* Kill It With Fire
+* Legend of Dungeon
+* Leap of Fate
+* Legend of Grimrock
+* Legend of Grimrock 2
+* Levelhead
+* Lovecraft's Untold Stories
+* Lost Planet
+* Lost Planet 2
+* Lost Planet 3
+* Lume
+* Lumino City
+* LYNE
+* Machinarium
+* Mad Max
+* Magrunner: Dark Pulse
+* Majesty 2 Collection
+* Memoria
+* Milky Way Prince – The Vampire Star
+* Mini Motor Racing X
+* Morkredd
+* Ms. Splosion Man
+* Murder by Numbers
+* Museum of Other Realities
+* Need for Speed: Hot Pursuit
+* NEO Scavenger
+* Niche
+* NightSky
+* Nihilumbra
+* Ninjin: Clash of Carrots
+* Nongunz: Doppelganger Edition
+* Nowhere Prophet
+* Old School Musical
+* OlliOlli
+* One Step From Eden
+* One Way Heroics
+* Oniken
+* Orwell
+* Orwell: Ignorance is Strength
+* Overload
+* Overture
+* Oxenfree
+* Panzer Paladin
+* Pathologic 2
+* Perfection.
+* Phantom Breaker: Battle Grounds
+* Pid
+* Plug & Play
+* Polyball
+* Poly Bridge
+* Press Any Button
+* Primordia
+* Psychonauts
+* Punch Club
+* Q-YO Blaster
+* Race The Sun
+* Radical Rabbit Stew
+* Redeemer
+* Red Faction: Guerrilla Re-Mars-tered
+* RefleX
+* Regions Of Ruin
+* Regular Human Basketball
+* Remember Me
+* Remnants of Naezith
+* Retro/Grade
+* Retro City Rampage™ DX
+* Retro Game Crunch
+* Reus
+* Revenge of the Titans
+* Reventure
+* Rise & Shine
+* River City Ransom: Underground
+* Road Not Taken
+* Rock of Ages
+* Rise of the Argonauts
+* RunGunJumpGun
 
 ## Multi-player (No particular order)
 
+* Necropolis
+* Joggernauts
 * FORCED: Slightly Better Edition
 * Eon Altar
 * Children of Morta
@@ -447,9 +579,6 @@ date = 2019-06-02T14:21:19.433Z
 * Spacelords
 * Wyv and Keep: The Temple of the Lost Idol
 * Monster Hunter: World
-* Bee Simulator
-* Graveyard Keeper
-* Buddy Simulator 1984
 
 
 ## List of intended replays
