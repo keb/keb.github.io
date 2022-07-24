@@ -553,9 +553,12 @@ date = 2019-06-02T14:21:19.433Z
 * Rock of Ages
 * Rise of the Argonauts
 * RunGunJumpGun
+* They Always Run
+* Unto The End
 
 ## Multi-player (No particular order)
 
+* Rogue Heroes: Ruins of Tasos
 * Necropolis
 * Joggernauts
 * FORCED: Slightly Better Edition
