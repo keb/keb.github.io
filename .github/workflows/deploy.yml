@@ -16,15 +16,20 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
-      - name: Install Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: 14
+#       - name: Install Node.js
+#         uses: actions/setup-node@v1
+#         with:
+#           node-version: 14
+      - name: Download bun
+        run:
+          wget "https://github.com/oven-sh/bun/releases/download/bun-v0.1.5/bun-linux-x64.zip" -O bun.zip
+          unzip bun.zip -d bun
+          mv ./bun/bun-linux-64/bun ./bun
 
       - name: Run mastodon script
         run: |
-          npm install
-          npm run build:feed
+          ./bun install
+          ./bun run build:feed
 
       - name: Download and Run Zola
         run: |
