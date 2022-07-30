@@ -12,24 +12,25 @@ on:
 jobs:
   build-and-deploy:
     if: ${{ github.event.issue.number == 1 || github.event.issue.number == null }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
 
       - name: Install Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 16
+          node-version: 14
 
       - name: Run mastodon script
         run: |
           npm install
           npm run build:feed
 
-      - name: Install and Run Zola
+      - name: Download and Run Zola
         run: |
-          sudo snap install --edge zola
-          zola build
+          wget "https://github.com/getzola/zola/releases/download/v0.16.0/zola-v0.16.0-x86_64-unknown-linux-gnu.tar.gz" -O zola.tar.gz
+          tar -xf zola.tar.gz
+          ./zola build
 
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4.3.3
