@@ -16,16 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
-      - name: Download bun
-        run: |
-          wget "https://github.com/oven-sh/bun/releases/download/bun-v0.1.5/bun-linux-x64.zip" -O bun_dir.zip
-          unzip bun_dir.zip -d bun_dir
-          mv ./bun_dir/bun-linux-x64/bun ./bun
-
       - name: Run mastodon script
         run: |
-          ./bun install
-          ./bun run build:feed
+          npm install
+          npm run build:feed
 
       - name: Download and Run Zola
         run: |
