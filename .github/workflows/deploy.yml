@@ -24,7 +24,7 @@ jobs:
         run: |
           wget "https://github.com/oven-sh/bun/releases/download/bun-v0.1.5/bun-linux-x64.zip" -O bun.zip
           unzip bun.zip -d bun
-          mv ./bun/bun-linux-64/bun ./bun
+          mv ./bun/bun-linux-x64/bun ./bun
 
       - name: Run mastodon script
         run: |
