@@ -5,7 +5,7 @@ date = 2021-04-10T14:21:19.433Z
 
 # new home / mirrors
 
-**Update: I now live on [keb.im](https://keb.im)**
+**Update: I now live on [keb.im](https://keb.im).**
 
 Vercel has finally retired their old `now.sh` domains and have migrated all old apps to the new `vercel.app` domain. This was saddening to me, as I had used `keb.now.sh` for a couple years now and loved the tiny domain. "keb dot vercel dot app" does not quite have the same ring to it.
 
