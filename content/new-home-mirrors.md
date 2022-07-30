@@ -5,6 +5,8 @@ date = 2021-04-10T14:21:19.433Z
 
 # new home / mirrors
 
+**Update: I now live on [keb.im](https://keb.im)**
+
 Vercel has finally retired their old `now.sh` domains and have migrated all old apps to the new `vercel.app` domain. This was saddening to me, as I had used `keb.now.sh` for a couple years now and loved the tiny domain. "keb dot vercel dot app" does not quite have the same ring to it.
 
 Seeing as I already own the `sheev.net` domain, I decided to ultimately move my site to [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/), using a custom domain. I now live on [keb.sheev.net](https://keb.sheev.net), which is cool because my main e-mail *is* `keb@sheev.net` anyway.
