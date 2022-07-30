@@ -1,4 +1,8 @@
-name: Github Pages
+name: deploy
+
+env:
+  ZOLA_VERSION: 0.16.0
+
 on:
   push:
     branches:
@@ -23,7 +27,7 @@ jobs:
 
       - name: Download and Run Zola
         run: |
-          wget "https://github.com/getzola/zola/releases/download/v0.16.0/zola-v0.16.0-x86_64-unknown-linux-gnu.tar.gz" -O zola.tar.gz
+          wget "https://github.com/getzola/zola/releases/download/v$ZOLA_VERSION/zola-v$ZOLA_VERSION-x86_64-unknown-linux-gnu.tar.gz" -O zola.tar.gz
           tar -xf zola.tar.gz
           ./zola build
 
