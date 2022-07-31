@@ -67,6 +67,8 @@ date = 2019-06-02T14:21:19.433Z
 * Alundra - *32h*
 * Vagrant Story - *33h*
 * DUSK
+* The Stanley Parable
+* The Sun and Moon
 * Enter the Gungeon
 * Sonic Generations - *11h*
 * Sonic Colors (DS) - *07h*
@@ -117,6 +119,7 @@ date = 2019-06-02T14:21:19.433Z
 * Freedom Planet - *08h*
 * Katamari Damacy REROLL - *05h*
 * Axelay - *02h*
+* System Shock 2
 * Castlevania: Bloodlines - *04h*
 * Castlevania: Aria of Sorrow - *08h*
 * Castlevania: Dawn of Sorrow - *10h*
@@ -125,6 +128,7 @@ date = 2019-06-02T14:21:19.433Z
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*
+* Syder Arcade
 * Cyberpunk 2077 - *70h*
 * Absolute Drift - *04h*
 * Misao - *03h*
@@ -182,9 +186,12 @@ date = 2019-06-02T14:21:19.433Z
 * Primordia - *07h*
 * Rakuen - *08h*
 * Rochard - *06h*
-* Sine Mora - *06h*
+* The Outer Wilds
+* The Hex
+* Sine Mora EX - *06h*
 * Stories: The Path of Destinies - *08h*
 * The Sexy Brutale - *07h*
+* The Darkness II
 * Strider - *08h*
 * Prince of Persia (2008) *14h*
 * Invisible, Inc. - *10h*
@@ -204,6 +211,7 @@ date = 2019-06-02T14:21:19.433Z
 * Trine 4 - *10h*
 * Valfaris - *09h*
 * Yooka-Laylee and the Impossible Lair - *15h*
+* Timelie
 * VA-11 Hall-A - *13h*
 * Illusion of Gaia - *14h*
 * Sphinx and the Cursed Mummy - *14h*
@@ -237,10 +245,12 @@ date = 2019-06-02T14:21:19.433Z
 * Treasure Hunter G - *22h*
 * Brigador - *24h*
 * Rain World - *29h*
+* SOMA
 * The Missing Link (Ocarina of Time romhack)
 * Lufia II: Rise of the Sinistrals - *27h*
 * Disco Elysium - *29h*
 * The Surge - *28h*
+* The Surge 2
 * Thronebreaker: The Witcher Tales - *32h*
 * The Last Story - *27h*
 * Odin Sphere Leifthrasir - *33h*
@@ -268,6 +278,8 @@ date = 2019-06-02T14:21:19.433Z
 * The World Ends with You - *46h*
 * Risen - *36h*
 * Risen 3 - *43h*
+* Inscryption
+* Velocibox
 * Valkyria Chronicles - *39h*
 * Valkyria Chronicles 4 - *40h*
 * Ninja Gaiden Black - *17h*
@@ -282,6 +294,8 @@ date = 2019-06-02T14:21:19.433Z
 * Breath of Fire III - *46h*
 * Breath of Fire IV - *43h*
 * Breath of Fire V - *31h*
+* Smile For Me
+* Turnip Boy Commits Tax Evasion
 * Lost Odyssey - *65h*
 * Final Fantasy X - *70h*
 * Fantasy Tactics A2: Grimoire of the Rift - *79h*
@@ -296,12 +310,15 @@ date = 2019-06-02T14:21:19.433Z
 * Treasure of the Rudras - *30h*
 * Castlevania: Portrait of Ruin - *13h*
 * Castlevania: Order of Ecclesia - *13h*
+* Zwei: The Arges Adventure
+* Zwei: The Ilvard Insurrection
 * MUSHA - *03h*
 * Hellblade: Senua's Sacrifice
 * Ion Fury
 * Hedon Bloodrite
 * LISA
 * Mini Metro
+* The Messenger
 * Renowned Explorers: International Society - *20h*
 * The Legend of Zelda: Phantom Hourglass - *20h*
 * The Legend of Zelda: Spirit Tracks - *26h*
@@ -318,6 +335,8 @@ date = 2019-06-02T14:21:19.433Z
 * Onimusha 3: Demon Siege - *14h*
 * Einhander - *02h*
 * Skies of Arcadia Legends - *52h*
+* Stardew Valley
+* World's Dawn
 * Record of Lodoss War-Deedlit in Wonder Labyrinth- - *06h*
 * Professor Layton and the Curious Village - *14h*
 * Professor Layton and the Diabolical Box - *15h*
@@ -327,6 +346,8 @@ date = 2019-06-02T14:21:19.433Z
 * Professor Layton vs. Phoenix Wright: Ace Attorney - *28h*
 * Professor Layton and the Azran Legacy - *26h*
 * Layton's Mystery Journey - *25h*
+* Starpoint Gemini Warlords
+* Starseed Pilgrim
 * Golden Sun: The Lost Age - *40h*
 * Golden Sun: Dark Dawn - *31h*
 * Legacy of Kain: Defiance - *15h*
@@ -339,11 +360,13 @@ date = 2019-06-02T14:21:19.433Z
 * Cargo Commander - *12h*
 * Ninja Gaiden Sigma - *15h*
 * Ninja Gaiden Sigma 2 - *20h*
+* Snakebird
 * 20XX - *14h*
 * 30XX
 * Neon Abyss
 * SteamWorld Dig - *08h*
 * SteamWorld Dig 2 - *10h*
+* SteamWorld Heist
 * AI: The Somnium Files - *20h*
 * Bravely Default - *60h*
 * Bravely Second: End Layer - *64h*
@@ -352,6 +375,8 @@ date = 2019-06-02T14:21:19.433Z
 * Hitman: Blood Money
 * HITMAN
 * HITMAN 2
+* SUNLESS SEA
+* Sunless Skies: Sovereign Edition
 * Dead Rising 2: Off the Record - *18h*
 * Deus Ex: Mankind Divided - *30h*
 * My Time At Portia - *98h*
@@ -359,13 +384,33 @@ date = 2019-06-02T14:21:19.433Z
 * Ittle Dew - *06h*
 * Ittle Dew 2 - *10h*
 * Popful Mail - *08h*
+* Thomas Was Alone
+* The Mummy Demastered
+* SUPER CHICKEN JUMPER
+* Sudeki
+* Tangledeep
+* STAR WARS™: Knights of the Old Republic™
+* Sleeping Dogs
+* SimCity 4 Deluxe
 * Mr Shifty
-* Stardew Valley
+* The House of Da Vinci
 * Excitebike: Bun Bun Mario Battle
 * Fuga: Melodies of Steel - *22h*
+* SEUM: Speedrunners from Hell
+* Severed Steel
+* Shenmue
+* Shenmue II
+* Save Room - Organization Puzzle
 * Onimusha: Warlords
+* Scribblenauts Unlimited
+* Saira
+* The Deadly Tower of Monsters
+* SATAZIUS
 * Morbid: The Seven Acolytes
 * Demon Turf - *21h*
+* Teleglitch: Die More Edition
+* Year Walk
+* Teslagrad
 * Little Nightmares
 * Little Nightmares 2
 * Long Live The Queen
@@ -553,15 +598,53 @@ date = 2019-06-02T14:21:19.433Z
 * Rock of Ages
 * Rise of the Argonauts
 * RunGunJumpGun
+* Saints Row 2
 * They Always Run
 * Unto The End
 * The Ramp
 * Sparklite
 * Nomad Survival
 * Grand Mountain Adventure: Wonderlands
+* Sang-Froid - Tales of Werewolves
+* Scratches - Director's Cut
+* Shank
+* Shank 2
+* Shining Resonance Refrain
+* Size Matters
+* Snapshot
+* Songbird Symphony
+* SOULCALIBUR VI
+* Soundodger+
+* Spectraball
+* Space Pirates and Zombies
+* Splasher
+* Streets of Red : Devil's Dare Deluxe
+* Styx: Shards of Darkness
+* Summoner
+* Super Cyborg
+* Syberia
+* Syberia 2
+* The Longest Journey
+* The Dream Machine: Chapter 1 & 2
+* The Guild II
+* The Incredible Adventures of Van Helsing
+* The Incredible Adventures of Van Helsing II
+* The LEGO® NINJAGO® Movie Video Game
+* The Marvellous Miss Take
+* Thief Gold
+* Thief 2
+* Titan Quest Anniversary Edition
+* TowerClimb
+* TumbleSeed
+* Unbox: Newbie's Adventure
+* Waveform
+* WORLD END ECONOMiCA episode.01
 
 ## Multi-player (No particular order)
 
+* Velvet Guard
+* Use Your Words
+* Toto Temple Deluxe
 * Rogue Heroes: Ruins of Tasos
 * Necropolis
 * Joggernauts
