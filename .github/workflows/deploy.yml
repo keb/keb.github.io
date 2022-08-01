@@ -1,8 +1,6 @@
 name: deploy
-
 env:
   ZOLA_VERSION: 0.16.0
-
 on:
   push:
     branches:
@@ -18,7 +16,7 @@ jobs:
     if: ${{ github.event.issue.number == 1 || github.event.issue.number == null }}
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
 
       - name: Run mastodon script
         run: |
@@ -32,7 +30,7 @@ jobs:
           ./zola build
 
       - name: Deploy to gh-pages
-        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: public
