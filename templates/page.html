@@ -7,9 +7,6 @@
     <header class="h4 py2">
         <a href="/">← home</a>
     </header>
-    <small class="h5 p0 m0 light-subdue">
-        {{ page.date | date(format="%B %d, %Y", timezone="America/New_York") }}
-    </small>
 
         {% for h1 in page.toc %}
             {% if h1.children %}

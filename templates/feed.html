@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="controls p1">
+        <a href="https://mas.to/web/home">new</a>
+    </div>
+
+    <header class="h4 py2">
+        <a href="/">← home</a>
+    </header>
+
+    <div class="feed">
+        <h2><a href="https://mas.to/@keb">mas.to/@keb</a></h2>
+        {% include "_mastodon-feed.html" %}
+    </div>
+
+    <footer class="mt2">
+        <small>
+            <a href="#">return to top</a>
+        </small>
+    </footer>
+{% endblock content %}

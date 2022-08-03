@@ -2,9 +2,7 @@
 
 {% block content %}
     <div class="controls p1">
-        new
-        <a href="https://mas.to/web/home">post</a>
-        <a href="https://github.com/keb/keb.github.io/new/master/content">article</a>
+        <a href="https://github.com/keb/keb.github.io/new/master/content">new</a>
     </div>
 
     <div class="home">
@@ -20,18 +18,18 @@
                         <a href="mailto:keb@sheev.net">keb@sheev.net</a>
                     </div>
                 </div>
-                <div class="links">
-                    <ul class="pl2">
-                        <li><a href="https://github.com/keb">github.com/keb</a></li>
-                        <li><a href="https://keb.itch.io/">keb.itch.io</a></li>
-                        <li><a href="https://www.last.fm/user/kebfm">last.fm/user/kebfm</a></li>
-                        <li><a href="https://www.gog.com/u/kebg">gog.com/u/kebg</a></li>
-                        <li><a href="https://steamcommunity.com/id/kebsteam">steamcommunity.com/id/kebsteam</a></li>
-                    </ul>
-                </div>
             </div>
-            <div class="bookmarks">
-                <span>bookmarks »</span>
+            <div class="links">
+                <span>»</span>
+                <a href="https://github.com/keb">github</a>
+                <a href="https://keb.itch.io/">itch.io</a>
+                <a href="https://www.last.fm/user/kebfm">last.fm</a>
+                <a href="https://www.gog.com/u/kebg">gog</a>
+                <a href="https://steamcommunity.com/id/kebsteam">steam</a>
+            </div>
+            <div class="links">
+                <span>~</span>
+                <a href="/feed">/feed</a>
                 <a href="/backlog">/backlog</a>
                 <a href="/reviews">/reviews</a>
                 <a href="/games">/games</a>
@@ -41,26 +39,16 @@
         </header>
         <div class="line" aria-hidden="true"></div>
 
-        <div class="items">
-            <div class="feed">
-                <h2><a href="https://mas.to/@keb">mas.to/@keb</a></h2>
-                {% include "_mastodon-feed.html" %}
-            </div>
-            <div class="line show-mobile"></div>
-            <div class="articles">
-                <h2>articles</h2>
-                {% for post in section.pages | slice(start=0, end=10) %}
-                    <article class="archive-link">
-                        <small><time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time></small>
-                        -
-                        <header style="display: inline;"><a href="{{ post.permalink }}">{{ post.title | truncate(length=10) }}</a></header>
-                    </article>
-                {% endfor %}
+        {% for post in section.pages | slice(start=0, end=6) %}
+            <article class="archive-link">
+                <time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time>
+                -
+                <header style="display: inline;"><a href="{{ post.permalink }}">{{ post.title }}</a></header>
+            </article>
+        {% endfor %}
 
-                <nav class="py1">
-                    <a href="/archive/">archive →</a>
-                </nav>
-            </div>
-        </div>
+        <nav class="py1">
+            <a href="/archive/">archive →</a>
+        </nav>
     </div>
 {% endblock content %}

@@ -255,9 +255,7 @@ h6:hover > .zola-anchor {
     border-bottom: 1px solid var(--line-color);
 }
 .profile {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    align-items: center;
+    padding-bottom: 0.75rem;
 }
 .profile > .card > .image {
     width: 100px;
@@ -279,18 +277,6 @@ h6:hover > .zola-anchor {
     font-size: 0.75em;
     opacity: 0.35;
 }
-.home > .items {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 40px;
-}
-.home > .items h2 {
-    font-size: 1.2em;
-    margin: 0.25rem 0 1rem 0;
-}
-/*.feed {
-    max-width: 485.333px;
-}*/
 .feed-item {
     padding-bottom: var(--spacing);
 }
@@ -306,11 +292,8 @@ h6:hover > .zola-anchor {
 .site-header li + li {
     margin-top: 0.2rem;
 }
-.bookmarks {
-    margin-top: 0.5rem;
-}
-.bookmarks div + div {
-    margin-top: 0.2rem;
+.links {
+    margin: 0.35rem 0;
 }
 .light-subdue {
     color: #9b9b9b;
@@ -457,8 +440,7 @@ h6:hover > .zola-anchor {
         --post-font-size: 16px;
         --post-line-height: 1.75rem;
     }
-    .profile,
-    .home > .items {
+    .profile {
         display: block;
     }
     /*.feed { max-width: 100%; }*/

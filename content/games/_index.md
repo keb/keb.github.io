@@ -1,6 +1,6 @@
 +++
 title = "game library"
 render = true
-template = "gamelib.html"
+template = "games.html"
 transparent = true
 +++
