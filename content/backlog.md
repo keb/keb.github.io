@@ -55,6 +55,8 @@ date = 2019-06-02T14:21:19.433Z
 * Pikmin 2 - *20h*
 * Pikmin 3 - *16h*
 * Blasphemous
+* Dread X Collection
+* FAR: Lone Sails
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*
 * The Legend of Zelda: Majora's Mask - *30h*
@@ -639,10 +641,15 @@ date = 2019-06-02T14:21:19.433Z
 * Unbox: Newbie's Adventure
 * Waveform
 * WORLD END ECONOMiCA episode.01
+* Warpips
+* Slain: Back from Hell
+* Neversong
+* Machinika Museum
 
 ## Multi-player (No particular order)
 
 * Velvet Guard
+* Aragami
 * Use Your Words
 * Toto Temple Deluxe
 * Rogue Heroes: Ruins of Tasos
