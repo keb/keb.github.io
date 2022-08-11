@@ -7,6 +7,7 @@ date = 2021-05-28T14:21:19.433Z
 
 Below is a list of songs that have had some profound effect on me. Will add more as I remember to.
 
+* An Excerpt From 6,000,000,000,000 Miles Before The First, or, The Revisitation of The Blue Ghost - maudlin of the well
 * Julie & Candy - Boards of Canada
 * Close To Me - The Cure
 * Disintegration - The Cure
