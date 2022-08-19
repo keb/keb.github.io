@@ -645,9 +645,17 @@ date = 2019-06-02T14:21:19.433Z
 * Slain: Back from Hell
 * Neversong
 * Machinika Museum
+* GTTOD: Get to the Orange Door
+* Jumpala
+* Necro Smith
+* Pilgrims
+* The Coma 2: Vicious Sisters
+* Vectronom
 
 ## Multi-player (No particular order)
 
+* EYE: Divine Cybermancy
+* Embr
 * Velvet Guard
 * Aragami
 * Use Your Words
