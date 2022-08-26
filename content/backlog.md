@@ -321,6 +321,7 @@ date = 2019-06-02T14:21:19.433Z
 * LISA
 * Mini Metro
 * The Messenger
+* Singularity
 * Renowned Explorers: International Society - *20h*
 * The Legend of Zelda: Phantom Hourglass - *20h*
 * The Legend of Zelda: Spirit Tracks - *26h*
@@ -654,6 +655,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Multi-player (No particular order)
 
+* Nox
 * EYE: Divine Cybermancy
 * Embr
 * Velvet Guard
