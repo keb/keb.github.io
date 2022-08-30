@@ -655,6 +655,8 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Multi-player (No particular order)
 
+* Obscure
+* Obscure 2
 * Nox
 * EYE: Divine Cybermancy
 * Embr
@@ -690,6 +692,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## List of intended replays
 
+* Rayman Origins
 * Nier Automata
 * Final Fantasies [Versions](https://www.reddit.com/r/FinalFantasy/wiki/whichversion#wiki_final_fantasy_vi)
 * Cave Story+
