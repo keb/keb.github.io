@@ -18,7 +18,7 @@ A collection of (free) web books, guides, and references by category that I've f
 * [Nature of Code](https://natureofcode.com/book/)
 	* *"This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results."*
 
-## C
+## C/C++
 
 * [Build Your Own Lisp](https://www.buildyourownlisp.com/)
 	* *"If you're looking to learn C, or you've ever wondered how to build your own programming language, this is the book for you."*
@@ -26,6 +26,8 @@ A collection of (free) web books, guides, and references by category that I've f
 	* *A walkthrough tutorial on how to build a text editor with C.*
 * [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/)
 	* *"This is a rather comprehensive guide to C for folks who already know how to program in another language. The first half of the book is written in a tutorial style, while the second half is a reference section complete with examples (inspired by the incomparable Turbo C Bible). The goal is to keep this up-to-date with the latest C standards."*
+* [C++ By Example](https://cppbyexample.com/)
+	* *"Here you will find clear and up to date C++ code examples with concise and straightforward explanations."*
 
 ## Network Programming
 
