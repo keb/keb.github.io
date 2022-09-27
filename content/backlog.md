@@ -652,6 +652,13 @@ date = 2019-06-02T14:21:19.433Z
 * Pilgrims
 * The Coma 2: Vicious Sisters
 * Vectronom
+* SHEEPO
+* The Beast Inside
+* Discolored
+* Terminus: Zombie Survivors
+* Anuchard
+* Unexplored 2: The Wayfarer's Legacy
+* Deliver Us The Moon
 
 ## Multi-player (No particular order)
 
