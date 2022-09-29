@@ -137,7 +137,7 @@ A collection of (free) web books, guides, and references by category that I've f
 
 ## ML
 
-* [Functional Programming in OCaml](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+* [Functional Programming in OCaml](https://cs3110.github.io/textbook/cover.html)
 	* *An introduction to Functional Programming with OCaml, adapted from Cornell CS3110.*
 
 ## Racket
