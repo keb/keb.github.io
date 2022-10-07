@@ -114,6 +114,7 @@ date = 2019-06-02T14:21:19.433Z
 * Devil May Cry 3 - *17h*
 * Devil May Cry 4 - *15h*
 * Devil May Cry 5 - *16h*
+* DEATHLOOP
 * The Legend of the Mystical Ninja - *05h*
 * Ganbare Goemon 2: Kiteretsu Shougun Magginesu - *05h*
 * Ganbare Goemon 3: Shishijyūrokubei no Karakuri Manji Katame - *08h*
@@ -659,6 +660,13 @@ date = 2019-06-02T14:21:19.433Z
 * Anuchard
 * Unexplored 2: The Wayfarer's Legacy
 * Deliver Us The Moon
+* Monster Train (First Class)
+* The Dark Pictures Anthology: Little Hope
+* Disciples: Liberation
+* Maid of Sker
+* Epic Chef
+* Golf Gang
+* Railroad Corporation
 
 ## Multi-player (No particular order)
 
