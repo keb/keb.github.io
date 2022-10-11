@@ -42,6 +42,7 @@ date = 2019-06-02T14:21:19.433Z
 * Fly'N
 * Front Mission Series: Gun Hazard - *18h*
 * Geometry Wars 3: Dimensions Evolved - *14h*
+* Final Fantasy X - *70h*
 * FTL - *12h*
 * Into the Breach - *17h*
 * Rogue Legacy - *17h*
@@ -300,7 +301,6 @@ date = 2019-06-02T14:21:19.433Z
 * Smile For Me
 * Turnip Boy Commits Tax Evasion
 * Lost Odyssey - *65h*
-* Final Fantasy X - *70h*
 * Fantasy Tactics A2: Grimoire of the Rift - *79h*
 * Dark Cloud 2 - *71h*
 * The Last Remnant - *75h*
