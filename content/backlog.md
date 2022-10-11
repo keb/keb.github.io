@@ -11,6 +11,7 @@ date = 2019-06-02T14:21:19.433Z
 
 * Elden Ring
 * Chrono Trigger - *30h*
+* Castlevania: Circle of the Moon - *11h*
 
 ## In order of intended play
 
@@ -127,7 +128,6 @@ date = 2019-06-02T14:21:19.433Z
 * Castlevania: Bloodlines - *04h*
 * Castlevania: Aria of Sorrow - *08h*
 * Castlevania: Dawn of Sorrow - *10h*
-* Castlevania: Circle of the Moon - *11h*
 * Castlevania: Harmony of Dissonance - *11h*
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
