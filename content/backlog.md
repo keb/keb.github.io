@@ -412,6 +412,10 @@ date = 2019-06-02T14:21:19.433Z
 * SATAZIUS
 * Morbid: The Seven Acolytes
 * Demon Turf - *21h*
+* Shadow Tactics
+* Shadow Tactics: Aiko's Choice
+* Eldest Souls
+* UnMetal
 * Teleglitch: Die More Edition
 * Year Walk
 * Teslagrad
@@ -476,6 +480,7 @@ date = 2019-06-02T14:21:19.433Z
 * Double Dragon Neon
 * Dungeon Siege
 * Dungeon Siege II
+* Kingdoms of Amalur: Re-Reckoning
 * Dyscourse
 * Eagle Island Twist
 * ELDERBORN
@@ -667,6 +672,7 @@ date = 2019-06-02T14:21:19.433Z
 * Epic Chef
 * Golf Gang
 * Railroad Corporation
+* Raji: An Ancient Epic
 
 ## Multi-player (No particular order)
 
@@ -703,6 +709,8 @@ date = 2019-06-02T14:21:19.433Z
 * Spacelords
 * Wyv and Keep: The Temple of the Lost Idol
 * Monster Hunter: World
+* Hell Let Loose
+* Roboquest
 
 
 ## List of intended replays
