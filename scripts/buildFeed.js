@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from 'fs';
 import { resolve } from 'path';
 import Parser from 'rss-parser';
 
-const FEED_URL = 'https://mas.to/users/keb.rss';
+const FEED_URL = 'https://tilde.zone/users/keb.rss';
 
 const parser = new Parser({
   customFields: {
