@@ -32,7 +32,7 @@ let html = '';
             }
         }
 
-        const date = new Date(item.title);
+        const date = new Date(item.pubDate);
         const dateStr = `${date.getFullYear()}.${date.getMonth() + 1}.${date.getDate()}`;
 
         html += (
