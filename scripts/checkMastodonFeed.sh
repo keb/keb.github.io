@@ -12,7 +12,7 @@ FILE=last_date.txt
 ISSUE_URL=https://api.github.com/repos/keb/keb.github.io/issues/1/comments
 AUTH_TOKEN=$GITHUB_AUTH_TOKEN
 
-FEED=$(curl -fsSL -X GET https://mas.to/users/keb.rss)
+FEED=$(curl -fsSL -X GET https://tilde.zone/users/keb.rss)
 LAST_DATE_STR=$(echo "$FEED" | grep -oPm1 "(?<=<lastBuildDate>)[^<]+")
 LAST_DATE=$(date -d "$LAST_DATE_STR" +%s)
 
