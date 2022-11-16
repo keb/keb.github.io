@@ -1,3 +1,4 @@
+// note to self: I am no longer using this
 import { readFileSync, writeFileSync } from 'fs';
 import { resolve } from 'path';
 import Parser from 'rss-parser';

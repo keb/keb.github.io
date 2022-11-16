@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# note to self: i am no longer using this, but keeping here for future reference
 # this script is run using a cronjob to signal to my Github Workflow when to rebuild
 
 # When using Curl in shell scripts, always pass -fsSL, which:
