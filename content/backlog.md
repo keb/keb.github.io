@@ -712,6 +712,9 @@ date = 2019-06-02T14:21:19.433Z
 * Monster Hunter: World
 * Hell Let Loose
 * Roboquest
+* Toodee and Topdee
+* Spinch
+* Out of Line
 
 
 ## List of intended replays
