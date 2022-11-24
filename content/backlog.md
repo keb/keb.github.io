@@ -11,7 +11,6 @@ date = 2019-06-02T14:21:19.433Z
 
 * Elden Ring
 * Chrono Trigger - *30h*
-* Castlevania: Circle of the Moon - *11h*
 
 ## In order of intended play
 
