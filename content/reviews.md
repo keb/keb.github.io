@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Castlevania: Circle of the Moon
+  * **3/5** *(11/23/2022)* - Miniature Metroidvania for Gameboy Advance. Overall, a solid game. Imagine minimal Syphony of the Night with far less loot and no equippable items. Most of the magic in this game is in the form of "DSS" Cards, which are cards that are randomly dropped. Combining two cards allows for a variety of abilities that consume MP. The map design in CotM is very basic, and the bosses range from easy to straight up bullshit. (Un)fortunately, bosses are easy to cheese.
+
 ## Blazing Chrome
   * **4/5** *(06/24/2022)* - A Contra clone, but a good one. An amazing imitation of a 16-bit era game, with tight controls, awesome character and enemy design, and challenging but fair difficulty.
 
