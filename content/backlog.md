@@ -677,6 +677,20 @@ date = 2019-06-02T14:21:19.433Z
 * Golf Gang
 * Railroad Corporation
 * Raji: An Ancient Epic
+* Toodee and Topdee
+* Spinch
+* Out of Line
+* Arietta of Spirits
+* Crumble
+* Kingdom Rush Vengeance - Tower Defense
+* Legends of Kingdom Rush
+* Shift Happens
+* Spirit Hunter: Death Mark
+* Tokyo Xanadu eX+
+* Alwa's Awakening
+* Grotto
+* Healer's Quest
+* Retrowave
 * Tinytopia
 
 ## Multi-player (No particular order)
@@ -716,21 +730,6 @@ date = 2019-06-02T14:21:19.433Z
 * Monster Hunter: World
 * Hell Let Loose
 * Roboquest
-* Toodee and Topdee
-* Spinch
-* Out of Line
-* Arietta of Spirits
-* Crumble
-* Kingdom Rush Vengeance - Tower Defense
-* Legends of Kingdom Rush
-* Shift Happens
-* Spirit Hunter: Death Mark
-* Tokyo Xanadu eX+
-* Alwa's Awakening
-* Grotto
-* Healer's Quest
-* Retrowave
-
 
 ## List of intended replays
 
