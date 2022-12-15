@@ -363,6 +363,7 @@ date = 2019-06-02T14:21:19.433Z
 * Cargo Commander - *12h*
 * Ninja Gaiden Sigma - *15h*
 * Ninja Gaiden Sigma 2 - *20h*
+* Little Samson (NES) - *2h*
 * Snakebird
 * 20XX - *14h*
 * 30XX
