@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Embr (Multiplayer)
+  * **3/5** *(12/29/2022)* - A very fun, but often buggy co-op puzzle/action game. Ranges from easy to extremely challenging. Lots of fun upgrades.
+
 ## Castlevania: Circle of the Moon
   * **3/5** *(11/23/2022)* - Miniature Metroidvania for Gameboy Advance. Overall, a solid game. Imagine minimal Syphony of the Night with far less loot and no equippable items. Most of the magic in this game is in the form of "DSS" Cards, which are cards that are randomly dropped. Combining two cards allows for a variety of abilities that consume MP. The map design in CotM is very basic, and the bosses range from easy to straight up bullshit. (Un)fortunately, bosses are easy to cheese, especially with summons. Potion droprate is hilariously low -- prepare to grind for MP potions.
 
