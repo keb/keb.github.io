@@ -109,6 +109,8 @@ date = 2019-06-02T14:21:19.433Z
 * Noita - *14h*
 * Live A Live - *20h*
 * Hades - *30h*
+* Superflight
+* Definitely Sneaky But Not Sneaky
 * Mario & Luigi: Superstar Saga - *21h*
 * Mario & Luigi: Partners in Time - *20h*
 * Mario & Luigi: Bowser's Inside Story - *25h*
@@ -693,14 +695,24 @@ date = 2019-06-02T14:21:19.433Z
 * Healer's Quest
 * Retrowave
 * Tinytopia
+* Beat Cop
+* Diaries of a Spaceport Janitor
+* Hero of the Kingdom: The Lost Tales 1
+* Jotun: Valhalla Edition
+* Mists of Noyah
+* Peachleaf Pirates
+* Red Bow
+* Space Rangers HD: A War Apart
+* Squids Odyssey
+* Undungeon
+* Obscure
+* Obscure 2
 
 ## Multi-player (No particular order)
 
-* Obscure
-* Obscure 2
+* Dunk Lords
 * Nox
 * EYE: Divine Cybermancy
-* Embr
 * Velvet Guard
 * Aragami
 * Use Your Words
