@@ -4,6 +4,11 @@
     <header class="h4 py2">
         <a href="/">← home</a>
     </header>
+
+    <article class="content">
+        <h1>archive</h1>
+    </article>
+
     {% set section = get_section(path="_index.md") %}
     {% for post in section.pages %}
         <article class="archive-link">

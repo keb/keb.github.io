@@ -4,13 +4,13 @@
     <div class="controls p1">
         <a href="https://github.com/keb/keb.github.io/edit/master/content/{{ page.slug }}.md">edit</a>
     </div>
-    <header class="h4 py2">
+    <header class="h4">
         <a href="/">← home</a>
     </header>
 
         {% for h1 in page.toc %}
             {% if h1.children %}
-                <div class="toc h5 py1">
+                <div class="toc">
                     <ul>
                         {% for h2 in h1.children %}
                             <li>
@@ -45,7 +45,7 @@
         {{ page.content | safe }}
     </article>
 
-    <footer class="mt2">
+    <footer>
         <small>
             <a href="#">return to top</a>
         </small>
