@@ -7,6 +7,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Binarystar Infinity
+  * 50 cents on Steam when on sale. A very straightforward shmup that probably has more in common with Galaga than Ikaruga. Visually, get ready for harsh tones of black and white. There isn't great visual feedback of when your bullets hit enemies. Shooting asteroids results in this weird sprite jitter. Not terrible, but not good.
+
 ## Refunct
   * A very casual, easy-going first-person puzzle platformer. Not bad by any means, but not attention grabbing either.
 
