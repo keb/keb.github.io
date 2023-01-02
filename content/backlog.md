@@ -11,14 +11,13 @@ date = 2019-06-02T14:21:19.433Z
 
 * Elden Ring
 * Chrono Trigger - *30h*
+* Binarystar Infinity
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Refunct
 * Metroid Prime - *16h*
-* Binarystar Infinity
 * Earthbound - *32h*
 * Crown Trick
 * Metroid Prime 2 - *20h*
