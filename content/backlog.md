@@ -11,7 +11,7 @@ date = 2019-06-02T14:21:19.433Z
 
 * Elden Ring
 * Chrono Trigger - *30h*
-* Binarystar Infinity
+* River City Girls
 
 ## In order of intended play
 
@@ -23,7 +23,6 @@ date = 2019-06-02T14:21:19.433Z
 * Metroid Prime 2 - *20h*
 * Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
-* River City Girls
 * Return of the Obra Dinn
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Rayman 2: The Great Escape - *09h*
