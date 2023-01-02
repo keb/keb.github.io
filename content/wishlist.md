@@ -16,7 +16,6 @@ This is a wishlist of miscellaneous stuff I want.
 * Analogue Pocket
 * Sony Trinitron
 * GuliKit (No Stick Drift) KingKong 2 Pro Wireless Controller
-* 8bitdo Xbox Ultimate Wired Controller
 
 ## Software
 * VPS Credit from anywhere really
@@ -41,6 +40,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Acquired
 
+* ~~8bitdo Ultimate Controller~~ Thanks Raf!
 * ~~Disintegration by The Cure~~ Thanks Rob!
 * ~~Nier: Automata Game of the Yorha Edition (PC or PS4)~~
 * ~~Crafting Interpreters by Bob Nystrom~~ Thanks Employer!
