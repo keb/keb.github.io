@@ -4,7 +4,7 @@ date = 2021-03-30T14:21:19.433Z
 +++
 # reviews
 
-[← backlog](/backlog)
+[/backlog](/backlog)
 
 ## Embr
   * **3/5** *(12/29/2022)* (Co-Op) - A very fun, but often buggy co-op puzzle/action game. Ranges from easy to extremely challenging. Lots of fun upgrades.
