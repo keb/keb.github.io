@@ -29,6 +29,11 @@ A collection of (free) web books, guides, and references by category that I've f
 * [C++ By Example](https://cppbyexample.com/)
 	* *"Here you will find clear and up to date C++ code examples with concise and straightforward explanations."*
 
+## Lisp
+
+* [Learn Lisp The Hard Way](https://llthw.common-lisp.dev/)
+	* *"Lispers of all experience levels should benefit from this book. We'll be exploring the language through real, immediately useful source code examples, and dissecting the language down to its core."*
+
 ## Network Programming
 
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
