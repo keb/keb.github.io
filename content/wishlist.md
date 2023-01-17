@@ -11,6 +11,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
+* https://www.airgradient.com/open-airgradient/shop/ (Pre-Soldered Pro Kit)
 * Sega Saturn
 * TurboGrafx-16 Mini
 * Analogue Pocket
