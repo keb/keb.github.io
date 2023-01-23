@@ -17,6 +17,7 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
+* SIGNALIS
 * Metroid Prime - *16h*
 * Earthbound - *32h*
 * Crown Trick
@@ -215,6 +216,7 @@ date = 2019-06-02T14:21:19.433Z
 * Valfaris - *09h*
 * Yooka-Laylee and the Impossible Lair - *15h*
 * Timelie
+* I-Ninja
 * VA-11 Hall-A - *13h*
 * Illusion of Gaia - *14h*
 * Sphinx and the Cursed Mummy - *14h*
