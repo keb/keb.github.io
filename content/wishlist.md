@@ -8,10 +8,11 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Misc
 * Anything related to [Flitch](/flitch)
+* [This car jack](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/2-ton-compact-trolley-jack-64874.html) + two jack stands
 
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
-* https://www.airgradient.com/open-airgradient/shop/ (Pre-Soldered Pro Kit)
+* [Air Gradient Pre-Soldered Pro Kit](https://www.airgradient.com/open-airgradient/shop/)
 * Sega Saturn
 * TurboGrafx-16 Mini
 * Analogue Pocket
