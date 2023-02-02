@@ -8,7 +8,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Misc
 * Anything related to [Flitch](/flitch)
-* [This car jack](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/2-ton-compact-trolley-jack-64874.html) + two jack stands
+* [PITTSBURGH AUTOMOTIVE 2 ton Compact Trolley Jack for 39.99](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/2-ton-compact-trolley-jack-64874.html) + two jack stands
 
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
