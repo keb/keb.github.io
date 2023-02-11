@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## SIGNALIS
+  * **5/5** *(02/10/2023) - An ambitious modern indie survival horror game and one of the best survival horror games to be released in the past decade, with its only true rivals being Capcom/Shinji Mikami titles. SIGNALIS combines the best parts of Silent Hill and Resident Evil to create a tense and often unforgiving gameplay loop of resource management, exploration, and puzzle solving. Some of the best puzzles I've seen in a game, survival horror or not. The soundtrack is top-notch, and Yamaoka-inspired with a harsh cyberpunk edge. The visuals are a fifth-generation throw back, complete with jaggies and an optional CRT mode; however, it never looks dated, and the developer did an amazing job of applying post-procesing and lighting effects to seemingly 2D objects. Story-wise, SIGNALIS is known for being a mind-melting existentialist thriller/love story. Sometimes the writing comes off as a bit heavy-handed, but there's enough rich world building, intrigue, and heart in all the ambiguity to keep it compelling for the entire playthrough (which is meaty at over 10 hours).
+
 ## Embr
   * **3/5** *(12/29/2022)* (Co-Op) - A very fun, but often buggy co-op puzzle/action game. Ranges from easy to extremely challenging. Lots of fun upgrades.
 
