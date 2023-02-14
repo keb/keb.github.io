@@ -17,7 +17,6 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
-* SIGNALIS
 * Metroid Prime - *16h*
 * Earthbound - *32h*
 * Crown Trick
