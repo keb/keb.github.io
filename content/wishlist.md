@@ -9,6 +9,12 @@ This is a wishlist of miscellaneous stuff I want.
 ## Misc
 * Anything related to [Flitch](/flitch)
 * [PITTSBURGH AUTOMOTIVE 2 ton Compact Trolley Jack for 39.99](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/2-ton-compact-trolley-jack-64874.html) + two jack stands
+* [Puma Smash v2](https://us.puma.com/us/en/pd/puma-smash-v2-sneakers/364989?search=true&swatch=56)
+* Yamaha C-40 Guitar
+* Mozilla shirt or mug
+* EFF shirt or mug
+* Wikimedia shirt or mug
+* Sonicare Electric Toothbrush
 
 ## Devices
 * Raspberry Pi(s) (any kind, I always want more)
@@ -20,7 +26,6 @@ This is a wishlist of miscellaneous stuff I want.
 * GuliKit (No Stick Drift) KingKong 2 Pro Wireless Controller
 
 ## Software
-* VPS Credit from anywhere really
 * Sublime Text 4 license
 * Sublime Merge license
 
@@ -32,13 +37,6 @@ This is a wishlist of miscellaneous stuff I want.
 ## Vinyl
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Hounds of Love by Kate Bush Vinyl
-
-## Misc
-* Yamaha C-40 Guitar
-* Mozilla shirt or mug
-* EFF shirt or mug
-* Wikimedia shirt or mug
-* Sonicare Electric Toothbrush
 
 ## Acquired
 
