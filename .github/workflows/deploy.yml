@@ -27,6 +27,8 @@ jobs:
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          single-commit: true
+          git-config-email: <>
           branch: gh-pages
           folder: public
 
