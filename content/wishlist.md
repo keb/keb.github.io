@@ -17,7 +17,7 @@ This is a wishlist of miscellaneous stuff I want.
 * Sonicare Electric Toothbrush
 
 ## Devices
-* Raspberry Pi(s) (any kind, I always want more)
+* Raspberry Pi(s)
 * [Air Gradient Pre-Soldered Pro Kit](https://www.airgradient.com/open-airgradient/shop/)
 * Sega Saturn
 * TurboGrafx-16 Mini
