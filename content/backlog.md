@@ -777,3 +777,4 @@ date = 2019-06-02T14:21:19.433Z
 * God of War II
 * Drakengard
 * Maximo vs. Army of Zin
+* Ori and the Blind Forest: Definitive Edition
