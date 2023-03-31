@@ -34,6 +34,10 @@ A collection of (free) web books, guides, and references by category that I've f
 * [Learn Lisp The Hard Way](https://llthw.common-lisp.dev/)
 	* *"Lispers of all experience levels should benefit from this book. We'll be exploring the language through real, immediately useful source code examples, and dissecting the language down to its core."*
 
+## Janet
+* [Janet for Mortals](https://janet.guide/)
+	* *A web book about the Lisp-like Janet programming language.*
+
 ## Network Programming
 
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
