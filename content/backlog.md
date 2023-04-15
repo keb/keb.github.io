@@ -268,6 +268,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy V - *37h*
 * XCOM: Enemy Within - *38h*
 * Prey + DLC - *40h*
+* Chulip
 * Tales of Vesperia: Definitive Edition - *70h*
 * Crash Bandicoot™ N. Sane Trilogy - *22h*
 * Ogre Battle: The March of the Black Queen - *25h*
