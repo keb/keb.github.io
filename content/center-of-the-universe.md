@@ -333,14 +333,14 @@ i will love you with all my heart. for the rest of time. **the center of my univ
 <video controls="controls" autoplay="autoplay" muted="muted"><source src="https://va.media.tumblr.com/tumblr_rb0tp6uEEO1qzdvnc.mp4" type="video/mp4"></video>
 
 <video controls="controls" autoplay="autoplay" muted="muted"><source src="https://user-images.githubusercontent.com/54276371/235816270-2da96b17-8b34-4445-8820-214f53b05ee7.mp4" type="video/mp4"></video>
+{{ img(alt="0803_IMG_20190710_211020 (2)", src="https://user-images.githubusercontent.com/54276371/235814457-d41cc3d2-57b2-44b3-acee-3908cd897b89.jpg") }}
+{{ img(alt="0671_IMG_20190510_175604 (2)", src="https://user-images.githubusercontent.com/54276371/235814440-f7e2ebc3-2b61-4435-9237-c8e193bb52d9.jpg") }}
 {{ img(alt="0079_attach89_20180518_112518", src="https://user-images.githubusercontent.com/54276371/235813662-b59728ef-b4a7-42bf-85ad-b40726256b13.jpg") }}
 {{ img(alt="0076_IMG_0436 (2)", src="https://user-images.githubusercontent.com/54276371/235813900-7fd961e2-db1e-41af-afbd-4dea655d7064.JPG") }}
 {{ img(alt="0904_IMG_20200202_161302 (2)", src="https://user-images.githubusercontent.com/54276371/235814582-224f18d9-85af-4ed0-a790-ed254c7325c3.jpg") }}
 
 {{ img(alt="0502_DSC_0022_result (2)", src="https://user-images.githubusercontent.com/54276371/235814370-5f2889dc-ef1c-4c18-ae3d-14ec86192afb.JPG") }}
 {{ img(alt="0588_Attach500_20180715_171447 (2)", src="https://user-images.githubusercontent.com/54276371/235814427-18c15e4e-deca-4a64-926e-af0a9ba1c844.jpg") }}
-{{ img(alt="0803_IMG_20190710_211020 (2)", src="https://user-images.githubusercontent.com/54276371/235814457-d41cc3d2-57b2-44b3-acee-3908cd897b89.jpg") }}
-{{ img(alt="0671_IMG_20190510_175604 (2)", src="https://user-images.githubusercontent.com/54276371/235814440-f7e2ebc3-2b61-4435-9237-c8e193bb52d9.jpg") }}
 {{ img(alt="IMG_20220910_0002_fixed", src="https://user-images.githubusercontent.com/54276371/235816366-ef952f5b-681c-42a5-a5cd-6cd25d3d89ff.jpg") }}
 
 > All moments, past, present and future, always have existed, always will exist.
