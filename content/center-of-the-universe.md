@@ -276,9 +276,9 @@ we buy you a doughnut from Dunkin Donuts. to our pleasant surprise, even now you
 {{ img(alt="PXL_20220428_185030223", src="https://user-images.githubusercontent.com/54276371/235803552-2d708660-d57f-4ab8-9da7-48f69f2f6b3d.jpg") }}
 {{ img(alt="PXL_20220428_183024207_proc", src="https://user-images.githubusercontent.com/54276371/235803638-e4c8aba9-0f3e-4604-bffc-8c72bb77c49a.jpg") }}
 
-cindy has agrees to help you transition to your next destination. you don't have to leave your most favorite place in the world. home and in mami's bed.
+cindy has agreed to help you transition to your next destination. you don't have to leave your most favorite place in the world. home and in mami's bed.
 
-but before you leave, you want to go on another walk. this time with mom. it's begun raining, but you march right through. you go for a long and sprawling walk, all the way up to the main road, back through the neighborhood, and to the backyard by the water where you almost caught that duck all those years ago. you even meet a new friend, a much younger and equally sized dog in the neighborhood. when you see him, you perk up, and your tail begins wagging, like it has since you were a pup. that's how i know that through all the discomfort, crying, incontinence, and stress -- you were still yourself up until your last day with us.
+before you leave, you want to go on another walk. this time with mom and rafael. it's begun raining, but you march right through. you go for a long and sprawling walk, all the way up to the main road, back through the neighborhood, and to the backyard by the water where you almost caught that duck all those years ago. you even meet a new friend, a much younger and equally sized dog in the neighborhood. when you see him, you perk up, and your tail begins wagging, like it has since you were a pup. that's how i know that through all the discomfort, crying, incontinence, and stress -- you were still yourself.
 
 {{ img(alt="PXL_20220429_133435757", src="https://user-images.githubusercontent.com/54276371/235804290-6e8d0793-af46-4bdc-bb62-36e6e79224d1.jpg") }}
 
@@ -295,9 +295,9 @@ then your heart stops.
 
 {{ img(alt="PXL_20220429_232751736", src="https://user-images.githubusercontent.com/54276371/235810292-6d43281c-cd0c-4d95-9439-c11117d45a2f.jpg") }}
 
-cindy carries you to her car, wrapped in your red blanket, and in your bed. we take turns saying goodbye to you, tucked in the bed in the passenger seat of the car. i have a hard time separating myself from you. "just one more kiss for his head" in my head, over and over. but eventually we have to watch you be driven away.
+cindy carries you to her car, wrapped in your red blanket, and in your bed. we take turns saying goodbye to you, tucked in the bed in the passenger seat of the car. i have a hard time separating myself from you. "just one more kiss goodbye" in my head, over and over. but eventually we have to watch you be driven away.
 
-we walked back toward the house and the small field of grass behind it. looking out at the empty field where you would hop as a baby was a form a self-confirmation that you had raced passed the finish line ahead of us.
+we walked back toward the house and the small field of grass behind it. looking out at the empty field where you would hop as a baby was a form a self-confirmation that you had raced passed the finish line ahead of us. and just as we do, the rain stops, and the clouds part. it's sunny again.
 
 > a piece of the picture's bitten right out of the middle
 I'm alone and thinner I feel
