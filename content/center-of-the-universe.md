@@ -3,6 +3,8 @@ title = "center of the universe"
 date = 2023-05-02T01:53:40.640Z
 +++
 
+# center of the universe
+
 the day you became our family was the day we first met you. you came to our home with your twin brother. you were the most peculiar looking dog i had ever seen, and the most peculiar dog any of us had ever seen. your ears were soft and droopy, and your fur soft and short. they enveloped your little face, with no fur on it except for little patches around your nose and mouth like feathers.
 
 ![0009_Flitch 001 (2)](https://user-images.githubusercontent.com/54276371/235331843-a3ae5656-4a4a-4380-9797-ffecd677b2dc.jpeg)
