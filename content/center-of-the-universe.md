@@ -200,6 +200,8 @@ the years pass...
 
 {{ img(alt="flitchy", src="https://user-images.githubusercontent.com/54276371/235822017-a59d5672-e6fa-4506-b6d8-dc19ca693283.jpg") }}
 
+<video controls="controls" autoplay="autoplay" muted="muted"><source src="https://user-images.githubusercontent.com/54276371/235822801-108f9258-9e9a-4834-95c0-27dfabd382c1.mp4" type="video/mp4"></video>
+
 i leave to work across the country for two years, knowing you are home safe and happy. looking back now, i wish i could have just stayed with you. i return in 2019, just in time for the pandemic. for a period of six months, i live back at home. i insist on having my bed be close to the floor. it is one of the best decisions i've ever made. on work days, i'll turn my head to my right, and see you there, in the biggest most easily accessible bed you have in your old age.
 
 {{ img(alt="img_20200607_154927", src="https://user-images.githubusercontent.com/4752973/235403271-ca4e0ffe-bf3a-4c1a-84a6-e03a87d53e6a.jpg") }}
