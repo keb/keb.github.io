@@ -330,7 +330,7 @@ you came into our lives unsuspecting. but you molded us as much as we molded you
 
 hey Flitch.
 
-i will love you with all my heart. for the rest of time. **the center of my universe**.
+i will love you with all my heart. for the rest of time. **the center of my universe**. mi perrito, lindo.
 
 <video controls="controls" autoplay="autoplay" muted="muted"><source src="https://va.media.tumblr.com/tumblr_rb0tp6uEEO1qzdvnc.mp4" type="video/mp4"></video>
 
