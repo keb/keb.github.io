@@ -246,7 +246,7 @@ button:not([disabled]):hover {
 .divider {
     margin-top: var(--spacing-4);
     margin-bottom: var(--spacing-4);
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px dashed var(--border-color);
 }
 
 .card {
@@ -355,12 +355,11 @@ a { text-decoration: none; }
 
 article.content > h1 {
     padding-bottom: var(--spacing-1);
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px dashed var(--border-color);
 }
 
 footer {
     padding-top: var(--spacing-3);
-    border-top: 1px solid var(--border-color);
 }
 
 article.content :where(img, video) {
