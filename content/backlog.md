@@ -11,13 +11,12 @@ date = 2019-06-02T14:21:19.433Z
 
 * Elden Ring
 * River City Girls
-* Metroid Prime - *16h*
+* Earthbound - *32h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Earthbound - *32h*
 * Crown Trick
 * Metroid Prime 2 - *20h*
 * Metroid Prime 3 - *16h*
