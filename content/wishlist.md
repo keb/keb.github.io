@@ -23,7 +23,6 @@ This is a wishlist of miscellaneous stuff I want.
 * TurboGrafx-16 Mini
 * Analogue Pocket
 * Sony Trinitron
-* GuliKit (No Stick Drift) KingKong 2 Pro Wireless Controller
 
 ## Software
 * Sublime Text 4 license
@@ -40,6 +39,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Acquired
 
+* ~~GuliKit (No Stick Drift) KingKong 2 Pro Wireless Controller~~ Thanks Rob!
 * ~~8bitdo Ultimate Controller~~ Thanks Raf!
 * ~~Disintegration by The Cure~~ Thanks Rob!
 * ~~Nier: Automata Game of the Yorha Edition (PC or PS4)~~
