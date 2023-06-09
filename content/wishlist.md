@@ -15,6 +15,9 @@ This is a wishlist of miscellaneous stuff I want.
 * EFF shirt or mug
 * Wikimedia shirt or mug
 * Sonicare Electric Toothbrush
+* Ghosts of the Great Highway Vinyl
+* Oceansize - Frames Vinyl
+* Oceansize - Self Preserved Vinyl
 
 ## Devices
 * Raspberry Pi(s)
