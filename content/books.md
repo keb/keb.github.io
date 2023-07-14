@@ -133,6 +133,10 @@ A collection of (free) web books, guides, and references by category that I've f
 	* *An official collection of runnable examples in Rust.*
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 	* *"A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem."*
+* [Tour of Rust](https://tourofrust.com/)
+	* *An interactive tour of rust.*
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+	* *This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. *
 
 ## Elixir
 
