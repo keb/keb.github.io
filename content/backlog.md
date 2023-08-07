@@ -13,6 +13,7 @@ date = 2019-06-02T14:21:19.433Z
 * River City Girls
 * Earthbound - *32h*
 * Metroid Prime 2 - *20h*
+* Baldur's Gate 3
 
 ## In order of intended play
 
@@ -706,6 +707,7 @@ date = 2019-06-02T14:21:19.433Z
 * Undungeon
 * Obscure
 * Obscure 2
+* Immortals Fenyx Rising
 
 ## Multi-player (No particular order)
 
