@@ -1,6 +1,6 @@
 name: deploy
 env:
-  ZOLA_VERSION: 0.15.3
+  ZOLA_VERSION: 0.17.2
 on:
   push:
     branches:
