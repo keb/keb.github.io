@@ -342,6 +342,7 @@ date = 2019-06-02T14:21:19.433Z
 * Skies of Arcadia Legends - *52h*
 * Stardew Valley
 * World's Dawn
+* Soma Bringer - *28h*
 * Record of Lodoss War-Deedlit in Wonder Labyrinth- - *06h*
 * Professor Layton and the Curious Village - *14h*
 * Professor Layton and the Diabolical Box - *15h*
