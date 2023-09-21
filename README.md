@@ -2,8 +2,6 @@ Homepage.
 
 [keb.sheev.net](https://keb.sheev.net)
 
-[keb.vercel.app](https://keb.vercel.app)
-
 [kebg.gitlab.io](https://kebg.gitlab.io)
 
 [keb.github.io](https://keb.github.io)
