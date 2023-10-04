@@ -7,11 +7,7 @@ date = 2021-03-30T14:21:19.433Z
 [/backlog](/backlog)
 
 ## Cuphead
-  * **4/5** - The first time I saw Cuphead, I was like "ok this just looks like a bog standard 2D run n gun like megaman or one of the million that released on Super Nintendo 30 years ago".
-
-And to some degree, that is true. Gameplay wise, Cuphead isn't anything special.
-
-What makes Cuphead so special is its fine tuned difficulty. And of course the visuals. But mostly, Cuphead is a lesson in boss design. The game is certainly beatable by the average video gamer, even if it seems impossible at times.
+  * **4/5** - The first time I saw Cuphead, I was like "ok this just looks like a bog standard 2D run n gun like megaman or one of the million that released on Super Nintendo 30 years ago". And to some degree, that is true. Gameplay wise, Cuphead isn't anything special. What makes Cuphead so special is its fine tuned difficulty. And of course the visuals. But mostly, Cuphead is a lesson in boss design. The game is certainly beatable by the average video gamer, even if it seems impossible at times.
 
 ## Borderlands 3
   * **0/5** (08/07/2023) - I don't know where to start. This is one of the worst games I have ever played. I've played plenty of technically incompetent games that were bad, but Borderlands 3 is more offensive because it is actually technically *competent* and it was clearly very expensive to produce. It feels like a game designed by committee. It completely fails at being engaging, the script very well could have been written by ChatGPT with a prompt like "write me a video game that appeals to millenials", the gameplay is braindead tedium, every firefight has zero stakes, guns are boring to shoot, 99% of items are useless, quests are the same dumb "kill 3 goons" that were boring in 2004 when you first played them in WoW, *none* of the characters are likeable, and the visuals somehow look like a late generation PS3 game.
