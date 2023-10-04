@@ -7,7 +7,7 @@ date = 2021-03-30T14:21:19.433Z
 [/backlog](/backlog)
 
 ## Cuphead
-The first time I saw Cuphead, I was like "ok this just looks like a bog standard 2d run n gun like megaman or one of the million that released on Super Nintendo 30 years ago".
+* **4/5** - The first time I saw Cuphead, I was like "ok this just looks like a bog standard 2D run n gun like megaman or one of the million that released on Super Nintendo 30 years ago".
 
 And to some degree, that is true. Gameplay wise, Cuphead isn't anything special.
 
