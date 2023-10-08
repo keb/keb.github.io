@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## Metroid Prime 2: Echoes
+  * **4/5** (05/20/2023) - Metroid Prime, but more refined. In almost every technical aspect, this is better than the original. The visuals have aged incredibly well. Environments are impeccably designed with little details scattered throughout. Retro also liberally used bump maps throughout, which normally look like crap after being scaled to high def resolutions, but actually look pretty tasteful here (running on Dolphin at 1080p). Sound design and soundtrack as usual are fantastic; the main theme is probably the best theme on the GameCube. Prime 2's biggest weakness is, again, the backtracking. Somehow it is worse in this one than the original due to the dark/light world mechanic. Get ready to see the unskippable cutscene of Samus transporting herself to the dark/light world at least a hundred times (which I understand on GC, this was a hidden loading screen). Hunting for the Sky Temple keys was probably the biggest F.U. to everyone who ever complained about backtracking.
+
 ## Cuphead
   * **4/5** - The first time I saw Cuphead, I was like "ok this just looks like a bog standard 2D run n gun like megaman or one of the million that released on Super Nintendo 30 years ago". And to some degree, that is true. Gameplay wise, Cuphead isn't anything special. What makes Cuphead so special is its fine tuned difficulty. And of course the visuals. But mostly, Cuphead is a lesson in boss design. The game is certainly beatable by the average video gamer, even if it seems impossible at times.
 
