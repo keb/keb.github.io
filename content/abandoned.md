@@ -7,6 +7,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## River City Girls
+  * I like beat-em-ups. I even liked the original River City Ransom. Something about its simplicity made it enjoyable. For some reason, I can't get into this game. The humor itself is not very funny, although it is bearable. The main problem are the controls which can't be remapped, and responsiveness of the playable characters. Somehow in a game centered around 2D fighting, combat is stiff and not fun.
+
 ## Binarystar Infinity
   * 50 cents on Steam when on sale. A very straightforward shmup that probably has more in common with Galaga than Ikaruga. Visually, get ready for harsh tones of black and white. There isn't great visual feedback of when your bullets hit enemies. Shooting asteroids results in this weird sprite jitter. Not terrible, but not good.
 
