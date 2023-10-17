@@ -18,17 +18,16 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
-* Crown Trick
+* Return of the Obra Dinn
+* Super Mario Odyssey - *15h*
+* Terranigma - *19h*
+* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
-* Return of the Obra Dinn
-* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
 * Rocket Knight Adventures - *02h*
 * Sparkster: Rocket Knight Adventures 2 - *02h*
-* Super Mario Odyssey - *15h*
-* Terranigma - *19h*
 * Robotrek - *15h*
 * Okami - *42h*
 * Before Your Eyes
