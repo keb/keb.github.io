@@ -10,15 +10,14 @@ date = 2019-06-02T14:21:19.433Z
 ## Currently playing
 
 * Elden Ring
-* Crown Trick
 * Earthbound - *32h*
 * Baldur's Gate 3
+* Return of the Obra Dinn
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Return of the Obra Dinn
 * Super Mario Odyssey - *15h*
 * Terranigma - *19h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
