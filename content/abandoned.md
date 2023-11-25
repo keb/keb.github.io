@@ -7,6 +7,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## Crown Trick
+  * By no means a bad game, but not astounding either. Graphics are mobile game quality, but good overall. A modern but average dungeon crawler.
+
 ## River City Girls
   * I like beat-em-ups. I even liked the original River City Ransom. Something about its simplicity made it enjoyable. For some reason, I can't get into this game. The humor itself is not very funny, although it is bearable. The main problem are the controls which can't be remapped, and responsiveness of the playable characters. Somehow in a game centered around 2D fighting, combat is stiff and not fun.
 
