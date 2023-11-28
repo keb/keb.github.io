@@ -28,9 +28,6 @@ A collection of (free) web books, guides, and references by category that I've f
 	* *"This is a rather comprehensive guide to C for folks who already know how to program in another language. The first half of the book is written in a tutorial style, while the second half is a reference section complete with examples (inspired by the incomparable Turbo C Bible). The goal is to keep this up-to-date with the latest C standards."*
 * [C++ By Example](https://cppbyexample.com/)
 	* *"Here you will find clear and up to date C++ code examples with concise and straightforward explanations."*
-* [Learn C++](https://www.learncpp.com/)
-    * *"A free website devoted to teaching you how to program in C++"*
-
 
 ## Lisp
 
@@ -139,7 +136,7 @@ A collection of (free) web books, guides, and references by category that I've f
 * [Tour of Rust](https://tourofrust.com/)
 	* *An interactive tour of rust.*
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
-	* *This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. *
+	* *This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.*
 
 ## Elixir
 
