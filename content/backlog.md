@@ -20,7 +20,7 @@ date = 2019-06-02T14:21:19.433Z
 *Numbers in italics are estimated hours to complete.*
 
 * Super Mario Odyssey - *15h*
-* Cyberpunk 2077
+* Cyberpunk 2077 - *70h*
 * Marvel's Spider-Man 2
 * Terranigma - *19h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
@@ -131,7 +131,6 @@ date = 2019-06-02T14:21:19.433Z
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*
 * Syder Arcade
-* Cyberpunk 2077 - *70h*
 * Absolute Drift - *04h*
 * Misao - *03h*
 * Piku Niku - *03h*
