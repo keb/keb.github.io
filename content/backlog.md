@@ -13,7 +13,6 @@ date = 2019-06-02T14:21:19.433Z
 * Earthbound - *32h*
 * Baldur's Gate 3
 * Return of the Obra Dinn
-* Marvel's Spider-Man Remastered
 
 ## In order of intended play
 
