@@ -12,7 +12,6 @@ date = 2019-06-02T14:21:19.433Z
 * Elden Ring
 * Earthbound - *32h*
 * Baldur's Gate 3
-* Return of the Obra Dinn
 
 ## In order of intended play
 
