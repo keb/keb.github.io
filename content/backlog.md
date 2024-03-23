@@ -11,13 +11,13 @@ date = 2019-06-02T14:21:19.433Z
 
 * Elden Ring
 * Earthbound - *32h*
+* Super Mario Odyssey - *15h*
 * Baldur's Gate 3
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Super Mario Odyssey - *15h*
 * Cyberpunk 2077 - *70h*
 * Marvel's Spider-Man 2
 * Terranigma - *19h*
