@@ -8,20 +8,15 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Misc
 * Anything related to [Flitch](/flitch)
-* [PITTSBURGH AUTOMOTIVE 2 ton Compact Trolley Jack for 39.99](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/2-ton-compact-trolley-jack-64874.html) + two jack stands
 * [Puma Smash v2](https://us.puma.com/us/en/pd/puma-smash-v2-sneakers/364989?search=true&swatch=56)
 * Yamaha C-40 Guitar
 * Mozilla shirt or mug
 * EFF shirt or mug
 * Wikimedia shirt or mug
 * Sonicare Electric Toothbrush
-* Ghosts of the Great Highway Vinyl
-* Oceansize - Frames Vinyl
-* Oceansize - Self Preserved Vinyl
 
 ## Devices
 * Raspberry Pi(s)
-* [Air Gradient Pre-Soldered Pro Kit](https://www.airgradient.com/open-airgradient/shop/)
 * Sega Saturn
 * TurboGrafx-16 Mini
 * Analogue Pocket
@@ -39,9 +34,14 @@ This is a wishlist of miscellaneous stuff I want.
 ## Vinyl
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Hounds of Love by Kate Bush Vinyl
+* Ghosts of the Great Highway Vinyl
+* Oceansize - Frames Vinyl
+* Oceansize - Self Preserved Vinyl
 
 ## Acquired
 
+* ~~[Air Gradient Pre-Soldered Pro Kit](https://www.airgradient.com/open-airgradient/shop/)~~
+* ~~[PITTSBURGH AUTOMOTIVE 2 ton Compact Trolley Jack for 39.99](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/2-ton-compact-trolley-jack-64874.html) + two jack stands~~
 * ~~GuliKit (No Stick Drift) KingKong 2 Pro Wireless Controller~~ Thanks Rob!
 * ~~8bitdo Ultimate Controller~~ Thanks Raf!
 * ~~Disintegration by The Cure~~ Thanks Rob!
