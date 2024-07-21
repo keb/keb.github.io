@@ -14,6 +14,7 @@ This is a wishlist of miscellaneous stuff I want.
 * EFF shirt or mug
 * Wikimedia shirt or mug
 * Sonicare Electric Toothbrush
+* Clarkdale Derby Light Tan Suede https://www.clarks.com/en-us/clarkdalederby/26176108-p
 
 ## Devices
 * Raspberry Pi(s)
