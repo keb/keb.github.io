@@ -9,7 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Earthbound - *32h*
+* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
 * Baldur's Gate 3
@@ -20,7 +20,6 @@ date = 2019-06-02T14:21:19.433Z
 
 * Marvel's Spider-Man 2
 * Terranigma - *19h*
-* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
 * Rayman 2: The Great Escape - *09h*
