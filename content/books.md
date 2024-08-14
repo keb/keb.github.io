@@ -139,6 +139,8 @@ A collection of (free) web books, guides, and references by category that I've f
 	* *An interactive tour of rust.*
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 	* *This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.*
+* [Rust Atomics and Locks](https://marabos.nl/atomics/)
+        * Low-Level Concurrency in Practice with Rust
 
 ## Elixir
 
