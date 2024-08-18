@@ -9,6 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
+* Illusion of Gaia
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
@@ -212,7 +213,6 @@ date = 2019-06-02T14:21:19.433Z
 * Timelie
 * I-Ninja
 * VA-11 Hall-A - *13h*
-* Illusion of Gaia - *14h*
 * Sphinx and the Cursed Mummy - *14h*
 * Sid Meier's Pirates! - *13h*
 * Thumper - *15h*
