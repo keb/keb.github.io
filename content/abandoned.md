@@ -7,6 +7,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## Illusion of Gaia
+  * A tremendously *mid* action RPG. Think Zelda, but with light RPG elements, and a non-sensical plot. Unfortunately even with some legitimately challenging boss fights, the dungeons here are boring, some puzzles are downright nebulous, and the English translation ranges from kinda cute to downright awful. A very mixed bag overall. Second in the unofficial Quintet trilogy. I'd say skip this one.
+
 ## Crown Trick
   * By no means a bad game, but not astounding either. Graphics are mobile game quality, but good overall. A modern but average dungeon crawler.
 
