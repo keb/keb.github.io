@@ -9,6 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
+* Super Mario Galaxy
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
@@ -19,7 +20,6 @@ date = 2019-06-02T14:21:19.433Z
 *Numbers in italics are estimated hours to complete.*
 
 * Marvel's Spider-Man 2
-* Terranigma - *19h*
 * Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
 * Rayman 2: The Great Escape - *09h*
@@ -761,7 +761,6 @@ date = 2019-06-02T14:21:19.433Z
 * The Legend of Zelda: Windwaker
 * Tactics Ogre: Let Us Cling Together
 * Super Mario RPG: Legend of the Seven Stars
-* Super Mario Galaxy
 * Super Mario Sunshine
 * Super Metroid
 * Jak 3
