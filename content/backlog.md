@@ -9,8 +9,8 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
+* Rocket Knight Adventures - *02h*
 * Super Mario Galaxy
-* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
 * Baldur's Gate 3
@@ -24,7 +24,6 @@ date = 2019-06-02T14:21:19.433Z
 * Monolith: Relics of the Past - *17h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
-* Rocket Knight Adventures - *02h*
 * Sparkster: Rocket Knight Adventures 2 - *02h*
 * Robotrek - *15h*
 * Okami - *42h*
