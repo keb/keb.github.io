@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## Rocket Knight Adventures
+  * **3/5** (09/21/2024) - Very charming Genesis/Megadrive arcade style platformer. The spritework here stands out even if it looks a bit dated. The levels, bosses, and backdrops are all inventive; you can tell the designers were having fun with it. The game is very short (2h) but also brutally difficult.
+
 ## Donkey Kong Country 3: Dixie Kong's Double Trouble!
   * **3/5** (09/17/2024) - An overall enjoyable platformer. Does not live up to the same quality as the previous two titles, but scratches the itch if you wanted more after Diddy's Kong Quest. This game does feature an open map that lets you tackle worlds/levels in whatever order you choose. Additionally, there are much more minigames and hidden secrets here than previous games. Bosses are "OK" at best in my opinion -- many are tedious slogs with funky (kong) hit detection. The soundtrack is OK, but doesn't match the grand cinematic or ethereal quality of David Wise compositions.
 
