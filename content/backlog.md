@@ -10,7 +10,7 @@ date = 2019-06-02T14:21:19.433Z
 ## Currently playing
 
 * Super Mario Galaxy
-* Sparkster: Rocket Knight Adventures 2 - *02h*
+* Front Mission Series: Gun Hazard - *18h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
 * Baldur's Gate 3
@@ -24,14 +24,13 @@ date = 2019-06-02T14:21:19.433Z
 * Monolith: Relics of the Past - *17h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
-* Robotrek - *15h*
+* Demon's Crest - *06h*
 * Okami - *42h*
 * Before Your Eyes
 * Metal Arms: Glitch in the System - *14h*
 * Biped
 * Flinthook
 * Fly'N
-* Front Mission Series: Gun Hazard - *18h*
 * Geometry Wars 3: Dimensions Evolved - *14h*
 * Final Fantasy X - *70h*
 * FTL - *12h*
@@ -145,7 +144,7 @@ date = 2019-06-02T14:21:19.433Z
 * Super Time Force Ultra *06h*
 * Shantae and the Pirate's Curse - *09h*
 * Titanfall 2 - *08h*
-* Demon's Crest - *06h*
+* Robotrek - *15h*
 * Yoku's Island Express - *08h*
 * Donkey Kong Jungle Beat - *7h*
 * Super House of Dead Ninjas - *07h*
