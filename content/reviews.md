@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## Super Mario Galaxy
+  * **5/5** (10/04/2024) - Is this the pinnacle of 3D Mario? I'm not sure, but damn is this game good. Platforming is centered around the unique concept of orbital planets. As Mario, you can freely walk on these planets which all have their own gravitation pull, meaning you can walk sideways, upside down, and even jump from one planet's orbit to another. It was a risky idea considering how it can result in confusing input, but somehow the team at Nintendo pulled it off with finesse. The result is possibly the most unique 3D platformer ever made; some levels have you long jumping right off the edge of a planet and being pulled in by the gravitational force of another, before being launched across the map like a missile. Again, Nintendo shows that they're at the top of their craft when it comes to controls and gameplay polish. New mechanics are effortlessly introduced throughout the game, each one good enough that it can be its own video game. The soundtrack, while mostly MIDI, contains some instantly memorable soaring orchestral tracks that you will take to your grave. It's hard to believe that this game is 17 years old at this point -- if it came out today, people would still hail it as a revolutionary 3D platformer.
+
 ## Sparkster: Rocket Knight Adventures 2
   * **3/5** (09/24/2024) - Much like the sequel, Sparkster is a frenetic, brutally difficult, and cinematic arcade-like action adventure game. This time, Sparkster's rocket abilities are usable with a single button press instead of having to hold down the attack button, making the game a lot more faster paced. Additionally, Sparkster adds weapon bonuses, a nifty slot machine system, and multiple endings (I was not good enough to unlock the "true" ending, although the difference is minor).
 
