@@ -9,6 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
+* Animal Well - *10h*
 * Front Mission Series: Gun Hazard - *18h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
