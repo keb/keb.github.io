@@ -9,19 +9,16 @@ This is a wishlist of miscellaneous stuff I want.
 ## Misc
 * Anything related to [Flitch](/flitch)
 * [Puma Smash v2](https://us.puma.com/us/en/pd/puma-smash-v2-sneakers/364989?search=true&swatch=56)
-* Yamaha C-40 Guitar
 * Mozilla shirt or mug
 * EFF shirt or mug
 * Wikimedia shirt or mug
 * Sonicare Electric Toothbrush
-* Clarkdale Derby Light Tan Suede https://www.clarks.com/en-us/clarkdalederby/26176108-p
 
 ## Devices
 * Raspberry Pi(s)
 * Sega Saturn
 * TurboGrafx-16 Mini
 * Analogue Pocket
-* Sony Trinitron
 
 ## Software
 * Sublime Text 4 license
@@ -41,6 +38,7 @@ This is a wishlist of miscellaneous stuff I want.
 
 ## Acquired
 
+* ~~Sony Trinitron~~ Thanks Raf!
 * ~~[Air Gradient Pre-Soldered Pro Kit](https://www.airgradient.com/open-airgradient/shop/)~~
 * ~~[PITTSBURGH AUTOMOTIVE 2 ton Compact Trolley Jack for 39.99](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/2-ton-compact-trolley-jack-64874.html) + two jack stands~~
 * ~~GuliKit (No Stick Drift) KingKong 2 Pro Wireless Controller~~ Thanks Rob!
