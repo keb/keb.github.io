@@ -48,6 +48,8 @@ A collection of (free) web books, guides, and references by category that I've f
 	* *A software engineer's attempt at understanding and explaining networking in basic terms.*
 
 ## HTML/CSS
+* [HTML For People](https://htmlforpeople.com/)
+    * *Simple introduction to creating webpages for non-technical people.*
 * [MarkSheet](https://marksheet.io/)
     * *An introduction to creating webpages with HTML & CSS.*
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
