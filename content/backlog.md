@@ -9,7 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Animal Well - *10h*
+* Super Mario Galaxy 2 - *20h*
 * Front Mission Series: Gun Hazard - *18h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
@@ -87,7 +87,6 @@ date = 2019-06-02T14:21:19.433Z
 * Xenogears - *65h*
 * Indivisible - *22h*
 * Final Fantasy Tactics: Advance - *73h*
-* Super Mario Galaxy 2 - *20h*
 * Shining Force II - *31h*
 * Crusader of Centy - *10h*
 * STAR WARS Republic Commando - *10h*
