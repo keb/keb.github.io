@@ -9,7 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Super Mario Galaxy 2 - *20h*
+* Donkey Kong (GB)
 * Front Mission Series: Gun Hazard - *18h*
 * Cyberpunk 2077 - *70h*
 * Elden Ring
