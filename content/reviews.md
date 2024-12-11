@@ -7,7 +7,7 @@ date = 2021-03-30T14:21:19.433Z
 [/backlog](/backlog)
 
 ## Super Mario Galaxy 2
-  * **5/5** (12/11/2024) - The possible pinnacle of 3D Mario continued. Imagine Super Mario Galaxy with none of the fluff, and firing all cylinders. Nintendo EAD basically stuffed all of their crazy ideas into one game that focuses on being the most pure 3D Mario experience imaginable. The result is even better than the original. Not sure what else to say, it's a perfect 3D platformer.
+  * **5/5** (12/11/2024) - The pinnacle of 3D Mario continued. Imagine Super Mario Galaxy with none of the fluff, and firing on all cylinders. Nintendo EAD basically stuffed all of their crazy ideas into one game that focuses on being the most pure 3D Mario experience imaginable. The result is even better than the original. Not sure what else to say, it's a perfect 3D platformer.
 
 ## Animal Well
   * **4/5** (11/11/2024) - A minimal yet focused Metroidvania with heavy emphasis on exploration and puzzle solving. Animal Well sports a unique retro visual style that juxtaposes simple pixel art with lush and high detailed environments. The lone developer made great use of shaders; watch as animated light sources cast shadows across the player character and the environment, or how translucent streams of water distort objects behind them. Not to mention an included CRT shader that's enabled by default! Animal Well reminds me of Portal in that its bountiful puzzles are so cleverly designed, that you end up feeling smart for solving them.
