@@ -5,7 +5,8 @@ date = 2019-06-02T14:21:19.433Z
 # game backlog
 
 [/reviews](/reviews)\
-[/abandoned](/abandoned)
+[/abandoned](/abandoned)\
+[/revisit](/revisit)
 
 ## Currently playing
 
@@ -13,13 +14,12 @@ date = 2019-06-02T14:21:19.433Z
 * Front Mission Series: Gun Hazard - *18h*
 * Elden Ring
 * Baldur's Gate 3
+* Metroid Prime 3 - *16h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Marvel's Spider-Man 2
-* Metroid Prime 3 - *16h*
 * Monolith: Relics of the Past - *17h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
@@ -44,6 +44,7 @@ date = 2019-06-02T14:21:19.433Z
 * Pikmin - *09h*
 * Pikmin 2 - *20h*
 * Pikmin 3 - *16h*
+* Marvel's Spider-Man 2
 * Blasphemous
 * Dread X Collection
 * FAR: Lone Sails
