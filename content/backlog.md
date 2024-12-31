@@ -20,18 +20,23 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
+* Donkey Kong Country Returns (Wii U) - *20h*
+* Donkey Kong Country: Tropical Freeze - *20h*
+* The Legend of Zelda: A Link Between Worlds - *20h*
+* The Legend of Zelda: Majora's Mask - *30h*
+* Okami - *42h*
+* Lost Odyssey - *65h*
+* Final Fantasy X - *70h*
 * Monolith: Relics of the Past - *17h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
 * Demon's Crest - *06h*
-* Okami - *42h*
 * Before Your Eyes
 * Metal Arms: Glitch in the System - *14h*
 * Biped
 * Flinthook
 * Fly'N
 * Geometry Wars 3: Dimensions Evolved - *14h*
-* Final Fantasy X - *70h*
 * FTL - *12h*
 * Into the Breach - *17h*
 * Rogue Legacy - *17h*
@@ -39,8 +44,6 @@ date = 2019-06-02T14:21:19.433Z
 * Bayonetta 2 - *13h*
 * Corpse Party - *12h*
 * Rez Infinite - *02h*
-* Donkey Kong Country Returns (Wii U) - *20h*
-* Donkey Kong Country: Tropical Freeze - *20h*
 * Pikmin - *09h*
 * Pikmin 2 - *20h*
 * Pikmin 3 - *16h*
@@ -50,12 +53,10 @@ date = 2019-06-02T14:21:19.433Z
 * FAR: Lone Sails
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*
-* The Legend of Zelda: Majora's Mask - *30h*
 * Crypt of the NecroDancer
 * Double Cross
 * Castlevania: Legacy of Darkness - *16h*
 * Toki Tori 2+ - *16h*
-* The Legend of Zelda: A Link Between Worlds - *20h*
 * Mother 3 - *30h*
 * Alundra - *32h*
 * Vagrant Story - *33h*
@@ -291,7 +292,6 @@ date = 2019-06-02T14:21:19.433Z
 * Breath of Fire V - *31h*
 * Smile For Me
 * Turnip Boy Commits Tax Evasion
-* Lost Odyssey - *65h*
 * Fantasy Tactics A2: Grimoire of the Rift - *79h*
 * Dark Cloud 2 - *71h*
 * The Last Remnant - *75h*
