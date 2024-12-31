@@ -11,7 +11,6 @@ date = 2019-06-02T14:21:19.433Z
 
 * Donkey Kong (GB)
 * Front Mission Series: Gun Hazard - *18h*
-* Cyberpunk 2077 - *70h*
 * Elden Ring
 * Baldur's Gate 3
 
