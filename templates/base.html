@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="plumber killer" >
-    <link rel="shortcut icon" href="{{ get_url(path="img/favicon.png") }}" type="image/x-icon">
-    <link rel="stylesheet" href="{{ get_url(path="css/main.css") }}">
+    <link rel="shortcut icon" href="{{ get_url(path="/favicon.png") }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ get_url(path="/main.css") }}">
     {% block rss %}
       <link rel="alternate" type="application/atom+xml" title="RSS" href='{{ get_url(path="atom.xml", trailing_slash=false) }}'>
     {% endblock %}
@@ -28,7 +28,7 @@
     <main class="max-width-5">
         {% block content %}{% endblock content %}
     </main>
-    <script src="{{ get_url(path="js/dark-mode-switch.min.js") }}"></script>
+    <script src="{{ get_url(path="/dark-mode-switch.min.js") }}"></script>
     {% block scripts %}{% endblock scripts %}
 </body>
 </html>
