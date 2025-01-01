@@ -7,6 +7,7 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I want.
 
 ## Misc
+* [Blinds](https://www.lowes.com/pd/allen-roth-AR-1-5-in-Gray-Blackout-Recycle-Cellular-Shade-52x64/1002822034)
 * Anything related to [Flitch](/flitch)
 * [Puma Smash v2](https://us.puma.com/us/en/pd/puma-smash-v2-sneakers/364989?search=true&swatch=56)
 * Mozilla shirt or mug
