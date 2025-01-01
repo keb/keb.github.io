@@ -33,10 +33,10 @@ date = 2019-06-02T14:21:19.433Z
 * Demon's Crest - *06h*
 * Before Your Eyes
 * Metal Arms: Glitch in the System - *14h*
+* Geometry Wars 3: Dimensions Evolved - *14h*
 * Biped
 * Flinthook
 * Fly'N
-* Geometry Wars 3: Dimensions Evolved - *14h*
 * FTL - *12h*
 * Into the Breach - *17h*
 * Rogue Legacy - *17h*
