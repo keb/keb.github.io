@@ -10,11 +10,11 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Donkey Kong (GB)
 * Front Mission Series: Gun Hazard - *18h*
+* Metroid Prime 3 - *16h*
+* Donkey Kong (GB)
 * Elden Ring
 * Baldur's Gate 3
-* Metroid Prime 3 - *16h*
 
 ## In order of intended play
 
