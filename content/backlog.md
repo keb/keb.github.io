@@ -8,7 +8,7 @@ date = 2019-06-02T14:21:19.433Z
 [/abandoned](/abandoned)\
 [/revisit](/revisit)
 
-## Currently playingasdf
+## Currently playing
 
 * Front Mission Series: Gun Hazard - *18h*
 * Metroid Prime 3 - *16h*
