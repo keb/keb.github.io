@@ -22,6 +22,7 @@ date = 2019-06-02T14:21:19.433Z
 
 * Donkey Kong Country Returns (Wii U) - *20h*
 * Donkey Kong Country: Tropical Freeze - *20h*
+* Super Metroid
 * The Legend of Zelda: A Link Between Worlds - *20h*
 * The Legend of Zelda: Majora's Mask - *30h*
 * Okami - *42h*
@@ -758,7 +759,6 @@ date = 2019-06-02T14:21:19.433Z
 * Tactics Ogre: Let Us Cling Together
 * Super Mario RPG: Legend of the Seven Stars
 * Super Mario Sunshine
-* Super Metroid
 * Jak 3
 * Celeste (finish B-Sides)
 * Bastion
