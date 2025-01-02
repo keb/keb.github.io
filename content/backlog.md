@@ -28,10 +28,12 @@ date = 2019-06-02T14:21:19.433Z
 * Okami - *42h*
 * Lost Odyssey - *65h*
 * Final Fantasy X - *70h*
-* Monolith: Relics of the Past - *17h*
+* Super Mario RPG Remake
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
 * Demon's Crest - *06h*
+* Secret of Mana - *25h*
+* Trials of Mana (1996) - *24h*
 * Before Your Eyes
 * Metal Arms: Glitch in the System - *14h*
 * Geometry Wars 3: Dimensions Evolved - *14h*
@@ -48,12 +50,11 @@ date = 2019-06-02T14:21:19.433Z
 * Pikmin - *09h*
 * Pikmin 2 - *20h*
 * Pikmin 3 - *16h*
+* Lightening Force: Quest for the Darkstar
 * Marvel's Spider-Man 2
 * Blasphemous
 * Dread X Collection
 * FAR: Lone Sails
-* Secret of Mana - *25h*
-* Trials of Mana (1996) - *24h*
 * Crypt of the NecroDancer
 * Double Cross
 * Castlevania: Legacy of Darkness - *16h*
@@ -75,6 +76,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy Tactics - *58h*
 * Sonic Mania - *09h*
 * OMORI
+* Monolith: Relics of the Past - *17h*
 * Jets'n'Guns 2 - *04h*
 * A Robot Named Fight! - *09h*
 * Radiant Historia - *40h*
@@ -700,6 +702,7 @@ date = 2019-06-02T14:21:19.433Z
 * Obscure
 * Obscure 2
 * Immortals Fenyx Rising
+* Monster World IV
 
 ## Multi-player (No particular order)
 
@@ -757,7 +760,6 @@ date = 2019-06-02T14:21:19.433Z
 * The Legend of Zelda: Ocarina of Time
 * The Legend of Zelda: Windwaker
 * Tactics Ogre: Let Us Cling Together
-* Super Mario RPG: Legend of the Seven Stars
 * Super Mario Sunshine
 * Jak 3
 * Celeste (finish B-Sides)
