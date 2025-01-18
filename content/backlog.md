@@ -8,17 +8,17 @@ date = 2019-06-02T14:21:19.433Z
 [/abandoned](/abandoned)\
 [/revisit](/revisit)
 
-## On Hold
-
-* Elden Ring
-* Baldur's Gate 3
-
 ## Currently playing
 
 * Persona 4 - *85h*
 * Metroid Prime 3 - *16h*
 * Donkey Kong (GB)
 * Donkey Kong Country Returns - *20h*
+
+## On Hold
+
+* Elden Ring
+* Baldur's Gate 3
 
 ## In order of intended play
 
