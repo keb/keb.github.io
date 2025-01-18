@@ -8,19 +8,22 @@ date = 2019-06-02T14:21:19.433Z
 [/abandoned](/abandoned)\
 [/revisit](/revisit)
 
-## Currently playing
+## On Hold
 
-* Front Mission Series: Gun Hazard - *18h*
-* Metroid Prime 3 - *16h*
-* Donkey Kong (GB)
 * Elden Ring
 * Baldur's Gate 3
+
+## Currently playing
+
+* Persona 4 - *85h*
+* Metroid Prime 3 - *16h*
+* Donkey Kong (GB)
+* Donkey Kong Country Returns - *20h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Donkey Kong Country Returns (Wii U) - *20h*
 * Donkey Kong Country: Tropical Freeze - *20h*
 * Super Metroid
 * The Legend of Zelda: A Link Between Worlds - *20h*
@@ -82,7 +85,6 @@ date = 2019-06-02T14:21:19.433Z
 * Radiant Historia - *40h*
 * Chrono Cross - *43h*
 * Final Fantasy VIII - *58h*
-* Persona 4 - *85h*
 * Persona 5 - *112h*
 * Rogue Galaxy - *50h*
 * Dragon's Dogma: Dark Arisen - *58h*
