@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [/backlog](/backlog)
 
+## Donkey Kong (GB)
+  * **4/5** (03/04/2025) - Fun as heck puzzle-platformer with unique and responsive jumping mechanics in 1994. Charming visuals, decent music, and plenty of content with 98+ levels. The great reveal after completing the first 5 levels is brilliant.
+
 ## Front Mission: Gun Hazard
   * **4/5** (01/17/2025) - A fantastic game with a sweeping globe-trotting story, unique and likable characters, amazing visuals, music, fun action combat paired with surprisingly deep RPG mechanics and varied upgrade system -- frustratingly held back by some ridiculous design decisions that rear their ugly heads constantly. Why do enemies cause damage upon death? What's with the insane difficulty spikes? Why do you have to individually step through locations one-by-one on maps? What's with the tedious maze levels? Why do only certain shops carry certain items, thus forcing you to painstakingly exit a map, to enter another one just to buy one item? Why is the only way to exit a stage to go ALL the way back to the beginning? Why can some missions only be completed if you equipped a very specific weapon that the game never indicates *even exists*? Anyway, that was a lot of criticism for a game that I actually love and thoroughly enjoyed.
 

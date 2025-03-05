@@ -12,7 +12,6 @@ date = 2019-06-02T14:21:19.433Z
 
 * Persona 4 - *85h*
 * Metroid Prime 3 - *16h*
-* Donkey Kong (GB)
 * Donkey Kong Country Returns - *20h*
 
 ## On Hold
