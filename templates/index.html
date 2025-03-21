@@ -38,20 +38,8 @@
                 <a href="/games">/games</a>
                 <a href="/books">/books</a>
                 <a href="/wishlist">/wishlist</a>
+                <a href="/archive/">/archive</a>
             </div>
         </header>
-        <div class="divider" aria-hidden="true"></div>
-
-        {% for post in section.pages | slice(start=0, end=6) %}
-            <article class="archive-link">
-                <time datetime="{{ post.date | date(format="%Y-%m-%d", timezone="America/New_York") }}">{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</time>
-                -
-                <header style="display: inline;"><a href="{{ post.permalink }}">{{ post.title }}</a></header>
-            </article>
-        {% endfor %}
-
-        <nav class="navigation">
-            <a href="/archive/">archive →</a>
-        </nav>
     </div>
 {% endblock content %}
