@@ -1,6 +1,5 @@
 +++
 title = "new home / mirrors"
-date = 2021-04-10T14:21:19.433Z
 +++
 
 # new home / mirrors

@@ -1,6 +1,5 @@
 +++
 title = "center of the universe"
-date = 2023-05-02T01:53:40.640Z
 +++
 
 # center of the universe

@@ -1,6 +1,5 @@
 +++
 title = "goodnight annabelle"
-date = 2024-04-06T14:21:19.433Z
 +++
 
 # goodnight annabelle

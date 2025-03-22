@@ -1,7 +1,7 @@
 +++
 title = "how to buy the ideal desk"
-date = 2019-06-03T14:20:50.709Z
 +++
+
 # how to buy the ideal desk
 
 I find that simple flat, sturdy surfaces make for the best desks.

@@ -1,6 +1,5 @@
 +++
 title = "free static site hosting"
-date = 2019-12-06T15:24:39.126Z
 +++
 # free static site hosting
 

@@ -1,6 +1,5 @@
 +++
 title = "javascript live examples"
-date = 2020-01-22
 +++
 
 # javascript live examples

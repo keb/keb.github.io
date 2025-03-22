@@ -1,7 +1,7 @@
 +++
 title = "simple writing platforms"
-date = 2019-12-06T15:24:16.429Z
 +++
+
 # simple writing platforms
 
 

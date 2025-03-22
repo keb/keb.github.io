@@ -1,6 +1,5 @@
 +++
 title = "amazon alternatives"
-date = 2019-08-28T14:23:56.056Z
 +++
 # amazon alternatives
 
