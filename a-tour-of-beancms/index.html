@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="plumber killer" >
+    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/main.css">
+    
+      <link rel="alternate" type="application/atom+xml" title="RSS" href='/atom.xml'>
+    
+    <title>
+        
+            A Tour of Bean CMS
+        
+    </title>
+</head>
+<body>
+    <div class="dark-mode-container">
+          <input style="display: none;" type="checkbox" id="darkSwitch" />
+          <label class="dark-mode-btn" for="darkSwitch">🌒</label>
+    </div>
+    <main class="max-width-5">
+        
+    <div class="controls p1">
+        <a href="https://github.com/keb/keb.github.io/edit/master/content/a-tour-of-beancms.md">edit</a>
+    </div>
+    <header class="h4">
+        <a href="/">← home</a>
+    </header>
+
+        
+            
+                <div class="toc">
+                    <ul>
+                        
+                            <li>
+                                <a href="#getting-up-and-running" title="Getting up and running">Getting up and running</a>
+                                
+                            </li>
+                        
+                            <li>
+                                <a href="#user-page" title="User Page">User Page</a>
+                                
+                            </li>
+                        
+                    </ul>
+                </div>
+            
+        
+
+    <article class="content">
+        <h1 id="a-tour-of-bean-cms"><a class="zola-anchor" href="#a-tour-of-bean-cms" aria-label="Anchor link for: a-tour-of-bean-cms">#</a>A Tour of Bean CMS</h1>
+<p><a href="https://github.com/kevinfiol/beancms">Bean CMS</a> is a minimalist content management system. I built it as a personal replacement for the great <a href="https://github.com/schollz/rwtxt">rwtxt</a>. The motivation to build Bean CMS was:</p>
+<ol>
+<li>
+<p>I wanted to self-host rwtxt, but had some changes I wanted to make to the core application.</p>
+</li>
+<li>
+<p>I wanted an excuse to build something using <a href="https://redbean.dev/">redbean.dev</a> and <a href="https://github.com/pkulchenko/fullmoon">fullmoon</a> while demonstrating that Redbean and Lua are viable options for building web applications</p>
+</li>
+</ol>
+<p>As a result of using redbean, Bean CMS is deployed as a single &gt;7MB file that runs natively on Windows/MacOS/Linux -- all without cross-compilation! Take a look at the <a href="https://github.com/kevinfiol/beancms">repo</a> for installation instructions.</p>
+<h2 id="getting-up-and-running"><a class="zola-anchor" href="#getting-up-and-running" aria-label="Anchor link for: getting-up-and-running">#</a>Getting up and running</h2>
+<p>In short, download <code>beancms.com</code> from the <a href="https://github.com/kevinfiol/beancms/releases">releases</a> page. On Linux/MacOS, <code>chmod +x beancms.com</code>. Then, on Windows/Linux/MacOS, simply run the file while using the current directory to store persisted data:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#bf616a;">./beancms.com -D</span><span> ./
+</span></code></pre>
+<p>Right away, you'll notice a <code>data</code> directory created next to your executable. This is where all persisted data for Bean CMS is stored. Bean CMS uses SQLite as supported by Redbean, which means to back up your site data, all you have to do is copy the <code>data</code> folder.</p>
+<a href="https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;18ed9c08-6e1e-456b-89b4-4421aa34c2c4"><img loading="lazy" src="https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;18ed9c08-6e1e-456b-89b4-4421aa34c2c4" alt="files screenshot" /></a>
+<p>Upon opening the site at <code>localhost:8080</code>, you'll see the welcome page. From here, new users can register, or existing users can log in.</p>
+<p>{{ img(src="https://github.com/user-attachments/assets/a21b2e28-971c-40a1-9d60-8784160ab11f") alt="welcome page" }}</p>
+<h2 id="user-page"><a class="zola-anchor" href="#user-page" aria-label="Anchor link for: user-page">#</a>User Page</h2>
+<p>Upon logging in, users are able to customize their profile pages by modifying their personal title, filling in an intro section, selecting from multiple free/open-source themes, or adding their own custom CSS that will apply to their profile page as well as their writings.</p>
+<video src="https://github.com/user-attachments/assets/193b7f3c-75a0-4ac4-9050-f8948b5b3ced" />
+    </article>
+
+    <footer>
+        <small>
+            <a href="#">return to top</a>
+        </small>
+    </footer>
+
+    </main>
+    <script src="/dark-mode-switch.min.js"></script>
+    
+</body>
+</html>
