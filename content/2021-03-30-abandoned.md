@@ -6,6 +6,9 @@ title = "abandoned"
 
 [/backlog](/backlog)
 
+## Secret of Mana
+  * Unfortunately, this one has not aged well. While it is highly influential in the action RPG space, Secret of Mana's script and plot leave much to be desired, characters are flat and uninteresting, dungeons are boring, and combat pretends to be real-time while feeling unresponsive and unsatisfying, with hit boxes that are unpredictable across enemy types. Since dropping this game, I have started its sequel (Seiken Densetsu 3) and it is already far above an improvement in every regard.
+
 ## Illusion of Gaia
   * A tremendously *mid* action RPG. Think Zelda, but with light RPG elements, and a non-sensical plot. Unfortunately even with some legitimately challenging boss fights, the dungeons here are boring, some puzzles are downright nebulous, and the English translation ranges from kinda cute to downright awful. A very mixed bag overall. Second in the unofficial Quintet trilogy. I'd say skip this one.
 
