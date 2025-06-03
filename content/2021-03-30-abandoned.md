@@ -6,6 +6,9 @@ title = "abandoned"
 
 [/backlog](/backlog)
 
+## Seiken Densetsu 3 (1996) 
+  * Well, that was short lived. I will say that SD3 is a drastic improvement on its predecessor. However, after 10 hours, it's hard to stay engaged. Similar to Secret of Mana, SD3 has a kind of pseudo real-time combat going on, and while it is improved, it is still woefully shallow. This game also has the worst menus I have ever seen. That said, it does have a killer soundtrack and easily the best visuals on the Super Nintendo.
+
 ## Secret of Mana
   * Unfortunately, this one has not aged well. While it is highly influential in the action RPG space, Secret of Mana's script and plot leave much to be desired, characters are flat and uninteresting, dungeons are boring, and combat pretends to be real-time while feeling unresponsive and unsatisfying, with hit boxes that are unpredictable across enemy types. Since dropping this game, I have started its sequel (Seiken Densetsu 3) and it is already far above an improvement in every regard.
 
