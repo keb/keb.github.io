@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="plumber killer" >
+    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/main.css">
+    
+      <link rel="alternate" type="application/atom+xml" title="RSS" href='/atom.xml'>
+    
+    <title>
+        
+            game library
+        
+    </title>
+</head>
+<body>
+    <div class="dark-mode-container">
+          <input style="display: none;" type="checkbox" id="darkSwitch" />
+          <label class="dark-mode-btn" for="darkSwitch">🌒</label>
+    </div>
+    <main class="max-width-5">
+        
+    <header class="h4 py2">
+        <a href="/">← home</a>
+    </header>
+
+    <article class="content">
+        <h1>game library</h1>
+
+        <p>This page contains my digital video game collection across multiple storefronts. The data is collected using a plugin for the <a href="https://playnite.link">Playnite</a> game launcher, which is then uploaded to a Github Gist.</p>
+
+        <form class="gamesearch-form">
+            <div class="input-group">
+                <input type="text" name="filter" aria-label="Search Library" placeholder="Search by Name or Store..." class="gamesearch-input">
+                <button class="gamesearch-clear" type="button" aria-label="Clear Filter" style="border-radius: 0;border-width: 1px 0px 1px 1px;">×</button>
+                <button class="gamesearch-submit" type="submit">Search</button>
+            </div>
+        </form>
+
+        <section class="gamelib-count">
+            0 games
+        </section>
+
+        <section class="gamelib">
+            <p style="text-align:center;font-family:monospace;">Loading Library...</p>
+        </section>
+    </article>
+
+    <div class="line"></div>
+    <footer class="mt2">
+        <small>
+            <a href="#">return to top</a>
+        </small>
+    </footer>
+
+    </main>
+    <script src="/dark-mode-switch.min.js"></script>
+    
+    <script type="text/javascript" src="/lunr.min.js"></script>
+    <script type="text/javascript" src="/gamelib.js"></script>
+
+</body>
+</html>
