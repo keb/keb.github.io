@@ -1,0 +1,8 @@
+<% for i, post in ipairs(sortedPosts(items)) do -%>
+  <% if limit and i > limit then break end -%>
+  <article class="archive-link">
+    <time datetime="<%= post.date %>"><%= (string.gsub(post.date, "-", ".")) %></time>
+    -
+    <header style="display: inline;"><a href="<%= post.permalink %>"><%= post.title %></a></header>
+  </article>
+<% end -%>

@@ -3,3 +3,4 @@ node_modules/
 public/
 templates/_mastodon-feed.html
 .stfolder
+luasmith*

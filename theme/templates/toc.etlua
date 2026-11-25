@@ -1,0 +1,10 @@
+<ul>
+  <% for _, h in ipairs(nodes) do -%>
+    <li>
+      <a href="#<%- h.id %>" title="<%- h.title %>"><%- h.title %></a>
+      <% if #h.children > 0 then -%>
+        <%- etlua.render(fs.readThemeFile("theme/templates/toc.etlua"), { nodes = h.children }) %>
+      <% end -%>
+    </li>
+  <% end -%>
+</ul>

@@ -1,39 +1,33 @@
 name: deploy
 env:
-  ZOLA_VERSION: 0.19.2
+  LUASMITH_VERSION: "0.10"
 on:
   push:
     branches:
       - master
-  # issue_comment:
-  #   types: [created]
   workflow_dispatch:
     inputs:
       tags:
-        description: 'tag' 
+        description: 'Description tag.'
 jobs:
   build-and-deploy:
-    if: ${{ github.event.issue.number == 1 || github.event.issue.number == null }}
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Download and Run Zola
+      - uses: actions/checkout@v7
+      - name: Download and Run luasmith
         run: |
-          wget "https://github.com/getzola/zola/releases/download/v$ZOLA_VERSION/zola-v$ZOLA_VERSION-x86_64-unknown-linux-gnu.tar.gz" -O zola.tar.gz
-          tar -xf zola.tar.gz
-          ./zola build
-
-      - name: Deploy to gh-pages
+          wget "https://github.com/jaredkrinke/luasmith/releases/download/$LUASMITH_VERSION/luasmith-$LUASMITH_VERSION-linux-x86_64.tar.gz" -O luasmith.tar.gz
+          tar -xf luasmith.tar.gz
+          ./luasmith theme.lua
+      - name: deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           single-commit: true
           git-config-email: <>
-          branch: gh-pages
+          branch: gh-pages 
           folder: public
-
       - name: Deploy to neocities
-        uses: bcomnes/deploy-to-neocities@v1
+        uses: bcomnes/deploy-to-neocities@v3
         with:
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           cleanup: false

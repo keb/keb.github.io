@@ -1,0 +1,24 @@
+<div class="controls">
+  <a href="https://github.com/keb/keb.github.io/edit/master/content/<%= file %>">edit</a>
+</div>
+<header>
+  <a href="/">← home</a>
+</header>
+
+<% for _, h1 in ipairs(toc) do -%>
+  <% if #h1.children > 0 then -%>
+    <div class="toc">
+      <%- etlua.render(fs.readThemeFile("theme/templates/toc.etlua"), { nodes = h1.children }) %>
+    </div>
+  <% end -%>
+<% end -%>
+
+<article class="content">
+  <%- content %>
+</article>
+
+<footer>
+  <small>
+    <a href="#">return to top</a>
+  </small>
+</footer>
